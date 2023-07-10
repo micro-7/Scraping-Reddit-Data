@@ -89,8 +89,7 @@ def get_post_comments_by_url(url='https://www.reddit.com/r/Cosmere/comments/14ni
     except Exception as e:
         print(e)
         return e
-
-
+              
 st.title("ENTER YOUR TOPIC")
 
 #with st.form(key = "form1"):
