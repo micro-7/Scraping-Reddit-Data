@@ -113,9 +113,39 @@ if savebtn and name and filetype == 'csv':
 elif savebtn and name and filetype == 'xlsx':
     result.to_excel(f'{name}.{filetype}', index=False)
 
-st.title('Select what to scrap')
-cols=  ['Comments', 'Time of posting','Upvote', 'Shares']
-selected_cols= st.multiselect('Select your action', cols)
-st.write(f'You selected: {len(selected_cols)} actions')
+#st.title('Select what to scrap')
+#cols=  ['Comments', 'Time of posting','Upvote', 'Shares']
+#selected_cols= st.multiselect('Select your action', cols)
+#st.write(f'You selected: {len(selected_cols)} actions')
+
+
+# st.title("Choose URL or ID ")
+# #Radio button to select URL or ID
+# form_selection = st.radio("Choose your action:", ("URL", "ID"))
+# #Now display the form according t
+# if form_selection == "URL":
+#     url = st.text_input("Enter URL")
+# elif form_selection == "ID":
+#     id = st.text_input("Enter ID")
+# # Submit button
+# if st.button("Submit"):
+#     st.write("Form submitted!")
+
+st.title("Choose URL or ID")
+# Radio button to select URL or ID
+form_selection = st.radio("Choose your action:", ("URL", "ID"))
+#Now display the form according to the user's selection
+if form_selection == "URL":
+    url = st.text_input("Enter URL")
+elif form_selection == "ID":
+    id = st.text_input("Enter ID")
+# Submit button
+if st.button("Submit"):
+    if form_selection == "URL":
+        df = get_post_comments_by_url(url)
+        st.write(df)
+    elif form_selection == "ID":
+        df = get_post_comments_by_id(id)
+        st.write(df)
 
 
