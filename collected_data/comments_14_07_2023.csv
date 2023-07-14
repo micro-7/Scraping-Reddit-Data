@@ -1,0 +1,1504 @@
+id,comment,author,score,author_is_blocked,banned_by,total_awards_received,subreddit,likes,created_utc,comment_type,ups,downs
+jprhqq9,"**Please ensure that your comment is formatted with the template above** and that you have looked to see if your bug has already been reported by another user. Sometimes common bugs have already been listed (and even solutions discussed). Un-formatted or off-topic comments will be removed.
+
+_If you would like to discuss and ask for additional technical support, please head over to /r/ValorantTechSupport!_
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/VALORANT) if you have any questions or concerns.*",AutoModerator,1,False,,0,VALORANT,,1687895437.0,,1,0
+jprjmd5,"After the patch none of the agent VO's are heard, not even ults or abilities, not even the ""MATCH FOUND"" sound. I tried restarting, playing other modes, turning on and off agent flavor, nothing helps.
+
+Edit: if it's still broken for yall, do try changing the game text on the Riot client settings, enter the game and play a match, it should be fixed (but in another language for the match) and then just revert it to your og language and you should be good to go.",HunterRipper,60,False,,0,VALORANT,,1687896162.0,,60,0
+jptcahx,"- Region: NA
+
+- Type of Bug: No audio
+
+- Description:  types of Voice lines (Including Ultimates) not present in-game
+
+- Video / Screenshot:   No video, sorry.
+
+- Steps to Reproduce:   Tried all match types same result
+
+- Expected Result:
+
+- Observed Result:
+
+- Reproduction Rate: Every time, even upon game restart
+
+- System Specs: i9-9900k, GTX 2080 Ti, 32GB or RAM, 5 TB SSD (Windows 10 PC).",jelloprimo,30,False,,0,VALORANT,,1687924647.0,,30,0
+jpsz9m6,"Region: NA  
+
+
+not getting any voice lines in game since new patch. such as ult voice lines, speaker announcing spike being planted, last man standing, match point etc. beginning of the round agents usually make a snarky comment, nothing. I go to my command/radio settings by pressing . (period) and none of the inputs are spoken or heard on my end.. so weird",BlockheightUnknown,28,False,,0,VALORANT,,1687918059.0,,28,0
+jprphan,"• Region: NA
+
+• Type of Bug: Client Bug
+
+• Description: Player names invisible, all chat room not connected, random lag spikes, no results screen after games, match history does not load, does not show RR change after comp unless I exit and reopen the game.
+
+• Video / Screenshot: -
+
+• Steps to Reproduce: Play any game mode and it happens
+
+• Expected Result: Visible player names, all chat functional, smooth fps, results after match.
+
+• Observed Result: Player names invisible, chat room not connected, random lag spikes, no results screen after games.
+
+• Reproduction Rate: 9/10
+
+• System Specs: Win 10, Ryzen 7 5800x, RX580
+
+Bug was reported in the 6.11 megathread as well but still exists with patch 7.00
+
+Link to 6.11 comment: https://old.reddit.com/r/VALORANT/comments/14323o4/valorant_611_bug_megathread/joscamk/",JustWannaReddit,24,False,,0,VALORANT,,1687898379.0,,24,0
+jpuknwm,"* Region: APAC
+* Type of Bug: Audio
+* Description: Agent voicelines, ability usage voice cues and pings are not audible.
+* Video / Screenshot: (Recorded for video evidence)
+   * https://drive.google.com/file/d/1cOSaH\_MdiaiAauiRNJeyrBZ6qO\_ITF4J/view?usp=sharing
+* Steps to Reproduce: Enter any gamemode(Including the Range) and use abilities of agents, including ultimates and ping areas on the map
+* Expected Result: Agents will call out voicelines upon using their abilities and pings will be marked with an audible voice cue.
+* Observed Result: Complete silence, with no agent voicelines or pings being made audible
+* Reproduction Rate: 10/10
+* System Specs:
+   * Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz,
+   * Windows 11 Home Single Language,
+   * 12 GB RAM (11.9 Usable)",Royal_Finish3r_1976,23,False,,0,VALORANT,,1687955640.0,,23,0
+jpv3ftl,"• Region: APAC / Philippines
+
+• Type of Bug: Matchmaking / Match Connectivity
+
+• Description: **Stuck in loading screen of previous game.**
+
+• Video / Screenshot:
+
+• Steps to Reproduce: Enter Matchmaking
+
+• Expected Result: The lobby enters matchmaking.
+
+• Observed Result: Players are sent to a black screen. When restarting the game, the players are sent back to the loading screen of the previous game.
+
+• Reproduction Rate: 2/2, can't replicate the bug when we're still stuck here.
+
+• System Specs: Intel i5 Processor, Windows 11, 1050Ti graphics card
+
+&#x200B;
+
+&#x200B;
+
+**Edit:** Came back after 1 hour",VinalChloride,23,False,,0,VALORANT,,1687963883.0,,23,0
+jq0r6bq,"\- Region: NA  
+\- Type of Bug: User Interface, Sound, etc  
+\- Description:  Not even sure where to begin, there are so many bugs that have just started happening over the past two weeks. Teammate and enemy names are randomly blank, some are muted, some CAN'T be muted, sometimes can't type in all chat (says I'm not connected), micro stuttering/frame drops throughout games that get worse as my game progresses (it's like my game slowly breaks down), hard full second stutter at the beginning of EVERY round, sometimes can't queue for games or get booted from the party even though it still shows me in the lobby, shows me still being in a game when I'm not, game hard crashes occasionally, can't see match history or postgame leaderboard  
+\- Video / Screenshot: Tbh there are too many things to screenshot  
+\- Steps to Reproduce: Basically just play the game and all of these things will happen  
+\- Expected Result: Interface should work properly, game should not be stuttering considering how easy this game is to run and since it has only just started happening recently. My game used to run flawlessly  
+\- Observed Result: Stuttering,   
+\- Reproduction Rate: 8/10  
+\- System Specs: AMD Ryzen 5 5600X, 16GB RAM, Nvidia 3060 Ti",seijeezy,22,False,,0,VALORANT,,1688060502.0,,22,0
+jq1df8z,"Region: North America
+
+Type of Bug: Matchmaking <Client and In game (seems related)  
+  
+• Description: Permanent loop when tryin to access match history of myself and friends, can't see anyones name in game, cant see whos talking in game, and micro stutters every couple seconds  
+  
+• Video / Screenshot: [https://imgur.com/a/EbTlVYR](https://imgur.com/a/EbTlVYR)
+
+  
+• Steps to Reproduce: literally just launch the game  
+  
+• Expected Result: Result: Interface should work properly, game should not be stuttering considering how easy this game is to run and since it has only just started happening recently. My game used to run flawlessly  
+  
+• Observed Result: infinite loading and game crashing when starting up (interestingly seeing that my CPU and GPU are almost underclocking themselves when launching the game) constant stutters, cant see peopls names, cant see whos talking,  
+  
+• Reproduction Rate: 9/10 (happened 9 out of 10 times) every now and then if i restart pc it will be normal ish but after 1 game it will return to horrible glitch mess  
+  
+• System Specs: Intel i5 Processor 12600k, Windows 10, 3060 ti, 32gb ddr4 3600mhz",Yubs2005,19,False,,0,VALORANT,,1688068914.0,,19,0
+jpt7tgb,"\- Region: NA
+
+\- Type of Bug: Audio Issue
+
+\- Description:   Character Voice lines (Including Ultimates) not present in-game
+
+\- Video / Screenshot:   No video, sorry.
+
+\- Steps to Reproduce:   Happens TDM and Swiftplay (only modes I've tried so far).
+
+\- Expected Result:
+
+\- Observed Result:
+
+\- Reproduction Rate: Every time, even upon game restart
+
+\- System Specs: i9-9900k, GTX 1080 Ti, 32GB or RAM, 2TB SSD (Windows 10 PC).
+
+&#x200B;
+
+UPDATE: Found a workaround thanks to another user, see below:
+
+I had this issue, fixed it with this steps:  
+  
+Close the game, open Riot's Client  
+  
+Click on the profile button on the top right of the screen, then click settings  
+  
+Select Valorant  
+  
+Change the game language to any other language and run the game, it will perform a quick update.  
+  
+Close the game and repeat the steps to change back to the desired language, it will ""update"" again.  
+  
+This fixed the audio for me.",Redwing330,17,False,,0,VALORANT,,1687922254.0,,17,0
+jpwpnds,"Region: EU (Belgium)
+
+\- Type of Bug:  No in-game Agent Comms
+
+\- Description:   While playing in the game, all ults and coms made from the agents are heard...
+
+\- Video / Screenshot:   [https://www.kapwing.com/w/chVN6xBdZE](https://www.kapwing.com/w/chVN6xBdZE)
+
+\- Steps to Reproduce:   Just started up valo no idea how it happened
+
+\- Expected Result: No in game agent coms
+
+\- Observed Result: ""              ""                  ""             ""
+
+\- Reproduction Rate:   no clue, just stays there until from what ive heard and seen as solutions, uninstalling riot client and valo and reinstalling (not tried yet)
+
+\- System Specs: Nvidea GTX 1650, Ryzen 5 5600x, 16 gb RAM, 1 Tb ssd (C:) & 5 Tb hdd (D:)",N_avY__,15,False,,0,VALORANT,,1687985993.0,,15,0
+jpt0u4l,[removed],,13,False,,0,VALORANT,,1687918799.0,,13,0
+jpsng0d,[removed],,13,False,,0,VALORANT,,1687912569.0,,13,0
+jpt96uj,"\- Region: NA  
+\- Type of Bug: Agent interaction  
+\- Description: Phoenix receives permanent DECAY effect when his ultimate is destroyed inside Viper's orb, even after the ultimate is expired (see video)  
+\- Video / Screenshot: https://streamable.com/g5gyn5  
+\- Steps to Reproduce: Cast Phoenix ultimate, then get killed by an enemy while inside Viper's orb  
+\- Expected Result: Decay effect disappears when Phoenix returns to normal form  
+\- Observed Result: Decay effect remains after Viper is killed/the orb is disabled  
+\- Reproduction Rate: 3/3  
+\- System Specs: RTX 3060, Intel i5 12400F, 16gb RAM, Windows 10 OS",johnjoe06,13,False,,0,VALORANT,,1687922965.0,,13,0
+jptfj81,"- Region: NA
+- Type of Bug:  Agent Interaction   
+- Description: Not 100% sure how it happened but it seems that I was getting permanently decayed as Yoru vs Viper, I also had a Viper on my team. Similar to the bug someone mentioned as Phoenix. It seemed like I wasnt receiving damage inside enemy Viper ult, but when my Viper ulted I would decay to 1 and be stuck there all round. May be related to Yoru un-ulting while in her smoke?
+- Video / Screenshot:  N/a
+- Steps to Reproduce: Unsure
+- Expected Result: Enemy Viper decays me and it goes away when i leave smoke
+- Observed Result: I get absolutely clapped by being stuck at 1 hp for the whole round
+- Reproduction Rate: N/a
+- System Specs: N/a",APintoNY,13,False,,0,VALORANT,,1687926508.0,,13,0
+jpsnk7w,[removed],,10,False,,0,VALORANT,,1687912621.0,,10,0
+jpu78a7,"\- Region: Asia Pacific  
+  
+\- Type of Bug: Sound and Visual (Flavor sounds)  
+  
+\- Description: No voicelines from agents and skill sounds. I can't see dead bodies, It is so hard to revive someone.  
+  
+\- Video / Screenshot: N/a  
+  
+\- Steps to Reproduce: Normal Matchmaking, Ranked  
+  
+\- Expected Result: Agents should talk and you should see ally dead bodies not just guns.  
+  
+\- Observed Result: No sounds. Too quiet. Feels like every agent is muted.  
+  
+\- Reproduction Rate: Every game  
+  
+\- System Specs: RAM 16GB , Ryzen 3600, RX580",_julan,11,False,,0,VALORANT,,1687947355.0,,11,0
+jpz0910,"Region: Asia
+
+\- Type of Bug: In-Game Bug  
+  
+\- Description: decay of viper's wall to 1hp indefinitely even under reyna ult .  
+  
+\- Video / Screenshot: -  
+  
+\- Steps to Reproduce: viper wall interaction with Reyna under Ult , even after kills with ultimate the health does replenish 
+
+\- Expected Result: permanent health debuff for the rest of the round leading to 1hp till the end of the round.  
+  
+\- Observed Result: Decay status and HP drop until 1HP till end of round.  
+  
+\- Reproduction Rate: very consistent with dismiss in viper's wall under reyna dismiss.  
+  
+\- System Specs: Amd Ryzen 5 5600x, 16GB 3200Mhz Ram, GTX 1050ti",beta-6969,11,False,,0,VALORANT,,1688030318.0,,11,0
+jq7irg4,"Region: NA  
+Type of Bug: Interface, In Game  
+Description: ""Could not load match history"", have to restart to see RR gain or loss. Paired with performance issues, stuttering that was not present before the update, specifically in pre-round and right when round starts.  
+Screenshot: [medal screenshot](https://medal.tv/games/valorant/clips/1h2nvmSZWmxZFP/d1337obB6H1O?invite=cr-MSwxRGQsMTQwMzU5Nzgs)  
+Steps to Reproduce: Play a game.  
+Expected Result: RR gain/lose and match end screen shows up at end of match.  
+Observed Result: Cuts right to lobby at end of match, states ""Could not load match history"" when attempting to view previous game.  
+Reproduction Rate: 8/10  
+System Specs:  Intel i5 11400F.  Nvidia 1660 Super, Windows 11",aainmn,11,False,,0,VALORANT,,1688175134.0,,11,0
+jqp37q9,"Region: NA
+
+Type of Bug: In Game Bug
+
+Description: Names do not show.
+
+Video/Screenshot: 
+
+https://ibb.co/kqwnJQV
+
+Steps to Reproduce: For me, anytime I launch a game some.
+
+Expected Result: Names to display.
+
+Observed Result: Some or all names are just blank/missing, teammates or enemies, any gamemode.
+
+Reproduction Rate: 9/10. Happens almost every time.
+
+System Specs: Intel i7 12700k, RTX 4070ti, Windows 11.",HumidMeerkat591,11,False,,0,VALORANT,,1688514877.0,,11,0
+jpsmzjk,"Region: NA
+
+Type of Bug: Que broke
+
+Description: I was put into a game of Swiftplay when the Agent Select timer was on 40ish seconds and everyone else had already locked. I picked a character and post game, the que never ended and I’m currently at 20 minute que time.
+
+Screenshot: I have a screenshot of que time, message me if you want it
+
+Steps to reproduce: haven’t been able to
+
+System Specs: I5 13700k, 4070ti, Asus Rogstrix MB, Corsair DDR5 RAM, WD 2TB SSD(the fastest one, forget name) plus 1GB down so I would be shocked if my equipment or internet delayed my que start time. Also I was put into Agent Select very quick and am usually the first to load in.
+
+Edit: Is happening every game. Has occurred in Swiftplay, Unrated and now Deathmatch. My Duo loads in instantly",,8,False,,0,VALORANT,,1687912361.0,,8,0
+jpts5uv,"• Region: SEA  
+  
+• Type of Bug: GAME LOADING AFTER THE GAME  
+  
+• Description: After the match, i am stuck in the loading screen where i see the team comps. i have tried restarting valorant twice and my computer twice as well. when i log into the game i still am directed to the load screen as if im playing (pretty sure it wont load since the match is already finished) 
+
+side note: this only happened after 3rd game
+
+• Video / Screenshot: n/a
+
+• Steps to Reproduce: play the game?  
+  
+• Expected Result: go back to main menu after game
+
+• Observed Result: stuck at loading screen  
+  
+• Reproduction Rate: N/a  
+  
+• System Specs: N/a",Resident_Ad_5005,9,False,,0,VALORANT,,1687935119.0,,9,0
+jptvkj4,"\- Region: EU (TR)  
+\- Type of Bug: Agents  
+\- Description: Agent voicelines are not working anymore.  
+\- Video / Screenshot: https://streamable.com/ha31rh  
+\- Steps to Reproduce: Unknown.  
+\- Expected Result: Voicelines on pings and ability uses would work.  
+\- Observed Result: Voicelines never worked, it doesn't even says ""here"" when i ping somewhere.  
+\- Reproduction Rate: 10/10  
+\- System Specs: Ryzen 3 2200G, Windows 10, GTX 1050 Ti, 16 GB DDR4",Senpai9756,12,False,,0,VALORANT,,1687937813.0,,12,0
+jpub24v,"Region: EU
+
+Type of Bug: In-Game/Settings
+
+Description: Settings for mature content (blood, corpses) are gone und disabled in-game.
+
+Screenshot: [https://1drv.ms/i/s!AjUVQnBNnZjT0FdHrG-WMnA\_aCvy?e=2OtR5l](https://1drv.ms/i/s!AjUVQnBNnZjT0FdHrG-WMnA_aCvy?e=2OtR5l)
+
+Steps to reproduce: Search for the settings/ Look for blood/corpses in-game
+
+Expected result: Show settings for mature content in General-tab, show mature content in-game.
+
+Observed result: No settings for mature content in General-tab, no mature content in-game.
+
+Reproduction rate: 10/10
+
+System Specs: Intel i5-13600KF, Nvidia RTX 4070 Ti, 32GB RAM, Windows 11
+
+Edit: Fixed for me",Raith231,10,False,,0,VALORANT,,1687950085.0,,10,0
+jpw3iwq,"All agent voice-overs got disabled, reinstalled valorant, got even more bugs and UI glitches like after I ulted as kayo all rounds after that my health was 750 + shield. 
+
+Uninstalled riot client, vanguard and valorant tracker and then reinstalled all this again now everything seems fine,",Miserable-Thanks5218,10,False,,0,VALORANT,,1687977578.0,,10,0
+jpv1dud,"• Region: ASIA  
+  
+• Type of Bug: Matchmaking  
+  
+• Description: After finishing a competitive game, I started to find a new match and an error appeared stating that there's an error with the matchmaking. After a few seconds, match has been found even though I didn't start it. Black screen appeared and I tried restarting the game. After the loading screen popped up, the same game (the last competitive match) showed up. I tried restarting the game, but there's no way to escape or end this bug.  
+  
+• Steps to Reproduce: After finishing a game, instantly start the matchmaking.  
+  
+• Expected Result: The matchmaking timer should show up and if a match has been found, you should proceed to the agent selection screen.  
+  
+• Observed Result: The same loading screen match shows up (previous game which has been finished already)  
+  
+• Reproduction Rate: 8/10  
+  
+• System Specs: R5 5600, 3060 Ti, 8GB RAM, Win 10",BattleDoom25,9,False,,0,VALORANT,,1687963063.0,,9,0
+jpw3jm6,"\- Region: EMEA
+
+\- Type of Bug:  IN-GAME BUGS
+
+\- Description:**1st. BUG : VOICE CHAT ""BINDING BUG""**
+
+I have my voice chat button on Mouse5 and every time I am ingame it bugs to the ""V"" button and I can only talk to it. When I look in the settings everything is even still on my normal settings. I have a hotkey on ""V"" and everytimew i want to talk it starts pinging every thing.
+
+&#x200B;
+
+**2ND BUG : NO IN-GAME AGENT AUDIOS ANYMORE**
+
+I don't know how this can actually happen. I don't hear any agent callouts anymore, no ult no calls when they plant or ping anything.
+
+\- Video / Screenshot: none available atm
+
+&#x200B;
+
+\- Expected Result:resolve in proper time
+
+&#x200B;
+
+\- Reproduction Rate: unknown, game and shipping files are running under admin privileges
+
+\- System Specs: i9 9900k running on base clock. zotac rtx 3060. 16gb 3200mhz ram .1TB samsung 980 EVO",umut774,9,False,,0,VALORANT,,1687977585.0,,9,0
+jprmsm6,haven't received my buddy,N3wPortReds,16,False,,0,VALORANT,,1687897368.0,,16,0
+jpsefm3,[removed],,8,False,,0,VALORANT,,1687908566.0,,8,0
+jpt4pfv,"\- Region: na
+
+\- Type of Bug:   can't view usernames / mute text chat / mute audio on the match menu, use the spray wheel, take a screenshot (whole client turns black), participate in chat because it says chat is not connected (though i can see it), lock in during match select, load the game (thx for the unfair dodge queue timer riot :\]), or view matchmaking results at the end of each game
+
+\- Description:  been happening for 3 weeks and i read everything is also happening to other people in the comments so i'm just adding mine
+
+\- Steps to Reproduce:   it's random on client load up. sometimes i can't lock in, or i can but the game won't load. sometimes peoples names are disappeared but i can still mute audio/text, and sometimes my spray wheel works sometimes it doesn't, sometimes i can take screenies sometimes i can't.  sometimes i can participate in chat and sometimes i can't, and usually an assortment of those things are broken all at once. its all just random on what is broken on each client load up.
+
+\- System Specs: geforce rtx 3090, windows 10, intel 12 core processor i7-12700kf, 4 tb ssd",rainblugs,9,False,,0,VALORANT,,1687920677.0,,9,0
+jpu8i3j,"\- Region: HK/Asia Pacif
+
+\- Type of Bug:   Team deathmatch queuing
+
+\- Description:   Stuck in the loading screen of the previous game after re-queuing. I even re-open the game and restart  my laptop.
+
+\- Video / Screenshot: [https://drive.google.com/file/d/1TIIFC2VHtmZvPk9VWCojB\_1p6KmMGkFw/view?usp=sharing](https://drive.google.com/file/d/1TIIFC2VHtmZvPk9VWCojB_1p6KmMGkFw/view?usp=sharing)
+
+\- Steps to Reproduce: After a team deathmatch game, re queue. It fail and tried to go to practice range.
+
+\- Expected Result: match found - agent select
+
+\- Observed Result: Stuck in the loading screen of the previous TDM game.
+
+\- Reproduction Rate: N/A
+
+\- System Specs: NITRO 5 LAPTOP - Intel core i5 - 10th gen, 24gb RAM, RTX 3050 ti mobile.",KGonzal0,8,False,,0,VALORANT,,1687948292.0,,8,0
+jpucfzw,"**Region:** EUW
+
+**Type of bug:** Audio
+
+**Description:** No audioques/voicelines from agents (abilities, ultimates, pings, etc.)
+
+**Video/screenshot:** N/A
+
+**Steps to reproduce:** Play any agent, use some abilities/pings, listen to audioques/voicelines.
+
+**Espected result:** The agent makes a voiceline/audioque when using abilities, ultimates and/or pings. This should be audible for teammates and enemies.
+
+**Observed result:** There is no voiceline/audioque when using abilities, ultimates and/or pings.
+
+**Reproduction rate:** 10/10
+
+**PC specs:**
+- **CPU:** AMD Ryzen 9 3900X
+- **GPU:** Nvidia RTX 2070 super
+- **RAM:** 32G DDR4 Trizent Z neo @3600mhz
+- **MOBO:** Aorus x570 Xtreme
+- **PSU:** Corsair RM750
+- **Cooler:** Cooler master ML360r
+- Windows 10",KoningSpookie,7,False,,0,VALORANT,,1687950991.0,,7,0
+jq0571o,"\- Region: EUW / Germany  
+\- Type of Bug:   Voicelines / Announcer is quiet  
+\- Description:   I hear no voicelines  
+\- Video / Screenshot:   Audio Issue  
+\- Steps to Reproduce:   Start the Game, Play a round  
+\- Expected Result: Voicelines  
+\- Observed Result: No Voicelines  
+\- Reproduction Rate:   100%  
+\- System Specs: WIN10 / AMD Setup",Pankraz01,7,False,,0,VALORANT,,1688052226.0,,7,0
+jroq5yq,"• Region: Asia  
+  
+• Type of Bug: Matchmaking  
+  
+• Description: Not able to enter any game mode, getting **Error: Could not enter matchmaking**  
+  
+• Video / Screenshot: https://imgur.com/g98Xwmp  
+  
+• Steps to Reproduce: Start the match  
+  
+• Expected Result: Match starting  
+  
+• Observed Result: Getting error message and not able to queue  
+  
+• Reproduction Rate: 10/10  
+  
+• System Specs: Intel i5 Processor, Windows 11, Nvidia Graphics card GTX 1660 super, 16 GB ram",Unga-Bunga-Slayer,10,False,,0,VALORANT,,1689179083.0,,10,0
+jps4ajb,"Another patch where this is an issue, another copy and paste from me (#10)
+
+\- Region: NA
+
+\- Type of Bug: MouseWheel Keybind Delays Pulling out Weapon/Knife
+
+\- Description:
+
+When ""Equip Melee Weapon"" is binded to Mouse Wheel Down (or any weapon), and you have your other weapons set to any bind, there is a delay before you can pull out your weapons/knife.
+
+For example, let’s say I’m holding any gun and I want to swap to my knife. To do this I’ll use Scroll Wheel Down. If I were to want to switch back to my gun immediately, there is a long delay (about half a second) before I can do so. This happens when the weapons are reversed (knife to gun and back to knife).
+
+\- Steps to Reproduce:
+
+1. Bind ""Equip Melee Weapon"" to Mouse Wheel Down
+2. Go in a game and get any gun.
+3. While holding the gun, scroll down and then quickly try to pull out your gun (any primary or secondary weapon bind works). When the gun is finally equipped in your hand, switch to you melee, then try to go back to your gun.
+
+\- Expected Result: Swapping back and forth between weapons can be done quickly.
+
+\- Observed Result: About a 0.5 second delay between either weapon equipping.
+
+[https://www.youtube.com/shorts/64J6hkhsLnA](https://www.youtube.com/shorts/64J6hkhsLnA)
+
+\*Video by u/auriolusvex
+
+\- Reproduction Rate: 10/10
+
+\- System Specs: Logitech G-Pro Superlight Mouse. Ryzen 7 5800x CPU. NVIDIA GeForce RTX 3060Ti GPU. 32 GBs of RAM. (This is not a system-related bug. Testing on multiple accounts, multiple computers, and all servers available to me)
+
+This has been an issue since the beginning of 6.02 :(
+
+Note: This bug probably has something to do with the brimstone spamming the molly fix, since if you only scroll one notch of your mouse, the problem doesn’t exist. I’m assuming the game is trying to delay you from using scroll wheel to spam interactives that have an audio tied to them (ziplines, spike plant/defuse, etc).",Twonewbe4u,7,False,,0,VALORANT,,1687904208.0,,7,0
+jpuia28,"\-Region: Bahrain
+
+\- Type of Bug: Audio
+
+\- Description: Agent voicelines, ability usage voice cues and pings are not audible.
+
+\- Video / Screenshot: N/A
+
+\- Steps to Reproduce: Enter any gamemode and use abilities of agents, including ultimates and ping areas on the map
+
+\- Expected Result: Agents will call out voicelines upon using their abilities and pings will be marked with an audible voice cue.
+
+\- Observed Result: Complete silence, with no agent voicelines or pings being made audible
+
+\- Reproduction Rate: 10/10
+
+\- System Specs: Intel i5-1135G7, Windows 10 Pro, 8 GB RAM",No_Game_No_Life332,7,False,,0,VALORANT,,1687954377.0,,7,0
+jpxubwq,"Region: NA  
+\- Type of Bug: In-Game Bug  
+\- Description: decay status and 1 HP indefinitely after a revive and a phoenix ult.  
+\- Video / Screenshot: [https://youtu.be/W5uQMUcVOfE](https://youtu.be/W5uQMUcVOfE)  [https://youtu.be/gfCP-bgQNlY](https://youtu.be/gfCP-bgQNlY)  
+\- Steps to Reproduce: Unknown   
+\- Expected Result: permanent health debuff for the rest of the round.  
+\- Observed Result: Decay status and HP drop until 1HP till end of round.  
+\- Reproduction Rate: very consistent with revives and phoenix ults.  
+\- System Specs: Amd Ryzen 9 3900x, 32GB 3200Mhz Ram, AMD RX 6700XT, AMD Adrenaline 23.5.2 Driver",Robo8Bit,6,False,,0,VALORANT,,1688003569.0,,6,0
+jq1t8ys,"I don't know if this bug has already been addressed but it's been in the game for a while so I figured I'd report it.
+
+&#x200B;
+
+Region: NA  
+  
+• Type of Bug: In game audio bug
+
+• Description: Viper Snake bite audio bug  
+  
+• Video / Screenshot: happens every time just try it  
+  
+• Steps to Reproduce: Launch snake bite as round is ending (so that it doesnt land before the round resets), go to where the molly was in the at the end of the round  
+  
+• Expected Result: New round so their shouldn't be any noise   
+  
+• Observed Result: you can still hear the snake bite in the air, this lasts all round  
+  
+• Reproduction Rate: 10/10   
+  
+• System Specs: Other people seem to be able to hear it also, so not a me thing.",Vol_1,7,False,,0,VALORANT,,1688074986.0,,7,0
+jqckka3,"\- Region: APAC  
+\- Type of Bug:   In game bug  
+\- Description:   Flying Brimstone card- doesn't matter if the round starts, the card stays there as long as Astra is alive (it's actually Astra in her astral form)  
+\- Video / Screenshot:   https://imgur.com/a/MrUwDPh  
+\- Steps to Reproduce:   Have an Astra in your team  
+\- Expected Result:   not relevant  
+\- Observed Result:   not relevant  
+\- Reproduction Rate:   7/10  
+\- System Specs:   not relevant",Fabulous-Panic-82,8,False,,0,VALORANT,,1688275425.0,,8,0
+jre7c7h,"• Region: EU
+
+• Type of Bug: Client bug
+
+• Description: Once the game is turned on, everything starts lagging, discord voice calls crash, pc restarts.
+
+• Video / Screenshot: Don't have.
+
+• Steps to Reproduce: Simply turning on the game
+
+• Expected Result: Not crashing pc?
+
+• Observed Result: Apps crashing and pc restarting.
+
+• Reproduction Rate: 10/10
+
+• System Specs: Windows 11, Rtx 3060TI, Ryzen 5 5700g",Exciill,7,False,,0,VALORANT,,1688991596.0,,7,0
+jptpj5p,"• Region: APAC
+
+• Type of Bug: Match Connectivity
+
+• Description: We (4 stack) queued up for Team Deathmatch and after we heard match found, we all got a black screen before agent select. We tried restarting the client but all of us are stuck in the loading screen of the last game and can't get out no matter how many times we restart the client. The game also occasionally makes the Valorant startup sound effect.
+
+• Video / Screenshot: [https://imgur.com/gallery/m0XLW0T](https://imgur.com/a/m0XLW0T)
+
+• Steps to Reproduce: N/a
+
+• Expected Result: We should be connected to the agent selection phase after we heard match found. As well as being able to get back in game after restarting the client.
+
+• Observed Result: All of us are stuck in the loading screen with the game occasionally making the Valorant startup sound effect.
+
+• Reproduction Rate: N/a
+
+• System Specs: N/a
+
+Our account names: NSS Ikuyo Kita#kitan , NSS Wasabi#TKYAN , Nino Valencia#PH2 , BOMA Fukodo#PHP
+
+**Edit: We are finally out of the loading screen after almost 30 minutes.**",DonutDesuyo,5,False,,0,VALORANT,,1687933147.0,,5,0
+jpu21j2,"\- Region: Asia Pacific  
+\- Type of Bug:   Sound  
+\- Description:   All in-game sound in agent flavors, tactical callouts, and announcers are gone   
+\- Video / Screenshot:   not having it   
+\- Steps to Reproduce:   just boot the game  
+\- Expected Result: The sound effects should come naturally  
+\- Observed Result: The sound effects are gone  
+\- Reproduction Rate: Everytime  
+\- System Specs: RAM 8GB, Ryzen 3200",Orbitat,6,False,,0,VALORANT,,1687943216.0,,6,0
+jpuouoi,"- Region: APAC
+- Type of Bug:  Match Connectivity
+
+- Description:   The whole lobby was experiencing 150ms ping and up. This happened for two separate ranked matches and  lasted the whole match for both games.
+We tried a team deathmatch in between ranked matches, but the ping was fine. Started again after firing up another ranked match.
+
+- Video / Screenshot:   [150 ping for the whole lobby](https://imgur.com/a/q0JvJXs)
+- Steps to Reproduce:  Play a ranked match in the Hong Kong server 
+- Expected Result: Normal match with our ping showing below 20ms like a normal game
+- Observed Result: The whole lobby, all players from different countries, experiencing 150ms ping in the Hong Kong server
+- Reproduction Rate:   2/2 ranked matches consecutively starting from 8pm Manila time
+- System Specs:
+  - Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz   2.59 GHz
+  - Windows 10
+  - 16Gb RAM",colddarkheart,6,False,,0,VALORANT,,1687957696.0,,6,0
+jpvqpfd,"**\[FIXED\]**
+
+&#x200B;
+
+\- Region: EU- Type of Bug:  In Settings- Description: The Option ""Show mature content"" doesnt show in the settings for me- Video / Screenshot:  [https://ibb.co/4RXmFDC](https://ibb.co/4RXmFDC) & [https://ibb.co/yNNtJCC](https://ibb.co/yNNtJCC)\- System Specs: Intel i7, windows 11,  3070ti
+
+&#x200B;
+
+**\[HOW TO FIX\]**
+
+*I contacted support and they send me this and fixed the issue for me:*
+
+Since this is quite an unusual issue, I'd recommend reinstalling the game. In some situations, a manual reinstall might not be enough. In which case, the alternative that I suggest in order to fully ensure that there is no corruption or leftover files that might cause this problem. For that you can perform clean reinstall, I'll share with you the steps for that below.  
+   
+Please follow every step carefully and in the correct order.  
+■ Let's clean up the files from the game, and uninstall it:  
+• Go to your C:\\Riot Games folder and delete the Riot Client folder.  
+• Then enter %localappdata% into the top bar of Windows Explorer and delete the Riot Games folder  
+• Next, paste %programdata%. Once again, delete the Riot Games folder from there, then empty the Recycle Bin.  
+• Install Revo Uninstaller and completely remove Riot Vanguard and VALORANT from your PC.  
+• Also make sure that you don't have an installation of VALORANT on other HDD drives.  
+• Get CCleaner and clean all the registries and corrupted files from your computer.  
+■ It is of paramount importance that at this point, you do a clean boot of your PC. This will prevent other apps from interfering with the installation.  
+■ Then you'll need to re-download the game from here.  
+• Make sure to install it in the default location on the C:\\ drive (we recommend having at least 20 GB of free space before the installation).  
+• Also, make sure to run the installer with Administrator permissions.  
+• You will need to restart your PC when prompted to finish reinstalling Riot Vanguard. And you can go back to the clean boot article and do the steps to reset the computer to start normally.  
+• Before you launch the game for the first time, disable your antivirus and follow this guide on configuring firewalls. These are the filepaths you need to add:  
+C:\\Riot Games\\VALORANT\\live\\VALORANT.exe  
+C:\\Riot Games\\VALORANT\\live\\ShooterGame\\Binaries\\Win64\\VALORANT-Win64-Shipping  
+C:\\Program Files\\Riot Vanguard\\vgc.exe  
+C:\\Riot Games\\Riot Client\\RiotClientServices.exe",1Twxster,6,False,,0,VALORANT,,1687972781.0,,6,0
+jpvra5r,"**- Region:** APAC-SG Server  
+**- Type of Bug:**   In-Game Bug  
+**- Description:**   Yoru remain in decay status and 1 HP indefinitely after using Yoru Ult with viper enemy present.   
+**- Video / Screenshot:**   https://www.youtube.com/watch?v=ck4S87WfRDM  
+**- Steps to Reproduce:**   Use yoru ult and Exit the ult to see the decay effect starts and remain till the end of round.   
+**- Expected Result:** Exit Yoru Ult and HP remain as before using it.   
+**- Observed Result:** Exit Yoru Ult and gets Decay status and HP drop until 1HP till end of round.   
+**- Reproduction Rate:**  Once. Stop playing yoru after that.     
+**- System Specs:** Amd Ryzen 5600, 32GB 3200Mhz Ram, Sapphire Pulse AMD 5700XT, AMD Adrenaline 23.5.2 Driver",mr2009,6,False,,0,VALORANT,,1687972994.0,,6,0
+jq4q11y,"• Region: AP (Specifically Mumbai Servers)  
+  
+• Type of Bug: In-Game  
+  
+• Description: Viper Decay Fully Decays HP even Without a Viper Ult  
+  
+• Video / Screenshot: https://streamable.com/mxksca  
+  
+• Steps to Reproduce: Just get hit by anything of Viper that provides Decay? OR Go through whatever provides from Viper while in Reyna Dismiss.  (I haven't tried to reproduce this but this happened 3-4 times in the same game)  
+  
+• Expected Result: Get Inflicted by Decay, and the HP goes all the way down to 1 HP incluing shields.  
+  
+• Observed Result: Decay is inflicted after getting out of the dismiss and the Decay makes you 1 HP + 1 HP Shields.  
+  
+• Reproduction Rate: 10/10  
+  
+• System Specs: AMD Ryzen 9 5980HX, AMD Radeon 6800M, 16 GB 3200MHz 8x2 RAM, 1 TB Samsung SSD {ROG STRIX G15 Advantage Edition)",Chibi-Ruby,7,False,,0,VALORANT,,1688133676.0,,7,0
+jptu8l4,"- Region: JP/Tokyo
+
+- Type of Bug: No audio
+
+- Description:  Types of Voice lines/Announcements not present in-game
+
+- Video / Screenshot:   No video, sorry.
+
+- Steps to Reproduce:   Tried all match types same result
+
+- Expected Result:
+
+- Observed Result:
+
+- Reproduction Rate: Every time, even upon game restart
+
+- System Specs: Ryzen 7 7700X, GTX 2060Ti, 32GB DDR5, 2 TB SSD (Windows 11 PC).
+
+
+Give me back my RR. Queued in COMP. Very frustrating.",developer_144,10,False,,0,VALORANT,,1687936738.0,,10,0
+jptoz9k,"• Region: APAC  
+  
+• Type of Bug: In Game Bug  
+  
+• Description: You can buy double 25 shields (haven't tested 50)  
+  
+• Video / Screenshot: https://medal.tv/games/valorant/clips/1gxkcPTAJvXRev/d1337xfpBgQx?invite=cr-MSx4bWQsMzkyNTQwMzUs  
+  
+• Steps to Reproduce: from the 50 shields double click the 25 shields owned from the previous round  
+  
+• Expected Result: Nothing happens  
+  
+• Observed Result: Lose credit for owned shield  
+  
+• Reproduction Rate: 10/10 (happened 10 out of 10 times)
+
+• System Specs: Intel i7 Processor, Windows 10 pro 64b, Nvidia Graphics card 1050",longtt32,4,False,,0,VALORANT,,1687932739.0,,4,0
+jptra9o,"• Region: APAC
+
+• Type of Bug: IN-game bug
+
+• Description: I entered a TDM match but I was stuck on the map loading screen. I can hear audio and my character taking damage. But could't see anything
+
+• Steps to Reproduce: N/a
+
+• Expected Result: The game should've loaded the match and switched to in-game view
+
+• Observed Result: I'm stuck on map loading screen with in game audio playing
+
+• Reproduction Rate: N/a
+
+• System Specs: N/a",coomiemarxist,5,False,,0,VALORANT,,1687934453.0,,5,0
+jpu15gu,"• Region: APAC  
+  
+• Type of Bug: Agent Bug  
+  
+• Description: Chamber TP is significantly delayed resulting in death when TPing  
+  
+• Video / Screenshot: NIL   
+  
+• Steps to Reproduce: Use chamber TP in game  
+  
+• Expected Result: TP should be instant, no stutter/jitter  
+  
+• Observed Result:  TP delayed for a split second  
+  
+• Reproduction Rate: 10/10 (happened 10 out of 10 times)   
+  
+• System Specs: NIL",EpicRayy,5,False,,0,VALORANT,,1687942468.0,,5,0
+jr2v1lw,"- Region: NA
+- Type of Bug: In-game   
+- Description: When playing with an Astra, a random Brimstone in the sky may appear.
+- Video / Screenshot: https://www.reddit.com/r/VALORANT/comments/14hh1dp/creepy_flying_brimstone/
+- Steps to Reproduce:
+  1. Start a game with an ally Astra
+  2. Be in the preround
+  3. Have Astra go into her Astral form
+  4. See a random Brimstone in the sky
+- Expected Result: Nothing
+- Observed Result: A random Brimstone in the sky
+- Reproduction Rate: 5%   
+- System Specs: AMD 3700x, Windows 10, Nvidia Graphics card RTX 2080 SUPER",Fa1l3r,6,False,,0,VALORANT,,1688766796.0,,6,0
+jpupci1,"Region: EU
+Type of Bug: Language 
+Description: I selected Italian but the game is in English, even if I restart the game.",Amekaze_,5,False,,0,VALORANT,,1687957926.0,,5,0
+jpvax4t,[removed],,4,False,,0,VALORANT,,1687966808.0,,4,0
+jpypmnq,"\- Region: APAC / Philippines
+
+\- Type of Bug: In-Game Bug
+
+\- Description:  No ""Show Mature Content"" In General Settings
+
+\- Video / Screenshot: Sorry none
+
+\- Steps to Reproduce: Play Game and check settings
+
+\- Expected Result: Resolve over time
+
+\- Observed Result: Still no ""Show Mature Content""
+
+\- Reproduction Rate: Uknown atm
+
+\- System Specs: Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz,  
+
+
+Edit: As expected results, it just came back",ReeeImCool,4,False,,0,VALORANT,,1688021559.0,,4,0
+jq85n1j,"- Region: NA
+- Type of Bug: In Game/Bindings   
+- Description: My regular Push to Talk is T, and it randomly is set to V on random games. My V is my spray button. If I try to rebind either in game, it doesn't rebind, and both are stuck on V together.",BlackSparkz,5,False,,0,VALORANT,,1688188398.0,,5,0
+jqmy2w5,"\- Region: EUW  
+\- Type of Bug:  Graphical Issue  
+\- Description:  Taking screenshots results in the screen appearing as a black window and an inability to use Nvidia Shadowplay, After enabling the instant replay it turns off again instantly.  
+\- Video / Screenshot:   Unable to grab due to it being disabled  
+\- Steps to Reproduce:   Boot Into Valorant on the latest patch and press WIN + SHIFT + S or have Nvidia Shadowplay Turned On  
+\- Expected Result: Screen shots to appear and for shadowplay to not turn off instantly,  
+\- Observed Result:  Black screenshots and Unable to capture videos,  
+\- Reproduction Rate:   3/3  
+\- System Specs: Win10, RTX 2080 Super, Ryzen 7 3800x",dansofwar,3,False,,0,VALORANT,,1688481367.0,,3,0
+jqo08f9,"\- Region: NA  
+\- Type of Bug:  Controls  
+\- Description:  When push-to-talk is set to a mouse button, the push-to-talk button will randomly reset to the default button (V) between games then back to the mouse button it was set to. This flips between almost each game played.  
+\- Video / Screenshot:  Can't get a video of my keyboard and the game simultaneously unfortunately :/  
+\- Steps to Reproduce:   Launch game, play any gamemode, press PTT, it doesnt work, press (V), it works  
+\- Expected Result: I can use my mouse button for PTT at all times  
+\- Observed Result: Sometimes I can, sometimes I can't  
+\- Reproduction Rate: 100% as of right now  
+\- System Specs:  
+Win11, RTX 3070TI, Intel Core i9-10850K",siaozen,5,False,,0,VALORANT,,1688497325.0,,5,0
+jr3ivlp,"**• Region:** NA
+
+**• Type of Bug:** In-game
+
+**• Description:** Deadlock utility, Sonic sensor activates/remains active after agent death
+
+**• Video / Screenshot:** [https://streamable.com/jxv6ma](https://streamable.com/jxv6ma), [https://streamable.com/3gv8j7](https://streamable.com/3gv8j7)
+
+**• Steps to Reproduce:** Another player must kill Deadlock while she throws the Sonic sensor and before it fully turns invisible.
+
+**• Expected Result:** Sonic sensor does not activate/deactivates and remains inactive.
+
+**• Observed Result:** Sonic sensor turns invisible and activates/remains active throughout the rest of the round.
+
+**• Reproduction Rate:** 10/10, 100%
+
+**• System Specs:** Ryzen 3850x, Nvidia 2070 S.",SpearofArvess,5,False,,0,VALORANT,,1688777708.0,,5,0
+jprxhkx,"I got scammed I pressed the recruit deadlock button and was hoping to receive a confirmation box which I didn't and 1000 credits got deducted from my account anyway for a refund?
+
+e: got the refund after raising a support ticket",TyroshiSellsword,12,False,,0,VALORANT,,1687901447.0,,12,0
+jpsd005,[removed],,3,False,,0,VALORANT,,1687907943.0,,3,0
+jpu2545,"• Region: NA  
+  
+• Type of Bug: Matchmaking < In Game Bug with Phoenix.>  
+  
+• Description: Matchmaking doesn't work properly ( when I used the Phoenix ULT i get a random decay that brings my HP to 1hp for no reason...  
+  
+• Video / Screenshot: 
+
+1) [https://streamable.com/v7auuy](https://streamable.com/v7auuy)
+
+2)[https://streamable.com/wyqgx4](https://streamable.com/wyqgx4)
+
+• Steps to Reproduce: Try to launch a game <I was just playign a ranked game. probably related to the new agent with viper?   
+  
+• Expected Result: Match starting <during the game
+
+• Observed Result: Sruck with 1HP due to be affected by a decay  
+  
+• Reproduction Rate: it happened twice using Phoenix ULT  
+  
+• System Specs: Intel i7 Processor, Windows 7, Nvidia Graphics card 2070",Glass-Signature-5308,3,False,,0,VALORANT,,1687943296.0,,3,0
+jpvhd3j,[removed],,3,False,,0,VALORANT,,1687969281.0,,3,0
+jpzl34q,"Region: EU (I live in South Africa)
+
+- Type of bug: In-game ping issue
+
+- Description: Ever since the new update, the Bahrain server’s ping has been 225 for me, as well as other players who live in South Africa. Before the update, it was 127. 
+
+- Video/Screenshot: -
+
+- Steps to reproduce: Load up the game in South Africa and look at Bahrain’s ping (supposed to be lowest ping server). 
+
+- Expected result: Have around 130 ping
+
+- Observed result: 225 ping
+
+- Reproduction rate: Ever since the new Episode update
+
+- System specs: RTX 3080ti, Intel 12900K, 64GB RAM",KadzYT,3,False,,0,VALORANT,,1688043672.0,,3,0
+jq0gmi7,"Copypaste for one more patch since it's not fixed for year
+
+Region: EU (irrelevant)
+
+Type of Bug: Ingame / Skin
+
+Description: Gaia Ghost Skin has louder left-sided sound, this bug has been here since release of the skin.
+
+Video / Screenshot: [https://www.youtube.com/watch?v=pHLP6CDTgvE](https://www.youtube.com/watch?v=pHLP6CDTgvE)
+
+Steps to Reproduce: Equip a Gaia Ghost skin, use Stereo audio.
+
+Expected Result: Sound should be equally loud for both ears
+
+Observed Result: If you use EQ software you can see audio being louder on the left in stereo spectrum, you also hear it in game
+
+Reproduction Rate: 10/10
+
+System Specs: Irrelevant",Lekserr,3,False,,0,VALORANT,,1688056561.0,,3,0
+jq6r5t9,"- Region: EU
+- Type of Bug: In Game Bug
+- Description: When spectacting allies I see enemies run out of their hiding spots as if they were Yoru's decoys. No one else seems to be seeing it.
+- Video / Screenshot: https://www.youtube.com/watch?v=x1vSF_W3rsA
+- Steps to Reproduce: Die and spectate your alies with enemies around. I don't know what else I could be doing to trigger it.
+- Expected Result: I should see what the player I'm spectacting sees.
+- Observed Result: I see the enemies run out of their hiding spots, which gives me insight on where they are hiding and also this is dumb in general that it happens.
+- Reproduction Rate: Happens to me at random but often. In 2 days it already happened 3 times.
+- System Specs: Intel i5-8600, 16GB DDR4, GeForce 1070 Ti, Windows 10",Mineralke,3,False,,0,VALORANT,,1688162138.0,,3,0
+jq7upk1,"•region: PH
+•Type of bug: in game and client
+•description: match summary and match history will not show. Game lags when encountering enemy. Spike being invisible at times, but still visible in the mini map. Game freezing at map screen upon match found. System changes will not be changed. Comms issues for party and team voice. Game client says error into logging in. One time in the game, it was flashed on my screen my round lost team eliminated while we were still playing the game. Only I saw it though so idk
+•steps to reproduce: open valorant through short cut. Queue up for match. Finish a match. Simply play the game. 
+•reproduction rate: for match making and opening client- 10/10. Comms issue- 8/10. System changes refuses to cooperate- 10/10 spike being invisible- 1/10 game lags when seeing enemy- 8/10 lost screen flashing- 1/10
+•system specs: Intel(R) core(TM) i7-2670QM windows 10 pro",charliechar99,3,False,,0,VALORANT,,1688181588.0,,3,0
+jqcjenx,Sage wall not rotating when pressing C during Lotus unrated game,nishinoyu,2,False,,0,VALORANT,,1688274613.0,,2,0
+jr8w3jh,"- Region: NA
+- Type of Bug: in-game; bindings
+- Description: shared defuse/interact keybind causes jank
+- Reproduction steps
+
+1. Get tagged by Cypher camera, or caught by Deadlock GravNet
+2. Attempt to start a defuse using shared bind.
+3. Confirm that you can still defuse using a unique defuse bind.
+
+- Expected results: defuse takes priority over interact (due to being a critical task) 
+- Observed results: defuse animation starts for one frame, followed by a bugged removal timer for the ability
+- Reproduction rate: 10/10
+- Other comments: may also affect planting, haven't tested; doesn't not kick players off defuse",overestimate_,3,False,,0,VALORANT,,1688882815.0,,3,0
+jrhiafz,"Region: AU
+
+Type: Visual
+
+Description: Player showed up as level 200k
+
+Picture: [https://imgur.com/reIkUdC](https://imgur.com/reIkUdC)
+
+Steps to reproduce: Play Brimstone in Bind against Kayo
+
+Expected: Player shouldve been a normal level
+
+Observed: Player is shown as level 200k
+
+Reproduction Rate: 0/10 (No idea how it happened0
+
+System Specs: 1th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz   2.80 GHz",how2createname,3,False,,0,VALORANT,,1689041927.0,,3,0
+jrjpj1e,"* Region: NA
+* Type of Bug:  In game
+* Description:  Cypher Cam tagging enemies working incorrectly
+* Video / Screenshot:   None
+* Steps to Reproduce:  Use Cypher cam to tag an enemy and immediately get off camera. If you're fast enough you will notice that you can't see that first ping.
+* Expected Result: Should see the enemy on that first ping.
+* Observed Result: When playing Cypher, I noticed that the camera tagging an enemy isn't producing their outline you would see through walls. More specifically, it seems that it outright wont ping the enemy on the first tick. By ticks, I mean the every few seconds before revealing their outline again.
+* Reproduction Rate:   10/10",Emron_Hero,3,False,,0,VALORANT,,1689089965.0,,3,0
+jrqc61k,"
+    - Region: NA 
+    - Type of Bug:   Client bug?
+    - Description:   75% of the games i try to start, the game gets stuck at the loading screen, while the game has loaded for everyone else i assume? When i realize i’m stuck, I alt f4 and by the time I rejoin it’s either a remake or my team is down 0-2 . Then I’m hit with an AFK WARNING!!! This never happened before the 7.0 recent patch
+    
+    
+    - System Specs: GeForce RTX 3080ti , i7 12700k
+and i always have one of the best ping in the lobby so i know it’s not my internet. I’ve tried reinstalling and same thing. So frustrating it makes me not want to play even though it’s my favorite game",j_tripp22,3,False,,0,VALORANT,,1689201625.0,,3,0
+jpu2fzp,"\- Region: Asia Pacific  
+\- Type of Bug:  In-Game  
+\- Description:  Refunded skin stay in favorites - but still got picked in the skin randomizer therefore it falls back to the standard skin  
+\- Video / Screenshot:   [https://postimg.cc/hXB6FdJ4](https://postimg.cc/hXB6FdJ4)
+
+\- Steps to Reproduce:  Random, depending on the skin randomizer   
+\- Expected Result: The gun should be unfavorited or the randomizer doesn't pick unowned skins  
+\- Observed Result: The refunded skin still get selected by the randomizer and thus falls back to standard guardian  
+\- Reproduction Rate: Random    
+\- System Specs: Ryzen 3 3200, RAM 8GB",Orbitat,3,False,,0,VALORANT,,1687943545.0,,3,0
+jptv14t,"\- Region: EU  
+\- Type of Bug: In Game Bug / Agents  
+\- Description: I unlocked Gekko yesterday (27.06.2023). I started the game like 30 Minutes ago and now i dont have him. But when I look at his contract it shows me that I unlocked the first 5 stages.  
+\- Video / Screenshot: https://gyazo.com/b494ef4e2bc124bd0b3b609d0ae88e25  
+\- Steps to Reproduce: N/a  
+\- Expected Result: Unlocked Gekko  
+\- Observed Result: Locked Gekko  
+\- Reproduction Rate: N/a  
+\- System Specs: Ryzen 7 5700X  RX 6800  16GB DDR4   WIN 11",NoIdea420xd,2,False,,0,VALORANT,,1687937375.0,,2,0
+jpv0jwa,"**- Region:**
+
+SEA, Vietnam (GMT+7)
+
+**- Type of Bug:**
+
+Agent's contract unlocking
+
+**- Description:**
+
+I have unlock Agent Chamber before Valorant 7.0 update now i don’t have him in my account
+
+**- Video / Screenshot:**
+
+**First pic when i have just unlocked him:** [https://drive.google.com/file/d/1ziD1jOxCaH\_hhm4GrQouvroMIsv5Hewe/view?usp=sharing](https://drive.google.com/file/d/1ziD1jOxCaH_hhm4GrQouvroMIsv5Hewe/view?usp=sharing)
+
+**Second pic when this morning his gear is unlocked at step 5 but i dont have** **him:**[https://drive.google.com/file/d/190UNQ88QmYvB-cvhsiQxwXfmIozFJg1l/view?usp=sharing](https://drive.google.com/file/d/190UNQ88QmYvB-cvhsiQxwXfmIozFJg1l/view?usp=sharing)
+
+**- Steps to Reproduce:**
+
+1. Play the game 1 day before the update (I played at night arounds 22:00 27/6/2023, The maintenance start at 4:00 28/6/2023)
+2. Unlock an agent through agent’s contract
+3. Check back on the agent after maintenance
+
+**- Expected Result:**
+
+I have unlocked Chamber on my account and his gear is unlocked till level 5
+
+**- Observed Result:**
+
+I have not unlocked chamber on my account but his gear is unlocked till level 5
+
+**- Reproduction Rate:**
+
+**- System Specs:**
+
+HP Pavilion Notebook - 15-ab071tx
+
+Microprocessor: 2.4 GHz Intel Core i7-5500U with Intel HD Graphics 5500
+
+Memory: 8 GB DDR3L-1600 SDRAM (1 x 8 GB)
+
+Video Graphics: NVIDIA GeForce 940M (2 GB DDR3L dedicated)
+
+System: Window 10 pro 64bit",Ill-Preparation7630,2,False,,0,VALORANT,,1687962725.0,,2,0
+jpvjd7y,[removed],,2,False,,0,VALORANT,,1687970038.0,,2,0
+jq5isc0,"\-Region: NA
+
+\-Type of Bug: Visual, Cheaty
+
+\-Description: When playing Brimstone, I have noticed that after placing down smokes they will sometimes flicker, allowing me to see through the smoke which has on more than one occasion gave me an obvious advantage on knowing exactly where the enemy in the smoke is. 
+
+\-Video Link: [https://drive.google.com/file/d/1wpV5fdETVKW-159TRUHdPZ9L1jRX2JEo/view?usp=sharing](https://drive.google.com/file/d/1wpV5fdETVKW-159TRUHdPZ9L1jRX2JEo/view?usp=sharing) The bug occurs shortly after 0:20, you can see smoke flicker off for a short period of time
+
+\-Steps to reproduce: I assume just play with Brimstone, I don't believe it is map specific. I play on 50-100 ping, on very unstable connection so maybe that has something to do with it.
+
+\-Expected Result: Smoke should not flicker
+
+\-Observed Result: Smoke flickers letting me unfairly see enemies
+
+\-Reproduction Rate: Happens nearly every time I smoke as far as I know
+
+\-Specs: AMD Ryzen 5 5600X, Windows 10 Pro Version 22H2, 32gb RAM, NVIDIA GeForce RTX 3060 Ti.",AfraidTuna,2,False,,0,VALORANT,,1688144637.0,,2,0
+jqcl6sd,"\- Region: APAC  
+\- Type of Bug:   Matchmaking  
+\- Description:   After the loading screen with both teams just before the match, it doesn't start and goes back to queue  
+\- Video / Screenshot:   N/A  
+\- Steps to Reproduce:   Queue into a match and wait for the loading screen  
+\- Expected Result:   Match Starts  
+\- Observed Result:   Match randomly cancels and goes back to home screen without any information  
+\- Reproduction Rate:   4/10 (Happened about 4-5 times, so not too common)  
+\- System Specs: N/A",Fabulous-Panic-82,2,False,,0,VALORANT,,1688275876.0,,2,0
+jqctcsf,"\- Region: NA  
+\- Type of Bug:  client / game launcher  
+\- Description:   the ""remember this app for 30 days"" checkbox is checked for the email duel verification but after logging out and logging in again it does not actually remember and instead requires that I use duel verification every time I login.  
+\- Video / Screenshot:     
+\- Steps to Reproduce:   logout after using duel verification and log back in   
+\- Expected Result: duel verification not needed for login for another 30 days when hitting the ""remember this app for 30 days"" checkbox  
+\- Observed Result: duel verification need every time I login  
+\- Reproduction Rate:  10/10   
+\- System Specs: AMD Ryzen 5 5600X 6-Core Processor, 16.0 GB, 64-bit operating system, Nvidia 3060ti graphics card founders edition",royalredhair,2,False,,0,VALORANT,,1688282185.0,,2,0
+jqgn28b,"\- Region: USA  
+\- Type of Bug: In Game Map Appearance    
+\- Description:   Omen's smoke map incorrectly shows part of Bind (also, when you pull down as much as you can while in omen's smoke, the orientation flips. Unsure if this is intentional.)  
+\- Video / Screenshot:   https://www.youtube.com/watch?v=z4GbskBEoso  
+\- Steps to Reproduce:   Just go the the spot shown in the video and use Omen's smoke ability  
+\- Expected Result: Omen's smoke map reflects the in game map.  
+\- Observed Result: Seems to be an error that was left in on accident.  
+\- Reproduction Rate:   100%  
+\- System Specs: N/A",MubbyBears,2,False,,0,VALORANT,,1688354304.0,,2,0
+jqoryfu,"\- Region: SA  
+\- Type of Bug: Wrong server connection  
+\- Description: When trying to connect to the servers, the game only recommends me asian servers, where I end up getting 200+ ping minimum",tavrudon,2,False,,0,VALORANT,,1688509364.0,,2,0
+jr2zhg0,"\- Region: NA  
+\- Type of Bug:  unable to screen shot/screen record game  
+\- Description:   ever since a few patches ago i have not been able to screen shot or screen record the game at all.   
+\- Video / Screenshot:   n/a  
+\- Steps to Reproduce:   attempt to take screen shot or screen record game  
+\- Expected Result: able to perform such task  
+\- Observed Result: screenshot/screen capture is just a black screen  
+\- Reproduction Rate:   100%  
+\- System Specs: ryzen 7 nividia 3060 windows 10  
+
+
+other info: usually play in windowed full screen. tried changing this sitting did not help. updated windows, updated graphics drivers, uninstalled and reinstalled both valorant and vanguard.",KandiGalxx,2,False,,0,VALORANT,,1688768748.0,,2,0
+jr80wyj,"\- Region: NA
+
+\- Type of Bug:  In-Game
+
+\- Description: Omen's ultimate can place you outside of the map, instantly killing the player. This happens on Bind, A backsite.   
+
+\- Video / Screenshot:   [https://medal.tv/games/valorant/clips/1i6dR3gKYzRORY/d1337Cyrdv8l?invite=cr-MSxFR3YsMjY1MTkyMTMs](https://medal.tv/games/valorant/clips/1i6dR3gKYzRORY/d1337Cyrdv8l?invite=cr-MSxFR3YsMjY1MTkyMTMs)
+
+\- Steps to Reproduce:  Using Omen's ultimate, click the destination outside the map; on the gate back site on Bind A.
+
+\- Expected Result: Nothing happens, and the game does not allow Omen to teleport.
+
+\- Observed Result: Omen begins the teleport and dies as soon as he completes the animation. 
+
+\- Reproduction Rate:  60% (sometimes omen will teleport to the top of the gate and fall down.)
+
+\- System Specs: Ryzen 3600x Processor, Windows 10, NVIDIA GTX 1660",xX_m1L3s_Xx,2,False,,0,VALORANT,,1688864922.0,,2,0
+jrka4qh,"\- Region: EU  
+\- Type of Bug: Client bug  
+\- Description:  Game freezes  
+\- Video / Screenshot:  Currently none  
+\- Steps to Reproduce:  None that I know of, I just play the game and it happens again. Nothing unusual happens before the freeze  
+\- Expected Result: Be able to play the game  
+\- Observed Result: Game freezes and I hear people talk if they talk in VC, hear all audio ques next to my character but I can't move. Game doesn't accept any inputs. After 2 seconds of the freeze the image goes into the state 10 seconds prior to the freeze. alt tabbing to open task manager doesn't work so I have to restart my pc or press ctrl+alt+del to open Task Manager that way. After restarting the issue happens again after some time, but always in a random time interval  
+\- Reproduction Rate:   Every game in a random time interval, sometimes happens after 1 or 2 rounds and sometimes happens after just 6 rounds (happened in 5 games out of 5 played)  
+\- System Specs: R7 5800x3d, 16gb DDR4 3600MHZ, Nvidia 3070ti (all temps are normal while the game is running, drivers are up to date)",Kiwwyyy,2,False,,0,VALORANT,,1689097966.0,,2,0
+jrof2wa,"\- Region: NAE
+
+  
+\- Type of Bug: Graphical Issue  
+  
+\- Description: Booting up valorant causes NVIDIA Instant Replay to turn off and you cant turn it back on.  
+  
+\- Video / Screenshot: Unable to grab due to it being disabled  
+  
+\- Steps to Reproduce: Boot Into Valorant on the latest patch and try to ALT + Z and turn INSTANT REPLAY on and it turns right back off  
+  
+\- Expected Result: Screen shots to appear and for shadowplay to not turn off instantly,  
+  
+\- Observed Result: Black screenshots and Unable to capture videos,  
+  
+\- Reproduction Rate: every. single. time  
+  
+\- System Specs: Win10, RTX 2070 Super, Intel i7-10700k",FlowridaMan,2,False,,0,VALORANT,,1689174819.0,,2,0
+jrqbgkm,"- Region: NA
+- Type of Bug: Client Bug
+- Description:  Game does not stop running when I exit
+- Video / Screenshot:   
+- Steps to Reproduce:  Exit Valorant, navigate to task manager, notice that Valorant is still running in the background at around 10% cpu utilization. This is especially noticeable on discord since it thinks you are still playing the game.
+- Expected Result: Valorant does not keep running
+- Observed Result: Valorant is still running
+- Reproduction Rate: Since 7.0 came out, every time I exit the game, which is probably around 10 times?
+- System Specs: Windows 10",cuddlebish,2,False,,0,VALORANT,,1689201322.0,,2,0
+jrudz9l,"Region: NA  
+  
+Type of Bug: Application/Client bug  
+  
+Description: Nvidia instant replay auto turns off only in valorant. Turning it on in the in-game overlay causes it to automatically turn off again seconds later.  
+  
+Expected Result: Instant replay should be able to stay on in valorant  
+  
+Observed Result: Unable to use instant replay  
+  
+Reproduction Rate: 10/10  
+  
+System Specs: Ryzen 5900 & RTX 3080 - Win11",Deastruacsion,2,False,,0,VALORANT,,1689277550.0,,2,0
+jrvtekc,"Region : EU  
+Type of Bug: Matchmaking  
+Description:  
+so the game has been finished and after that got me and my team black screen tried to close the game 3 times and reopen it and still the same thing :/
+
+Video / Screenshot:
+
+[https://preview.redd.it/fasufnvd9ubb1.png?width=1759&format=png&auto=webp&s=f6537e2525124282000f4969b5218733d071bfaa](https://preview.redd.it/fasufnvd9ubb1.png?width=1759&format=png&auto=webp&s=f6537e2525124282000f4969b5218733d071bfaa)
+
+Still right now it took like 45 min",AbodeZzz,2,False,,0,VALORANT,,1689300555.0,,2,0
+jqqnbff,"\- Region: EU  
+
+
+\- Type of Bug:   XP lost  
+
+
+\- Description:   Everytime i get 1k xp from the new daily system it shows on the end screen that it goes to both agent and battle pass but if i then later look at my bp xp its not there. It really counts only towards agent. I lost probably around 50k towards my battlepass  
+    
+\- Steps to Reproduce:   After finishing 1 square of daily and looking at the end screen  
+
+
+\- Expected Result: XP should be counted both towards battlepass and agent progress  
+
+
+\- Observed Result: It only shows xp going towards bp in the end screen. If I then check in bp tab its lost there.  
+
+
+\- Reproduction Rate:   5/5 when i was checking  
+
+
+\- System Specs: Dont matter here",Farso1,4,False,,0,VALORANT,,1688552251.0,,4,0
+jprphna,"I really need help with this. I cannot open the game at all. I start to update it and it gets stuck at 3%, sometimes 2%.",BrainisScreaming_55,2,False,,0,VALORANT,,1687898382.0,,2,0
+jq9iwdt,"• Region: north america
+
+• Type of Bug: Matchmaking 
+
+• Description: Matchmaking doesn't work properly 
+• Video / Screenshot: 
+
+• Steps to Reproduce: play bronze
+
+• Expected Result: playing other bronze ranks
+
+• Observed Result: playing 'unranked' players that were gold and silver 3, and even platinum 1
+
+• Reproduction Rate: 7/10
+
+• System Specs: not relevant
+
+My games for the last week had ""unranked players"", but if you look up their accounts, they were silver, gold, and plat in previous seasons. So they are clearly not bronze players. So I've lost like 300 RR getting dunked on all day because the match making system keeps making veteran players smurf for 5 games before placing them at or near their old rank. My winrate is 30 percent in 20 games. What's the point of making all ranks in the game dumpster dive in the low elo? are you trying to make all the new or low elo players quit? They should be unranked for 5 games but they should be starting off games in their old rank. This is literally unplayable.",minecrafttt0r,2,False,,0,VALORANT,,1688222465.0,,2,0
+jptybgv,"Region- na
+
+Type of bug- in-game ads animation loop
+
+Description- when exiting the ads animation in tdm it seemed to get stuck in an animation loop until I switched guns or used an ability
+
+https://drive.google.com/file/d/12kQv5WLBlpF-7Q_uSQlqODPZ8U84lplK/view?usp=drivesdk 
+
+Steps to reproduce- idk what was the cause but it happened in 3 games of tdm in a row
+
+System specs- windows 10, ryzen 5600, Radeon rx5650xt, 16g ddr4 ram",Accomplished-Link-35,1,False,,0,VALORANT,,1687940075.0,,1,0
+jpruzc6,[removed],,1,False,,0,VALORANT,,1687900471.0,,1,0
+jr4c437,"- Region: OCE
+
+- Type of Bug: In-game
+
+- Description: Deadlock utility, Jett is able to sit on top of the button area on B (ascent) and use Jett knives using the wall to keep in place.
+
+- Video / Screenshot: https://streamable.com/z7ol8m
+
+- Steps to Reproduce: aim at the location pinged, throw Barrier Mesh, Jett then updrafts to sit in the corner.
+
+- Expected Result: Jett should be able to use knives to hit people onsite while staying in place on top of the button area while being mostly not visible from B-main
+
+- Observed Result: Jett is on top of the button area and able to shoot knives toward the site.
+
+- Reproduction Rate: 80% (Jett fitting into the corner)
+
+- System Specs: Intel i7 Processor, Windows 11, Nvidia 3060",Sophisticated_Toast,1,False,,0,VALORANT,,1688793855.0,,1,0
+jr6qi8e,"\- **Region**: EU  
+\- **Type of Bug**: In-game  
+\- **Description**:  Neon High Gear (E) is discharged when respawned  
+\- **Video / Screenshot**:   Not recorded  
+\- **Steps to Reproduce**:   In the ""Team Deathmatch"" mode only, when Neon high gear (E) is active and is about to finish, Neon dies, and respawns but her ability (E)-high gear is not full.  
+\- **Expected Result**: Neon dies when her (E) ability is nearly discharged, then respawns and her (E) ability is fully charged again.  
+\- **Observed Result**: Neon dies when her (E) ability is nearly discharged, then respawns and her (E) ability starts at the same level as she died, nearly discharged.  
+\- **Reproduction Rate**: 10/10  
+\- **System Specs**: intel i7 10850H // 32GB RAM // Nvidia RTX 3060 // Windows 10",TillPhysical8803,1,False,,0,VALORANT,,1688843843.0,,1,0
+jprtvk0,[removed],,0,False,,0,VALORANT,,1687900039.0,,0,0
+jpujqrm,"- Region: NA
+- Type of Bug: Menu Bug
+- Description: Buy menu shows incorrect accuracy values of Bulldog and Frenzy weapons.
+- Steps to Reproduce: Open the buy menu, select Bulldog or Frenzy.
+- Expected Result: Frenzy's first-shot accuracy should display ""0.65"", and Bulldog's accuracy should display ""0.30/0.17""
+- Observed Result: Frenzy displays first-shot accuracy as ""0.45"", and bulldog displays ""0.3/0.3"" These are incorrect and very outdated. 
+- Reproduction Rate: 100%",6starsmacheteonly,0,False,,0,VALORANT,,1687955155.0,,0,0
+jqdkkgr,"\- Region:korea  
+\- Type of Bug:  Shop bug  
+\- Description:   Unable to puchase new agents with kingdom credits, when there are enough of them  
+\- Video / Screenshot:   N/A  
+\- Steps to Reproduce:   N/A  
+\- Expected Result:N/A  
+\- Observed Result:N/A  
+\- Reproduction Rate:   N/A  
+\- System Specs:N/A",goosexual,0,False,,0,VALORANT,,1688302966.0,,0,0
+jpu0r9g," \- Region: EU  
+\- Type of Bug:  Game menu   
+\- Description:   Can't unlock deadlock with free agent token.   
+\- Video / Screenshot:   N/A  
+\- Steps to Reproduce:   Make deadlock available for free agent token   
+\- Expected Result: Make deadlock available for free agent token   
+\- Observed Result: Can't unlock deadlock with my token   
+\- Reproduction Rate:   8/10  
+\- System Specs: 1660 ti gtx ryzen 5 3660x",Lakupipy,-2,False,,0,VALORANT,,1687942140.0,,-2,0
+jpsjvs2,[removed],,1,False,,0,VALORANT,,1687910964.0,,1,0
+jptvqjc,"**Region:** EU
+
+**Type of Bug:** Client / Vanguard?
+
+**Description:** Unable to record or turn on Nvidia Shadowplay for instant replays. Also unable to take a screenshot in game using windows print screen function / 3rd party apps such as gyazo. (Only an issue with VALORANT & only occuring for a small portion of select users because not an issue for my friends but online searches show it's occuring)
+
+**Video / Screenshot:** \- [https://twitter.com/Allies4n/status/1669675722846380032](https://twitter.com/Allies4n/status/1669675722846380032)
+
+**Steps to Reproduce:** Start the game and attempt to turn on Nvida Shadowplay, it will instantly turn off like it’s a copyright protected service like Netflix. Alternatively simply using Windows printscreen function / 3rd party screenshot app such as Gyazo only screenshots a blank black image.
+
+**Expected Result:** To be able to use Nvidia Shadowplay to clip things from Valorant & also be able to take screenshots.
+
+**Observed Result:** Black Screen on screenshots & unable to turn on clipping software such as Nvidia Shadowplay.
+
+**Reproduction Rate:** 10/10
+
+**System Specs:** i9 13900k, Nvidia RTX 4070ti, Windows 10 Pro & 240hz 2560x1440 Monitor (Updated Windows / GPU Drivers)
+
+Potentially a Vanguard issue, saw a thread on reddit (https://www.reddit.com/r/ValorantTechSupport/comments/14jsyl2/i_cant_record_or_take_screenshot_from_valorant/jpod7sh/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1&context=3) stating a Nvidia Log file was stating that Vanguard was being detected as copyrighted material thus rendering the game being blocked from recording / screenshot.
+
+Also this - [https://www.reddit.com/r/ValorantTechSupport/comments/14euxs9/comment/jppnl2v/?utm\_source=reddit&utm\_medium=web2x&context=3](https://www.reddit.com/r/ValorantTechSupport/comments/14euxs9/comment/jppnl2v/?utm_source=reddit&utm_medium=web2x&context=3)",Conner_97,1,False,,0,VALORANT,,1687937946.0,,1,0
+jptwpts,"**Region:** EU
+
+**Type of Bug:** Game Settings
+
+**Description:** Prior to the newest update I used the setting ""Show Blood - On"" instead of the sparks. After update the option for Show Blood aswell as Show Corpses is now missing from the General tab under other. Also forced to use Sparks instead of Blood.
+
+**Video / Screenshot:** Unable to screenshot / record due to another bug.
+
+**Steps to Reproduce:** Start the game and attempt to find the option for Show Blood & Show Corpses, will be missing from the settings. Also play a game if you had Show Blood enabled prior to the update and you will see sparks instead.
+
+**Expected Result:** To be able to turn on the option for Show Blood / Show Corpses.
+
+**Observed Result:** Missing settings, forced to play without blood / corpses.
+
+**Reproduction Rate:** 10/10
+
+**System Specs:** i9 13900k, Nvidia RTX 4070ti, Windows 10 Pro & 240hz 2560x1440 Monitor (Updated Windows / GPU Drivers)",Conner_97,1,False,,0,VALORANT,,1687938751.0,,1,0
+jpvse8m,"\- Region: NA  
+\- Type of Bug: battle pass/XP      
+\- Description: The post game Progression tab displays incorrect progress on the battle pass.   
+\- Video / Screenshot:   1) [post game, pre-xp application](https://i.imgur.com/Ca270BQ.png) ,   2) [post game, after XP is applied](https://i.imgur.com/P3lSAtB.png),   3) [battle pass showing correct XP progress](https://i.imgur.com/C2m5nHB.png)  
+\- Steps to Reproduce:   Play a game, observe incorrect battle pass progress. After exiting the post-game screen, the progress in the battle pass shows correctly. .  
+\- Expected Result: Battle Pass pane shows 4263 XP   
+\- Observed Result: Battle Pass pane shows 7263 XP   
+\- Reproduction Rate: unsure, but have observed multiple times  
+\- System Specs: intel 10700, rtx 3070, windows 10, xbox game pass +20% xp bonus applying",Ok-Project-1851,1,False,,0,VALORANT,,1687973404.0,,1,0
+jq5abhh,"\-Region: NA  
+  
+\-Type of Bug: In Game Bug  
+  
+\-Description: Omen ult interrupted by Deadlock ult causes omen to take 900k dmg  
+  
+\-Video / Screenshot: https://youtu.be/FHNG6y-2o9g  
+  
+\-Steps to Reproduce: Omen ult and the frame you finish ultimate tp, get hit by deadlock ult.  
+  
+\-Expected result: Ult gets cancelled, doesn't tp, normal deadlock ult dmg of 150.  
+  
+\-Observed result: Ult goes through, dies across the map, deadlock dmg of 900,115.  
+  
+\-Reproduction rate: 2/10, timing it is strange  
+  
+\-System specs: Intel i5, Windows 10, NVidia GTX 1660 SUPER",Nolukio,1,False,,0,VALORANT,,1688141499.0,,1,0
+jq67k6e,"\- Region: NA  
+\- Type of Bug: Visual/UI     
+\- Description:  In the postgame summary screen, the kingdom credit gain displays under the xbox game pass logo, not the kingdom credit balance  
+\- Video / Screenshot:   https://imgur.com/DjA1GEZ  
+\- Steps to Reproduce:  play a game and earn kingdom credits  
+\- Expected Result: displays under kingdom credit balance  
+\- Observed Result: displays under game pass logo  
+\- Reproduction Rate:   100%  
+\- System Specs: i10700, 3070, windows 10",Ok-Project-1851,1,False,,0,VALORANT,,1688154190.0,,1,0
+jq9ftlj,"\- Region: any  
+\- Type of Bug:  game mechanic breaking  
+\- Description:   Deadlock ultimate does not work at all, enemy stay in place until freed from timer  
+\- Video / Screenshot:   https://youtu.be/imz8-xy911Q  
+\- Steps to Reproduce:   no idea (probably catching a jett mid dash with ult)  
+\- Expected Result: no idea  
+\- Observed Result: no idea  
+\- Reproduction Rate:    no idea  
+\- System Specs: no effect",Affectionate_Rule275,1,False,,0,VALORANT,,1688221031.0,,1,0
+jqckwrp,"\- Region: APAC  
+\- Type of Bug:   In Game  
+\- Description:   Lotus A Site Revolving Door not working (Option to activate the door does not appear sometimes)  
+\- Video / Screenshot:   N/A  
+\- Steps to Reproduce:   Access the Revolving Door on Lotus A Site  
+\- Expected Result:    Revolving Door would work normally  
+\- Observed Result:    Option to activate the door does not appear  
+\- Reproduction Rate:   6/10 (Observed at least once in every Lotus game, but sometimes the door works normally)  
+\- System Specs: N/A",Fabulous-Panic-82,1,False,,0,VALORANT,,1688275674.0,,1,0
+jqeoglf,"- Region: NA
+- Type of Bug: Matchmaking
+- Description: Game freezes and administers queue dodge penalties in TDM whether you ALT+F4 or wait.
+- Video / Screenshot:   
+- Steps to Reproduce:   
+  1. Play a game of TDM
+  2. Try to Queue again and one of two things happens:
+      - Game freezes on a blank screen. No map. Says ""Competitive"".
+      - Agent select shows up but cannot select agent. Especially if someone has clicked on the same agent.
+- Expected Result: If I cannot load into a match because of a client bug I shouldn't be penalized for it.
+- Observed Result: DODGE QUEUE PENALTY (WHY!?)
+- Reproduction Rate: Almost every few games. I cannot control it.
+- System Specs: Win 11 / Intel 13600k / Asus ROG Strix 3080 TI",angelyeeto,1,False,,0,VALORANT,,1688321040.0,,1,0
+jqm0uq0,"Region: Asia Pacific (AP)
+
+Type of Bug: In game bug - agent skill dysfunction 
+
+Description: sage wall is not rotating when pressing C during Lotus attacker side
+
+Steps to reproduce: Lotus game, unrated, play sage, attacker rounds, press c to use wall, press c again to rotate - it will not rotate. It works during defender though
+
+Expected result: wall will rotate when pressed C
+
+Reproduction rate: 3/3
+
+System specs: intel i3 10th gen… idk. it’s an office laptop, lenovo ideapad 3",nishinoyu,1,False,,0,VALORANT,,1688460449.0,,1,0
+jqmnpva,"• Region: NA  
+  
+• Type of Bug: Matchmaking  
+  
+• Description: Game would randomly freeze when queueing for competitive games. Would then get an error claiming out of video memory or connectivity issues.  
+  
+• Video / Screenshot:  
+  
+• Steps to Reproduce: Try to start a competitive game.  
+  
+• Expected Result: Able to play a match/queue without game freezing.  
+  
+• Observed Result: After playing for a couple minutes, errors would occur, freezing the game causing DC. This leads to AFK/Queue dodge warnings. Checked systems and no wifi/gpu issues.  
+  
+• Reproduction Rate: 7/10, seems to always happen a handful of times for first game or two of the day.  
+  
+• System Specs: i9-10850, Windows 10, GTX3080",brbgtgwaffle,1,False,,0,VALORANT,,1688476505.0,,1,0
+jquos86,"Region: NA
+
+Type Of Bug: Gun skin bug
+
+Description: The new NEO Frontier skin has an animation that is accompanied by a sound when you get the final kill. When you get the final kill with it when the game ends the sound still plays but the game is in slow motion so it is not in sync with the animation.
+
+Video: N/A (Don't have the skin so I cannot prove it)
+
+Steps to Produce: Use the a gun in the neo bundle to get a final kill that will make the game go into slow motion. (I do not know if it has to be a specific gun in the bundle)
+
+System Specs: Would not effect",JBeastuwu,1,False,,0,VALORANT,,1688619138.0,,1,0
+jqyn51z,"- Region: NA
+- Type of Bug: In-game   
+- Description: If a Snake Bite is used from a Viper after the round has been announced to end, for the location where the Snake Bite was shot and/or where the Snake Bite lands or would land, the sound of the molly traveling in the air may persist for either location for the next round. This sound may persist for just the preround before barrier drops or may persist for the entire next round. I have confirmed with teammates that they can hear the sound as well.
+- Video / Screenshot: N/A
+- Steps to Reproduce:
+  1. Start a game with Viper
+  2. Have a round end with a normal game transition to the next round
+  3. Viper shoots up a Snake Bite into the air before the respawn occurs. (For testing sake, we can just do this from spawn)
+ 4. After respawning into the next round, go to the place where the Snake Bite was shot from and/or where the Snake Bite was going to land.
+  5. Listen to the traveling noise of the Snake Bite in the air
+- Expected Result: You should hear nothing.
+- Observed Result: The sound of a Snake Bite traveling in the air persists the entire preround or the entire next round.
+- Reproduction Rate: 95%   
+- System Specs: AMD 3700x, Windows 10, Nvidia Graphics card RTX 2080 SUPER",Fa1l3r,1,False,,0,VALORANT,,1688689219.0,,1,0
+jqynopo,"- Region: NA
+- Type of Bug: In-game   
+- Description: When observing through teammates, an enemy Yoru clone may appear red.
+- Video / Screenshot: Looks like this https://www.youtube.com/watch?v=F-ej3vV5PtA but this particular video was not my game
+- Steps to Reproduce:
+  1. Start a game with an ally and an enemy Yoru
+  2. Die and observe your ally
+  3. Have an ally look at the Yoru clone
+- Expected Result: Yoru clone looks indistinguishable from the enemy Yoru.
+- Observed Result: Yoru clone may appear red to observer but may not to ally.
+- Reproduction Rate: 1%   
+- System Specs: AMD 3700x, Windows 10, Nvidia Graphics card RTX 2080 SUPER",Fa1l3r,1,False,,0,VALORANT,,1688689466.0,,1,0
+jr1dg7y,"* **Region:** Asia Pacific
+* **Type of bug:** In-game
+* **Description:** So, our deadlock put a trap on the left wall which was probably destroyed by the enemy team and our deadlock died and at the end of the round when brimstone was pushing me he got stunned out of nowhere, which was actually funny but I think it was deadlock's sonic sensor which stunned brimstone and It's a major bug IMO.
+* **Video:** [https://youtu.be/9jJSGyTLms0](https://youtu.be/9jJSGyTLms0)
+* **Steps to reproduce:** Couldn't reproduce the bug :(
+* **Expected result:** Player not getting stunned by sonic sensor after deadlock's eliminated.
+* **Observed result:** Enemy getting stunned by sonic sensor after deadlock's eliminated.
+* **Reproduction rate:** 0%
+* **System Specs:** Intel i5 10300H, Nvidia GTX 1650 TI, 32GB RAM, Windows 11 (insider)",TitanTouchingGrass,1,False,,0,VALORANT,,1688745388.0,,1,0
+jr2ci96,"\- Region:  ME  
+\- Type of Bug:  Account bug     
+\- Description:   Cant import any crosshairs or change my Riot user name  
+\- Video / Screenshot:     
+\- Steps to Reproduce:   import crosshair or change name  
+\- Expected Result:  works  
+\- Observed Result:  something went wrong importing your profile.   
+\- Reproduction Rate:   9/10  
+\- System Specs:  2070 S",Odd-Satisfaction5933,1,False,,0,VALORANT,,1688759194.0,,1,0
+jrpw53l,"\- Region: EU
+
+\- Type of Bug:   Riot Client bug
+
+\- Description:   Update pause/resume not working.
+
+\- Video / Screenshot:   https://streamable.com/a6atc7 (link expires in 2 days)
+
+\- Steps to Reproduce:   Open Riot Client, click update Valorant. After some progress, pause the update process. Click Resume. Update process starts from scratch.
+
+\- Expected Result: For example, if update is paused at 80%, when you resume the update proccess, it should continue from 80%. not from the beginning.
+
+\- Observed Result: If you pause the update, then resume it, it starts from the beginning.
+
+\- Reproduction Rate:   10/10
+
+\- System Specs: intel i7 10850H // 32GB RAM // Nvidia RTX 3060 // Windows 10",TillPhysical8803,1,False,,0,VALORANT,,1689195093.0,,1,0
+jrslgqx," Region: Asia  
+  
+• Type of Bug: XP  
+  
+• Description: TDM XP not contributing to battlepass  
+  
+• Steps to Reproduce: Play TDM  
+  
+• Expected Result: 1K exp earned towards battlepass  
+  
+• Observed Result: Battlepass xp doesn't increase after playing TDM  
+  
+• Reproduction Rate: 10/10",ResutaMai,1,False,,0,VALORANT,,1689250679.0,,1,0
+jrtsd8s,"\- Region: LAN  
+\- Type of Bug:  Client Bug   
+\- Description:   Start the game, the sound of a Windows error pop-ups but nothing it shows,   
+  the game crash    
+\- Steps to Reproduce:   Trying to start the game.  
+\- Expected Result: Not to crash.  
+\- Observed Result: It happens, at restarts, Admin Use or driver updates.  
+\- Reproduction Rate:   10/10  
+\- System Specs: I7 12700k , 3070 RTX, 32 GB RAM, Windows 11",Hendowsky,1,False,,0,VALORANT,,1689269024.0,,1,0
+jrubpfv,"- Region: EU
+
+- Type of Bug: Ingame Bugs
+
+- Description: In TDM mode, the cooldown timer only shows seconds for one ability.
+
+ And all charges of an ability will be consumed it you use it once.
+
+- Steps to Reproduce: For bug 1, just have more than one ability on cooldown. For bug 2, wait for an ability with more than one charge (flashes for example) to get both uses off cooldown, and use that ability once.
+
+- Expected Result: All abilities should show their cooldown timer in seconds next to the ability icon, and only one charge should be deducted from an ability.
+
+- Observed Result: Only one timer shows at a time, and both charges are consumed in one go.
+
+- Reproduction Rate: 10/10
+
+- System Specs: i7 8750h GTX 1060 Win10",rayhacker,1,False,,0,VALORANT,,1689276641.0,,1,0
+jruq22r,"\- Region: NA  
+\- Type of Bug:  Visual  
+\- Description:  enemy KJ's gun made a line i could see past walls   
+\- Video / Screenshot:  https://outplayed.tv/media/a3l1Rv  
+\- Steps to Reproduce:  only happened the one in that game  
+\- Expected Result: not do do that?  
+\- Observed Result: weird lines  
+\- Reproduction Rate:  1/10  
+\- System Specs: i5-8600K rtx 3070 win 11",VoltaicMouse,1,False,,0,VALORANT,,1689282428.0,,1,0
+jrv7wb1,"-Region: NA
+-Type of Bug: FPS drop
+-Description: FPS is perfect for the first few minutes of playing, then DROPS and never returns
+-Steps to reproduce: restart laptop, look for and apply optimised laptop settings and relaunch VALORANT hoping that the cycle does not continue
+-Expected result: FPS stays around 120 and does not go into an infinite drop cycle
+-Observed result: FPS goes to hell
+-Reproduction rate: 10/10 or literally every single time I've loaded up VALORANT the past 3 months
+-System Specs:Lenovo Ideapad L340 Gaming Laptop
+Intel Core i7-9750H
+CPU @ 2.60GHz
+16.0 GB RAM
+512 SSD (200GB free)
+60HZ basic monitor",cabronofamerica,1,False,,0,VALORANT,,1689290228.0,,1,0
+jrvfubx,"* Region: APAC  
+
+* Type of Bug: Visual
+* Description: Protocol 781-A Administrative Melee's pullout dagger animation clips through Yoru's hand and returns to the default melee idle animations.
+* Video / Screenshot:  
+
+   * [https://drive.google.com/file/d/1vUU72XQuAI4A-n3mW59pt9q9yc7BKmxV/view?usp=sharing](https://drive.google.com/file/d/1vUU72XQuAI4A-n3mW59pt9q9yc7BKmxV/view?usp=sharing)
+   * [https://drive.google.com/file/d/1\_ZzKRLCfhGjxfrPVBKb8bUYIGczr2pYQ/view?usp=sharing](https://drive.google.com/file/d/1_ZzKRLCfhGjxfrPVBKb8bUYIGczr2pYQ/view?usp=sharing) 
+* Steps to Reproduce: Enter any game mode, switch to the dagger pullout animation only, play the game as normal, 8 to 7 rounds later, check the pullout animation of the melee.  
+
+* Expected Result: The pullout animation will still be the dagger animations and wouldn't suddenly clip through the hands of the agent.  
+
+* Observed Result: Yoru will perform the usual dagger pullout animations, but the melee will now clip through Yorus hands doing a complete 180 degree turn and will even move the hand slightly to the default melee idle animation
+   * Note: I have only tested it out with Yoru, there are some agents such as Chamber that doesn't have the visual bug, but I'm not sure if other agents have the same visual bug.
+* Reproduction Rate: 10/10  
+
+* System Specs:  
+
+   * Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz 1.80 GHz,  
+
+   * Windows 11 Home Single Language,  
+
+   * 12 GB RAM (11.9 Usable)",Royal_Finish3r_1976,1,False,,0,VALORANT,,1689293892.0,,1,0

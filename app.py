@@ -5,13 +5,18 @@ import streamlit as st
 import praw
 import pandas as pd
 from praw.models import MoreComments
+from datetime import datetime
 
 reddit = praw.Reddit(
     client_id='6fya8IjqaVcDMGcBnYBJsg', 
     client_secret='45M4BcpP6r7oV2_9GQw4-i5l_GlQ3g', 
     user_agent='Scaping App')
 
+st.set_page_config(
+        page_title="App",
+)
 
+SAVE_LOC = "collected_data/"
 
 def get_subreddit(keyword = 'Valorant', limit = 10):
     # get 10 hot posts from the MachineLearning subreddit
@@ -96,21 +101,32 @@ st.title("ENTER YOUR TOPIC")
 my_form = st.form(key = "form1")
 name = my_form.text_input(label = "Enter your topic here")
 submit = my_form.form_submit_button(label = "Submit your topic")
+filetype = my_form.selectbox('filetype', ['csv', 'xlsx','json'])
 result = None
 savebtn = None
 if submit and name:
     result = get_subreddit(name)
     if isinstance(result, pd.DataFrame):
         st.dataframe(result)
-if isinstance(result, pd.DataFrame):
-    with st.form(key='save'):
-        name = st.text_input('file name')
-        filetype = st.selectbox('filetype', ['csv', 'xlsx','json'])
-        savebtn = st.form_submit_button('save')
-if savebtn and name and filetype == 'csv':
-    result.to_csv(f'{name}.{filetype}', index=False)
-elif savebtn and name and filetype == 'xlsx':
-    result.to_excel(f'{name}.{filetype}', index=False)
+        if filetype =='csv':
+            filename =f'{SAVE_LOC}/{name}{datetime.strftime(datetime.now(), "%d_%m_%Y")}.csv'
+            result.to_csv(filename, index=None)
+        elif filetype == 'xlsx':
+            filename =f'{SAVE_LOC}/{name}{datetime.strftime(datetime.now(), "%d_%m_%Y")}.xlsx'
+            result.to_excel(filename, index=None)
+    else:
+        errormessage = f"Error while fetching data for subreddit '{name}'"
+        st.error(errormessage)
+
+# if isinstance(result, pd.DataFrame):
+#     with st.form(key='save'):
+#         name = st.text_input('file name')
+#         filetype = st.selectbox('filetype', ['csv', 'xlsx','json'])
+#         savebtn = st.form_submit_button('save')
+# if savebtn and name and filetype == 'csv':
+#     result.to_csv(f'{name}.{filetype}', index=False)
+# elif savebtn and name and filetype == 'xlsx':
+#     result.to_excel(f'{name}.{filetype}', index=False)
 
 #st.title('Select what to scrap')
 #cols=  ['Comments', 'Time of posting','Upvote', 'Shares']
@@ -139,12 +155,23 @@ if form_selection == "URL":
 elif form_selection == "ID":
     id = st.text_input("Enter ID")
 # Submit button
-if st.button("Submit"):
-    if form_selection == "URL":
-        df = get_post_comments_by_url(url)
-        st.write(df)
-    elif form_selection == "ID":
-        df = get_post_comments_by_id(id)
-        st.write(df)
-
+btn = st.button("Submit")
+if btn and form_selection == "URL":
+    df = get_post_comments_by_url(url)
+    st.write(df)
+    
+    if isinstance(df, pd.DataFrame):
+        st.dataframe(df)
+        filename =f'{SAVE_LOC}/comments_{datetime.strftime(datetime.now(), "%d_%m_%Y")}.csv'
+        df.to_csv(filename, index=None)
+    else:
+        st.error('could not fetch data')
+elif btn and form_selection == "ID":
+    df = get_post_comments_by_id(id)
+    st.write(df)
+    if isinstance(df, pd.DataFrame):
+        st.dataframe(df)
+        filename =f'{SAVE_LOC}/{id}.csv'
+        df.to_csv(filename, index=None)
+        st.error('could not fetch data')
 
