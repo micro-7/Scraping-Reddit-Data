@@ -1,0 +1,33 @@
+comment,id,author_is_blocked,comment_type,banned_by,total_awards_received,subreddit,likes,author,created_utc,score,ups,downs
+"I was wondering whether there is a way to program a robot (specifically Softbank Pepper) such that it can be used as a webcam (eg. if I open Google Chrome on my laptop or on the robot's tablet, it can be prompted to use the robot camera). Thanks!",jrjkq4m,False,,,0,robotics,,alexxrusso,1689087934.0,1,1,0
+"So I am basically brand new to this. I love taking stuff apart to see what’s inside (bla bla bla you don’t wanna hear the rest about how I ended up here) but basically I’m kinda conflicted on two things for my start in robotics. Basically, I’m choosing between an arduino starter kit and raspberry pi starter kit (elegoo for arduino and freenove for the pi). I’m interested in starting with mostly arduino based projects (basic functional stuff like arms and such) as well as my schools micromouse-ish kind of competition. On the other hand, I know I’ll end up delving into projects that require a pi and will hopefully be using the pi and arduino at the same time. Here are my questions:
+
+1.	⁠Even though I’ve already stated I’ll be starting with arduino based projects, should I really be starting with it? I already know a good bit of Python but I’m relatively new to C++ and feel like the pi would be better for familiarity, and those projects can wait.
+2.	⁠Will the hardware included in the kits be compatible with each other? As in, can I use my arduino stuff for the raspberry pi (bear with me here, I’m sorry but I’m really clueless). Here are the links to the kits I’m thinking about starting with: Arduino: https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/ref=mp_s_a_1_4?crid=3OZM08K6GIYLV&keywords=elegoo+arduino+starter+kit&qid=1689221577&sprefix=elegoo+arduino%2Caps%2C116&sr=8-4
+
+Pi: https://www.amazon.com/Freenove-Complete-Raspberry-708-Page-Tutorial/dp/B09ZXNL2WH/ref=mp_s_a_1_8?crid=1PPW3CA3T4N56&keywords=raspberry+pi+kit&psr=PDAY&qid=1689221522&s=prime-day&sprefix=raspberry+pi+kit%2Caps%2C127&sr=1-8
+
+Additionally, what other tools will I need? I’m not sure what to be getting besides a soldering iron and its accessories.
+
+Apologies if this is the wrong subreddit to be asking, but to be fair my main goals are all robotics related.
+
+Sorry you had to read all that! But I really appreciate the help.",jrrvpw4,False,,,0,robotics,,A_Firm_Sandwich,1689231771.0,1,1,0
+"Hey, So i’m making a 3d printed robot arm with mini servo motors. I have a couple questions:
+
+1) how do I calculate the ideal weight of the 3d printed parts the servo motor should push based on its torque?
+
+2) does 3 like mini servo motors even have the torque to control a whole 3d printed robot arm (using 3 joints, one x axis rotation, 2 y and z).
+
+3) Should I use stepper motors instead?",js3231e,False,,,0,robotics,,Asleep_Job3691,1689439975.0,1,1,0
+"what are the best free online courses for what i'm trying to learn?
+
+basically i'm trying to gain some knowledge this summer for my hs robotics team. I'm trying to gain more knowledge in:
+
+* programming sensors (i2c, analog sensors; ultrasonic, touch, color, distance, tof)  
+
+   * wiring these sensors/general knowledge about them
+* control theory (pretty beginner)
+* computer vision
+* localization
+
+not sure if this is the right subreddit or the right terms for what i'm looking for, but any help is appreciated! any resources also welcome! thanks!",js51clk,False,,,0,robotics,,six-feet-above,1689472591.0,1,1,0

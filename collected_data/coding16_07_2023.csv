@@ -1,0 +1,1086 @@
+title,score,id,subreddit,url,num_comments,body,created
+READ FIRST: /r/coding RULES! Avoid moderator action!,130,tzfc78,coding,https://www.reddit.com/r/coding/comments/tzfc78/read_first_rcoding_rules_avoid_moderator_action/,1,"I'm reposting the rules here and sticky'ing it, because a lot of people see to not pay attention to the rules.
+
+Interested in programming? Like to read about programming without seeing a constant flow of technology and political news into your proggit? That's what /r/coding is for. A pure discussion of programming with a strict policy of programming-related discussions.
+
+As a general policy, if your article doesn't have a few lines of code in it, it probably doesn't belong here. However, things directly related to the actual process of programming - libraries, tools, and so on - are all okay, but please use discretion.
+
+Things that are not okay to post here:
+
+* Discord links - seriously, knock it off.
+* Tutorial video links - these are commonly spammed and abused. It's more of a judgement call, but in general, don't spam the subreddit with ""How to learn to code"" videos, please
+* Low-effort advertising
+* ""I made this!"" - cool, I'm proud of you - but, seeing what you made doesn't intrinsically benefit others. If you write an article explaining it, the technical challenges, etc. - then share that!
+* Self-posts that are attempting to bypass our ban on self-posts
+* Playlists
+* Homework questions
+* Posts asking for suggestions for your personal project
+* Advertising your new COVID-19 graph, your new game, etc. - See above - this is a place for the discussion of programming, not advertising your product, and not showing off something which is tangentially relevant to people who code.
+
+To avoid a lot of self.coding posts, consider these subreddits:
+
+/r/learnprogramming for posting beginner's questions.
+
+For asking language specific questions, see list of known programming language subreddits.",1649457766.0
+On hiatus indefinitely until the CEO and Admins respect third party apps.,6,147dz37,coding,https://www.reddit.com/r/coding/comments/147dz37/on_hiatus_indefinitely_until_the_ceo_and_admins/,0,Title.,1686541258.0
+Stratagem UCI Chess Engine,2,150s5uq,coding,https://github.com/yanpuri/Stratagem-UCI-Chess-Engine,0,,1689468427.0
+Web Scraping Using Vlang,1,150oscl,coding,https://kevin-da-silva.medium.com/vlang-tutorials-web-scraping-extraction-a8950a139f5f,0,,1689459489.0
+google-spreadsheet,0,150ad5m,coding,https://theoephraim.github.io/node-google-spreadsheet/#/,0,,1689422819.0
+Bard2PDF: Save Bard response as PDF,0,1506877,coding,https://www.producthunt.com/posts/bard2pdf,0,,1689409355.0
+gpt-migrate: Easily migrate your codebase from one framework or language to another.,0,14zznek,coding,https://github.com/0xpayne/gpt-migrate,0,,1689388450.0
+Program that would check for shop updates,0,14zyhj2,coding,http://google.com,1,Is there a program that anyone knows of that I would be able to set up to check very frequently to see if a online site shop has a restock on a specific item,1689385087.0
+Created an API service for Threads,0,14ztctf,coding,https://rapidapi.com/apigeek/api/socily,0,,1689371586.0
+YOLO Object Detection on the Raspberry Pi (Article),0,14zjjmu,coding,https://towardsdatascience.com/yolo-object-detection-on-the-raspberry-pi-6de3629256fa,3,,1689348720.0
+Why You Should Use Memory Mapped Files,1,14zakbj,coding,https://youtu.be/aafXQ0rTvVo,2,,1689323111.0
+What are Quotas in Apache Kafka®? A short explanation and why you need them,0,14zgtjm,coding,https://aiven.io/blog/introducing-kafka-quotas-in-aiven-for-apache-kafka#a-short-explanation-of-kafka-quotas?utm_source=reddit&utm_medium=organic&utm_campaign=blog_markos_kafka_quotas__global_,0,,1689342172.0
+More than 3000 AI tools on this website,0,14zftid,coding,https://www.airepo.io/,2,,1689339571.0
+training convolutional neural network with MATLAB: image recognition AI.,10,14ypfl9,coding,https://onlytronix.blogspot.com/2023/07/training-convolutional-neural-network.html,0,,1689265753.0
+How big companies develop games using Agile? 🎮🌌,0,14zajhn,coding,https://youtu.be/QS4ENaFzfoE,0,,1689323030.0
+Passwords: Welcome to the Rabbit Hole,1,14yxc7a,coding,https://www.youtube.com/watch?v=4c3jFrcPqRo,0,,1689284353.0
+Help with video analysis,2,14ygzkx,coding,https://animaltracker.elte.hu,0,"Hello coders of Reddit! 
+
+I am a veterinary student participating in a summer research project involving behavioral analysis of Siberian hamsters. I have a collection of videos that I am attempting to analyze with open source libraries but am having difficulties. It may because I am using MacOS. I am more or less looking for a program that can track a single animal and calculate a velocity. I have the video files and have also split them in frame-by-frame as many programs seem to analyze this way. I’ve found image J to be the most beginner friendly thus far but am open to any suggestions. I would really appreciate any help or advice you can offer!",1689243694.0
+Understanding Kubernetes OOMKilled Errors: Preventing and Troubleshooting Out-of-Memory Issues,14,14xh74l,coding,https://www.groundcover.com/blog/kubernetes-oomkilled,0,,1689146815.0
+The State Of Npm 2023,9,14xjcbe,coding,https://blog.sandworm.dev/state-of-npm-2023-the-overview,0,,1689153763.0
+How to Overcome Imposter Syndrome as a Software Engineer,3,14xowfy,coding,https://blog.digitalhole.co/how-to-overcome-imposter-syndrome-as-a-software-engineer-f902f14c7957,0,,1689169207.0
+"Build your own FaaS: self-host lambda, serverless and javascript functions everywhere",3,14xiklu,coding,https://www.breakp.dev/blog/build-your-own-faas/,2,,1689151474.0
+Why Do Our Codebases Become Messy?,1,14xl3vq,coding,https://levelup.gitconnected.com/why-do-our-codebases-become-messy-2d4c2fac4bd1?sk=f9df2cada3c149baf5bb09e75c914170,3,,1689159145.0
+Common mistakes devs make with Server Components,0,14xjqo9,coding,https://www.propelauth.com/post/5-common-pitfalls-with-server-components-in-next13-with-examples,2,,1689155011.0
+Web Scraping Amazon Using Python,7,14x4yjg,coding,https://serpdog.io/blog/web-scraping-amazon-product-data/,1,,1689112795.0
+The Principle of High Cohesion: A Pillar of Reliable Software Design,1,14x03es,coding,https://www.codereliant.io/the-principle-of-high-cohesion-a-pillar-of-reliable-software-design/,2,,1689101949.0
+Tech Article Writing: Experiences And Tips vol. 1,0,14x4jd5,coding,https://mhkoca.medium.com/tech-article-writing-experiences-and-tips-vol-1-811177472b73?sk=934b2557ea484fa1cdab7ba9c6e8de3d,0,,1689111828.0
+Everything that uses configuration files should report where they're located,32,14wb27a,coding,https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations,4,,1689034195.0
+Practical DDD in TypeScript: Value Object,1,14wslxv,coding,https://javascript.plainenglish.io/practical-ddd-in-typescript-value-object-b76bcd2d9283,0,,1689084903.0
+How Open Source Enabled Kubernetes’ Success,2,14wk7ov,coding,https://devinterrupted.substack.com/p/how-open-source-enabled-kubernetes,0,,1689060659.0
+Postgres — Live Table Partitioning,3,14w7yr4,coding,https://engineering.workable.com/postgres-live-partitioning-of-existing-tables-15a99c16b291,0,,1689026694.0
+Working on an Ultimate Guide to using Postman to document and test your API,2,14w9b2g,coding,https://konfigthis.com/blog/postman-fundamentals,1,,1689029897.0
+Wrote a CLI tool to check DNS configurations quickly (an alternative to dig),16,14vrj60,coding,https://github.com/bschaatsbergen/dnsee,1,,1688988971.0
+Cryptocurrency scraper CLI,0,14why3b,coding,https://www.github.com/taky93/Pycoin,0,Hello everyone please look at my project and give me tips about addig new features or simply fork it and submit a pull request 😁 If you like it please give it a Star ✨,1689053481.0
+"Introducing CodeRabbit: We've developed AI-driven CodeReviewer to make code reviews easier and more efficient. It offers context-aware, line-by-line feedback, flags crucial changes, and allows bot conversations for guidance. We offer a 15-day free trial, so feel free to try it out!",0,14we1e0,coding,https://coderabbit.ai/,0,,1689042070.0
+Defunct online mmo,0,14vwvhl,coding,https://github.com/derplayer/YuGiOh-PoC-ModTools/wiki/YuGiOh!-Online-Assets-&-Updates,1,,1689002146.0
+Enforce clean and tested code on your repo with git hooks & husky,2,14vq78h,coding,https://youtu.be/TT1TpPwbMVQ,0,,1688984976.0
+What Follows Scratch?,0,14vtdh4,coding,http://www.Google.com,4,"My 7 year old loves Scratch and wants to learn HTML and Python.  Of the two (or something else), which is the logical next programming to learn?",1688993991.0
+6 Things I Wish I Knew When I Started Programming,0,14w37yq,coding,https://blog.digitalhole.co/6-things-i-wish-i-knew-when-i-started-programming-c95d6b1744bd,1,,1689016349.0
+Erick Wendel - Recreating a #javascript runtime f/ Scratch Understand the magic behind #nodejs core,5,14vcqh5,coding,https://www.youtube.com/watch?v=UdTdBknk23A,0,,1688943815.0
+graphic: A grammar of data visualization and Flutter charting library.,0,14vkaut,coding,https://github.com/entronad/graphic,0,,1688965359.0
+I Don't Need Your Query Language,39,14uog89,coding,https://antonz.org/fancy-ql/,15,,1688875460.0
+The Getting Started with AI Stack for JavaScript,0,14vmi6y,coding,https://a16z.com/2023/06/21/the-getting-started-with-ai-stack-for-javascript/,0,,1688972625.0
+Reactive database access on the JVM,1,14v5nwq,coding,https://blog.frankel.ch/reactive-database-access/,5,,1688926943.0
+Validating or verifying emails,0,14uu2wx,coding,https://blog.ploeh.dk/2023/07/03/validating-or-verifying-emails/,0,,1688894669.0
+Semantic Version GitHub Action,14,14ua3o1,coding,https://github.com/flatherskevin/semver-action,4,"TLDR; here is a link to a GitHub action I created that manages semantic versioning of a repo https://github.com/flatherskevin/semver-action
+
+Backstory: So, I am a tech lead a large enterprise company, managing several services. Whenever I go to creat a new project, whether it be a service, module, library, CLI, etc… I am almost always immediately blocked by needing a simple automation tool that semantically versions and tags my repository. Now, there are plenty of actions out there that do an excellent job of tagging branches, with great community support. When I started looking around at actions that did semantic versioning, they either always included tagging a repository, were far too confusing to use, or were lacking the features I look for in versioning a project. I strongly believe in clear separation of duties for actions, so having all-in-one action that versioned and tagged isn’t what I would like to use, especially when, as previously mentioned, there are very mature actions to tag repositories.
+
+Thus, I created semver-action. It is a relatively simple project that scans either the tags or releases on your repository, and performs the desired semantic version bump. It has logic to skip non-conforming tags / releases when determining which version to base its increase on. The action outputs your current version, as well as the next version in line. This makes it easy for you to pass that onto any further steps in your pipeline, even if it is just to tag the repository. 
+
+The action is well tested with jest tests, and live action tests. I would love to get feedback on it, and possibly make building new projects just a little bit easier for you.",1688837316.0
+Understanding GPT tokenizers,0,14udtlb,coding,https://simonwillison.net/2023/Jun/8/gpt-tokenizers/,0,,1688846453.0
+Enterprise-ready and developer-friendly Federated Learning,1,14u8g92,coding,https://github.com/NevronAI/metisfl,0,,1688833218.0
+Jacobson's Rank,0,14u6lsp,coding,https://denvaar.github.io/posts/jacobsons_rank.html,0,,1688828755.0
+"Code Confessions Digest #4: TCP memory usage, kubernetes internals, how memory allocators work, Rust, Scala and More!",2,14txgfn,coding,https://codeconfessions.substack.com/p/code-confessions-digest-4,0,,1688802174.0
+Text Editor Data Structures,0,14u3w9v,coding,https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/,0,,1688821805.0
+"Clauneck: An open-source gem for scraping emails, social media accounts, and much more information from websites using Google Search Results.",11,14tiobp,coding,https://github.com/serpapi/clauneck,4,,1688762250.0
+Phrack: Twenty years of Exploits Escaping the Java Sandbox,4,14tmgaq,coding,https://www.exploit-db.com/papers/45517,0,,1688770991.0
+"A ""Tiny"" WebAssembly Plugin",0,14twdwh,coding,https://navendu.me/posts/tiny-apisix-plugin/,0,,1688798843.0
+An Introduction To Debugging In Node.Js,0,14tkyps,coding,https://blog.openreplay.com/an-introduction-to-debugging-in-nodejs/,0,,1688767497.0
+Advanced MongoDB Queries in JavaScript for Advanced Data Operations,2,14t8sio,coding,https://medium.com/@vikramgyawali57/advanced-mongodb-queries-in-javascript-for-advanced-data-operations-b651e245599f,0,,1688739963.0
+Why it is time to start thinking of games as databases,0,14thpwt,coding,https://ajmmertens.medium.com/why-it-is-time-to-start-thinking-of-games-as-databases-e7971da33ac3,0,,1688760079.0
+Swift vs Python,0,14t1kl8,coding,https://codebison.in/swift-vs-python/,0,,1688720240.0
+Blog Post: How To Wrap Your Errors With Enums When Using Error-Stack,5,14s625p,coding,https://betterprogramming.pub/how-to-wrap-your-errors-with-enums-when-using-error-stack-77b122016e6e,0,,1688642079.0
+Connecting IoT Devices to the Cloud,13,14rz1ov,coding,https://apisix.apache.org/blog/2023/06/30/apisix-mqtt-proxy/,0,,1688621124.0
+Flattening ASTs (and Other Compiler Data Structures),1,14sguyz,coding,https://www.cs.cornell.edu/~asampson/blog/flattening.html,0,,1688666508.0
+GitHub - mjovanc/github-api: Kotlin Wrapper for GitHub API in an object-oriented matter.,5,14s4xwv,coding,https://github.com/mjovanc/github-api,0,,1688638948.0
+What's IDP & Platform Engineering?,1,14s56ei,coding,https://www.youtube.com/watch?v=G2chp-kk-j4,0,,1688639626.0
+C Programming Book,0,14rz18a,coding,https://books.google.co.in/books?id=IYxjDwAAQBAJ,0,,1688621090.0
+JavaScript’s Backtick Strings are Likely the Wrong Tool for Your Job,0,14ryksj,coding,https://spin.atomicobject.com/2023/06/05/javascript-backtick-strings-wrong/,1,,1688619772.0
+Add Progressive Profiling to Auth0 Authentication in Android Apps Built with Jetpack Compose,0,14rjjju,coding,https://a0.to/reddit-auth0-authentication-android,0,,1688582729.0
+"How To Fine-Tune LLaMA, OpenLLaMA, And XGen, With JAX On A GPU Or A TPU",6,14qghr8,coding,https://nlpcloud.com/how-to-fine-tune-llama-openllama-xgen-with-jax-on-tpu-gpu.html,0,,1688480349.0
+"The Ultimate Guide to Top 10 Databases Powering Modern Technology: Use Cases, Pros, and Cons",0,14qy34k,coding,https://medium.com/@vikramgyawali57/the-ultimate-guide-to-top-10-databases-powering-modern-technology-use-cases-pros-and-cons-a5d34d79d623,0,,1688524860.0
+Jest not recommended to be used in Node.js due to instanceOf operator issues,0,14qquf4,coding,https://backend.cafe/should-you-use-jest-as-a-testing-library,5,,1688504452.0
+To Monorepo or not to Monorepo: Which is right for you and your organization?,0,14qci3q,coding,https://medium.com/lightricks-tech-blog/to-monorepo-or-not-to-monorepo-which-is-right-for-you-and-your-organization-6abb00c725a6,3,,1688469548.0
+Debug Object Detection Models with the Responsible AI Dashboard,1,14qax29,coding,https://opendatascience.com/debug-object-detection-models-with-the-responsible-ai-dashboard/,0,,1688464719.0
+Using secrets and ENV variables in your pipelines,0,14q6zkg,coding,https://youtu.be/dPLPSaFqJmY,0,,1688451906.0
+Memory Allocation,5,14pon29,coding,https://samwho.dev/memory-allocation,1,,1688403752.0
+Thread dump analysis API,1,14ph34x,coding,https://blog.fastthread.io/2016/10/27/thread-dump-analysis-api/,0,,1688385742.0
+"Sticky sessions with Apache APISIX - the demo [Apache APISIX, Hazecalst, Spring Session, Spring Security]",16,14op6xi,coding,https://blog.frankel.ch/sticky-sessions-apache-apisix/2/,0,,1688306791.0
+How Much Memory Do You Need to Run 1 Million Concurrent Tasks?,0,14p9gje,coding,https://pkolaczk.github.io/memory-consumption-of-async,0,,1688360565.0
+Year 11 Physics Simulations Coded in C,13,14ocxhu,coding,https://l-m.dev/physics-applied/,3,,1688265616.0
+Building Feature Pipelines with Apache Flink - Hopsworks,1,14olenp,coding,https://www.hopsworks.ai/post/building-feature-pipelines-with-apache-flink,0,,1688295119.0
+How to Wrap Your Errors with Enums when using Error-stack,0,14oi4xp,coding,https://medium.com/@mustafadhuleb53/how-to-wrap-your-errors-with-enums-when-using-error-stack-77b122016e6e,0,,1688283247.0
+Seeking testers for my educational application(DIUM),8,14nanl8,coding,https://forms.gle/p37LWaZj58WJ4biL6,3,,1688155621.0
+60 terrible coding tips for a C++ developer — and explanations of why they are terrible,26,14muttx,coding,https://pvs-studio.com/en/blog/posts/cpp/1053/,1,,1688114616.0
+Data Orchestration Tools Review,22,14mtjqh,coding,https://lakefs.io/blog/data-orchestration-tooling-2023/,0,,1688110173.0
+Event-driven architecture best practices for databases and files,15,14mczn9,coding,https://www.tinybird.co/blog-posts/event-driven-architecture-best-practices-for-databases-and-files?ref=reddit&utm_source=reddit&utm_medium=social&utm_campaign=q2-2023-blog,1,,1688064492.0
+Branchless Binary Search – 2x faster than C++ std::lower_bound(),23,14m5yx8,coding,https://mhdm.dev/posts/sb_lower_bound/,1,,1688047681.0
+22 Hottest Python Tricks for Efficient Coding,0,14mpc3u,coding,https://www.turing.com/kb/22-hottest-python-tricksfor-efficient-coding,0,,1688096526.0
+How to automate your API testing with Postman,26,14lywod,coding,https://medium.com/criteo-engineering/postman-from-local-tests-to-our-cd-pipeline-670d31666e6,10,,1688025814.0
+Learn OpenResty (NGINX + Lua),6,14m2zy1,coding,https://api7.ai/learning-center/openresty,0,,1688039558.0
+How to send bulk messages to multiple numbers on WhatsApp with pywhatkit (python),0,14m8nqm,coding,https://onlytronix.blogspot.com/2023/06/sendmessagewiithwhatsapppywhatkit.html,3,,1688054172.0
+Python doesn't need to be slow,1,14m1epj,coding,https://www.youtube.com/watch?v=umLZphwA-dw,2,,1688034484.0
+What Have We Learned From Using Pandas?,0,14lyarf,coding,https://medium.com/gooddata-developers/what-have-we-learned-from-using-pandas-78b513cd58e0,3,,1688023605.0
+5 async await best practices in JavaScript,0,14lx4t1,coding,https://www.youtube.com/watch?v=jzaJ59SGE3U,0,,1688019599.0
+A simple step to drastically improve QA,4,14ln8ex,coding,https://levelup.gitconnected.com/lets-make-quality-assurance-great-again-17121669dad7,1,,1687991303.0
+Auto-squashing Git Commits,0,14lzs76,coding,https://thoughtbot.com/blog/autosquashing-git-commits,1,,1688028928.0
+Permit or Deny Login Requests Using Auth0 Actions,0,14llfh1,coding,https://a0.to/reddit-permit-or-deny-login-requests,0,,1687987010.0
+Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022,78,14km1yr,coding,https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html,0,,1687891809.0
+Beyond the DevTools: Profiling WebApps at the Assembly Level - Leaning Technologies,2,14lb5d6,coding,https://leaningtech.com/beyond-the-devtools-profiling-webapps-at-the-assembly-level/,0,,1687962848.0
+Mastering Mongoose Pre Hooks: A Guide to Enhancing Data Manipulation,1,14lbqk2,coding,https://medium.com/@vikramgyawali57/mastering-mongoose-pre-hooks-a-guide-to-enhancing-data-manipulation-efbec44fc66f,0,,1687964235.0
+"getting <bits/stdc++.h> file not found error while using fast olympic coding plugin in sublime, i am only getting this issue when i use my fast olympic plugin to compile and run the code, instead if i try compiling the code in normal terminal i am not getting any issue.",0,14lh7to,coding,https://graph.org//file/bb7961964a08171c6d9e0.png,1,,1687977096.0
+"Code Confessions Digest: Rust to assembly, learn x86 programming by writing a GUI, CLI tools for LLMs, Book on compilers and more!",2,14l33ba,coding,https://codeconfessions.substack.com/p/code-confessions-digest-3,0,,1687938453.0
+Get started with Spring Boot and Auth0,2,14knlxk,coding,https://a0.to/reddit-okta-spring-boot-starter,0,,1687895677.0
+Python selenium chromedriver error? WebDriver.__init__() got an unexpected keyword argument 'executable_path',0,14kt4hk,coding,https://stackoverflow.com/q/76568489/22141623,0,,1687908451.0
+"This article explores producing and consuming Kafka messages in Protobuf format, adhering to Cloud Events spec, and covers polymorphic data type serialization.",4,14k3wfd,coding,https://vkontech.com/kafka-messaging-with-cloud-events-protobuf-and-polymorphic-types/,0,,1687841912.0
+A Comprehensive Guide to Testing Django Applications,24,14jeijd,coding,https://atharvashah.netlify.app/posts/tech/django-testing-guide/,3,"Best Practices and Strategies for Testing Django Applications. Everything from setting up the testing environment to mastering unit testing, integration testing, and end-to-end testing.
+
+This walkthrough guide will be hands-on, include examples, code snippets, common use cases and stick to best practices laid by Django foundation and Python.",1687778234.0
+"Quick survey for research on best practices in microservices. The results will be published back and will focus on developer velocity, deployment times, code complexity, and others.",4,14jpa9m,coding,https://forms.gle/2ZX84KUEwC9Bckms7,2,,1687804508.0
+Learning a technical subject,3,14jj7p7,coding,http://muratbuffalo.blogspot.com/2021/12/learning-technical-subject.html,0,,1687790562.0
+Leetcode YouTube Channel,1,14jrqsl,coding,https://youtu.be/mzJJdOoenZQ,3,"Hi everyone,
+I’ve recently created a YouTube channel to help practice for coding assessments and technical interviews. Check out my first video above and feel free to give feedback. Please be kind :)",1687810122.0
+Your personal AI news reporter - ChatGPT powered with real-time internet access on WhatsApp,0,14jspyi,coding,http://www.thelioai.com,1,,1687812319.0
+The Not-So-Easy Art of Logging Out,0,14ji81y,coding,https://a0.to/reddit-the-not-so-easy-art-of-logging-out,0,,1687788226.0
+"Kafka Consumer Lag: Causes, Impacts and Solutions",37,14if9bb,coding,https://www.groundcover.com/blog/kafka-slow-consumer,7,,1687675874.0
+Qwik introduction from Misko (Qwik creator) and Giorgio (Qwik advocate),0,14jc9xq,coding,https://youtu.be/m5PX9XF1in8,1,,1687770999.0
+Mastering Dart Extension Methods in Flutter: A Comprehensive Guide,0,14itzik,coding,https://www.christianfindlay.com/blog/flutter-dart-extensions,0,,1687719216.0
+"Making C++ Memory-Safe Without Borrow Checking, Reference Counting, or Tracing Garbage Collection",6,14ic7bb,coding,https://verdagon.dev/blog/vale-memory-safe-cpp,0,,1687665558.0
+Some Gotchas with OpenAI's Function Call Feature and How to Handle Them,0,14iiij7,coding,https://codeconfessions.substack.com/p/navigating-sharp-edges-in-openais,4,,1687687436.0
+Write a Ruby C Extension to Use CLIPS from Ruby: Part 2,8,14hzeiy,coding,https://ryjo.codes/articles/write-a-ruby-c-extension-to-use-clips-from-ruby-part-2.html,0,,1687629876.0
+Evaluating Apache APISIX vs. Spring Cloud Gateway,2,14corfc,coding,https://blog.frankel.ch/spring-cloud-gateway-apache-apisix/,0,,1687106112.0
+"Big Tech Digest #1: Exploring HTTP3, What is operational resilience, Improving performance with HTTP Streaming, Go Developer Survey Results, Building and deploying MySQL Raft and more!",22,146tlak,coding,https://bigtechdigest.substack.com/p/big-tech-digest-1,1,,1686489050.0
+Demystifying Tupper's formula,5,146ti4l,coding,https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/,0,,1686488797.0
+How to Overcome Imposter Syndrome as a Software Engineer,1,1472ow2,coding,https://blog.digitalhole.co/how-to-overcome-imposter-syndrome-as-a-software-engineer-f902f14c7957,1,,1686511324.0
+Dependency injection,4,146oyka,coding,https://systemsatscale.io/why-dependency-injection-matters/,0,,1686473915.0
+Playing with WASM on Docker,0,146ydqc,coding,https://blog.frankel.ch/wasm-docker/,0,,1686501209.0
+Coding Problem - Canadian Wildfires,1,146r6yp,coding,https://curiousdrive.com/codingproblem/canadian-wildfires,0,,1686481691.0
+Mastering the Art of Freelance Development: Your Pathway to Independence and Success as a Developer,0,146pqwj,coding,https://blog.digitalhole.co/mastering-the-art-of-freelance-development-your-pathway-to-independence-and-success-as-a-developer-49e7ab945dad,2,,1686476733.0
+Metrics pollution and how to avoid it,0,146o95m,coding,https://www.rockandnull.com/metrics-pollution-and-how-to-avoid-it/,0,,1686471304.0
+The Hidden Crisis in Open Source Development: A Call to Action,19,145jetf,coding,https://towardsdatascience.com/the-hidden-crisis-in-open-source-development-a-call-to-action-abf6bc2a8c0c?sk=eb2848ad5b5bbacec49dc2887256e1b5,1,,1686351075.0
+The principles and habits of healthy software,27,145fraq,coding,https://leaddev.com/building-better-software/principles-and-habits-healthy-software,0,,1686342267.0
+Explore baseball history with vector search,7,145kejh,coding,https://medium.com/neuml/explore-baseball-history-with-vector-search-5778d98d6846,0,,1686353630.0
+Writing a C Compiler,22,1455fbj,coding,https://norasandler.com/2017/11/29/Write-a-Compiler.html,2,,1686317650.0
+6 Things I Wish I Knew When I Started Programming,0,145mkmr,coding,https://blog.digitalhole.co/6-things-i-wish-i-knew-when-i-started-programming-c95d6b1744bd,1,,1686359573.0
+"A Comprehensive Comparison of API Gateways, Kubernetes Gateways, and Service Meshes - API7.ai",25,144xfh9,coding,https://api7.ai/blog/gateway-and-mesh,0,,1686292272.0
+Big O Notation: A Simple Explanation With Examples,54,144hwzc,coding,https://stackthrive.com/big-o-notation,4,,1686251038.0
+"allEngineeringBlogs.com - newsletter with 100+ high-quality company engineering blogs to your Inbox, Telegram, and Twitter. I built this so you don't have to individually find and follow/subscribe to them.",1,144z8et,coding,https://allengineeringblogs.com,0,,1686298519.0
+RabbitMQ vs. Kafka vs. ActiveMQ: A Battle of Messaging Brokers,0,144xyri,coding,https://www.designgurus.io/blog/RabbitMQ-Kafka-ActiveMQ-System-Design,0,,1686294095.0
+Why you need cookie-based Auth for the Next.js 13 App Router 🍪,0,1456bl6,coding,https://www.youtube.com/watch?v=w3LD0Z73vgU,0,,1686319856.0
+CQC: A C++ General Purpose Development Environment for Automations,0,144o6ac,coding,https://www.youtube.com/watch?v=EXhc2XtiPms,0,,1686265447.0
+Flask Authentication Guide,0,144ib9k,coding,https://a0.to/reddit-flask-basic-authentication,0,,1686251950.0
+JS private class fields considered harmful,2,1447e8h,coding,https://lea.verou.me/2023/04/private-fields-considered-harmful/,4,,1686225820.0
+Postgres Full Text Search is better than ...,71,143k7yz,coding,https://admcpr.com/postgres-full-text-search-is-better-than-part1,2,,1686160883.0
+How NASA Writes Space-Proof Code,13,143prn9,coding,https://www.youtube.com/watch?v=GWYhtksrmhE,0,,1686173694.0
+Would you like to participate in interesting project ? Pythonists are welcome !,0,1448f8x,coding,https://www.reddit.com/r/developers/comments/143pixe/invitation_to_panda3d_hackathon_python/?utm_source=share&utm_medium=web2x&context=3,0,,1686228631.0
+Best Programming Languages for Android in 2023,0,14440eh,coding,https://codebison.in/programming-languages-for-android/,1,,1686215075.0
+10 Unix File Management Commands That Every Developer Should Know,0,1446eoo,coding,https://levelup.gitconnected.com/10-unix-file-management-commands-that-every-developer-should-know-afc6bdc4f27c?sk=be6fd6d1dc6cd2b32ec07bdebdf260e4,0,,1686222952.0
+The weird world of Windows file paths,0,143ovok,coding,https://www.fileside.app/blog/2023-03-17_windows-file-paths,0,,1686171675.0
+"Weekly Code Confessions Digest: Exploring Intriguing Articles, Books, and Courses",22,1435n9b,coding,https://codeconfessions.substack.com/p/weekly-code-confessions-digest-1,0,,1686120032.0
+Write Better CSS By Borrowing Ideas From JavaScript Functions,0,143qggm,coding,https://www.smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/,0,,1686175290.0
+What's the Right Authorization Model for My Application?,0,143fokq,coding,https://a0.to/reddit-authorization-model,1,,1686150301.0
+Why is OAuth still hard in 2023? (they're selling their service but the content is pretty high effort),67,142duuv,coding,https://www.nango.dev/blog/why-is-oauth-still-hard,3,,1686053026.0
+SVG versus Canvas: Which technology to choose and why?,1,1439nle,coding,https://www.jointjs.com/blog/svg-versus-canvas,0,,1686134353.0
+can this do what it says it can do,0,143m7uo,coding,https://github.com/Mikey-y/RBLXWild_Case_Auto-Joiner,1,,1686165575.0
+Is LUA a good start for learning how to code?,0,1433ka2,coding,http://Roblox.com,3,"Hi I started using unity and learned how to use a game engine through that. I just got to the coding part and took a break. On this break I wanted to try building something in Roblox, doing so I learned a couple simple things coding within it as well like variables, nil, local, true, false, ==, —, and so on lol. I really would love to create my one game in both Unity and Roblox. Would it be okay for me to learn somewhat with LUA then move to C# here and there? What are your guy’s opinions? Sorry if i sound like I don’t know what I’m talking about, it’s because I kind of don’t lol. But I’m very passionate about this and really really want to learn!",1686113129.0
+I made a boilerplate 🧪 Python/Flask + GCP Cloud Run + Docker + Gitlab,0,142q16w,coding,https://gitlab.com/dag83/boilerplate-flask-gcp-cloud-run-docker-gitlab,0,,1686078164.0
+Why you should pin your GitHub Actions by commit-hash,7,1428yy9,coding,https://blog.rafaelgss.dev/why-you-should-pin-actions-by-commit-hash,1,,1686040461.0
+"UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories",72,141l1l6,coding,https://www.youtube.com/watch?v=XvDZLjaCJuw,3,,1685984600.0
+AI Does Not Help Programmers,1,142dxz5,coding,https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext,2,,1686053224.0
+Clear details on Java collection ‘Clear()’ API,4,1427zet,coding,https://blog.ycrash.io/2023/02/18/clear-details-on-java-collection-clear-api/,0,,1686037647.0
+How can i break into software engineering if i am already an electrical engineer,0,142rcjv,coding,http://google.com,6,i work at a place which requires no coding. How do i transition,1686081154.0
+"Programming Language Index , have desc , installation commands , etc as a json dict",0,142izqv,coding,https://github.com/merwin-asm/LanguageIndex,0,,1686064059.0
+The Right Way to Run Shell Commands From Python,13,141jltk,coding,https://betterprogramming.pub/the-right-way-to-run-shell-commands-from-python-c05f0b9d6cb7,5,,1685981746.0
+Use AI to generate a PostgreSQL database that can play Tony Hawk's Pro Skater 2 🛹,0,142b1cx,coding,https://www.youtube.com/watch?v=ffdUZbYov9g,2,,1686046026.0
+Most Used Programming Languages Across Different Industries in 2023,0,14285w7,coding,https://codebison.in/most-used-programming-languages/,0,,1686038156.0
+Anything can be a message queue if you use it wrongly enough,13,1416jcc,coding,https://xeiaso.net/blog/anything-message-queue,1,,1685951363.0
+Good and Bad Times as a Contrarian Programmer • Stephan Miller,0,141fkn8,coding,https://www.stephanmiller.com/contrarian-programmer/,2,,1685973750.0
+Computer Programming | Live Coding Help & 1:1 Computer Tutor,1,1416q8l,coding,https://www.vnaya.com/computer-programming,0,,1685951882.0
+Ukoreh - Try Flutter projects as web apps at the distance of a click,4,140tjee,coding,https://ukoreh.fun,0,,1685919298.0
+How malicious extensions hide running arbitrary code,5,140nvj5,coding,https://palant.info/2023/06/02/how-malicious-extensions-hide-running-arbitrary-code/,0,,1685907651.0
+Learn x86-64 assembly by writing a GUI from scratch,54,1405yxh,coding,https://gaultier.github.io/blog/x11_x64.html,0,,1685866509.0
+tcmd || tool for seeing da most used commandss!!,0,1414xur,coding,https://github.com/merwin-asm/tcmd,0,,1685946979.0
+Aprenda FastAPI e crie APIs em minutos!,0,1417mqp,coding,https://youtu.be/9vRpj0RbkBg,0,,1685954401.0
+How to Generate Random Numbers in JavaScript | Learning Qna,0,140ztse,coding,https://learningqna.in/how-to-generate-random-numbers-in-javascript/,0,,1685933528.0
+Socket Programming In Java • Scientyfic World,13,14025cp,coding,https://scientyficworld.org/socket-programming-in-java/,0,,1685855969.0
+App for generating Facebook notifications,0,140v8f0,coding,http://facebook.com,0,"Apologies if this isn't the correct group to post this.  Any suggestions for a more appropriate group would be appreciated.  
+
+In my uneducated opinion, an app for generating notifications related to Facebook would be an app that many people would pay for. In my experience the functionality of Facebook notifications sucks dog balls.  And in addition to the notifications that Facebook claims to provide, there are more specific notifications that would be useful.  For example, at the moment I would love a high priority notification for any event that is created in a specific Facebook group.  
+
+Thanks for reading 🙂",1685922960.0
+GitLab Pages preview,0,140hs2q,coding,https://blog.frankel.ch/gitlab-pages-preview/,0,,1685895290.0
+"I created a template repo using the new Next.js 13 App Router (Server components, typesafe server actions, etc...)",22,13yv49m,coding,https://github.com/braydenwerner/t3-turbo-next-app-router,5,,1685752924.0
+Using Fossil,0,13zjdna,coding,https://wholesomedonut.prose.sh/using-fossil-not-git,0,,1685812962.0
+"GitHub Codespaces and GitHub Copilot: 2 Stories, Thousands of Possibilities",0,13zek6y,coding,https://opendatascience.com/github-codespaces-and-github-copilot-2-stories-thousands-of-possibilities/,0,,1685802553.0
+Unlocking the Power of Voice: Enhance Your Applications with Azure Speech Services,0,13zefob,coding,https://opendatascience.com/unlocking-the-power-of-voice-enhance-your-applications-with-azure-speech-services/,0,,1685802271.0
+I started building a bi-weekly newsletter called Big Tech Digest which aggregates tech articles from Big Tech and 100+ startup engineering blogs.,8,13yejbj,coding,http://bigtechdigest.substack.com/,0,,1685716661.0
+Improvements to static analysis in the GCC 13 compiler,32,13xwfhf,coding,https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler#,0,,1685661081.0
+Build a Basketball SMS Chatbot with LangChain Prompt Templates in Python,12,13xrs4t,coding,https://www.twilio.com/blog/basketball-sms-chatbot-with-langchain-prompt-templates,0,,1685649818.0
+How Much Are GitHub Stars Worth to You?,3,13xr2r7,coding,https://the-guild.dev/blog/judging-open-source-by-github-stars,9,,1685648219.0
+"I’m eagerly wanting into the coding world, I’ve researched heavily and found an inexpensive, short-term route and I’d like a few opinions if this repertoire is significant to suffice a career:",0,13xx1zb,coding,https://www.realultimatepower.net/,6,"C#, .NET 6/7, Javascript Intro, HTML, CSS, SQL, and ASP.NET",1685662725.0
+Can you find the vulnerability in this code?,0,13xzteq,coding,https://wizer-ctf.com/?id=y1AzT9,3,,1685670413.0
+How do I make the sprite stop moving after walking 2000 pixels and the continue after being still for 5 seconds? Please help this I due today ;-;,0,13xr6pu,coding,https://codepen.io/Fish_Jesus/pen/RweYMKZ,2,,1685648473.0
+Warp vs Fig: two different tools enhancing your terminal experience,36,13whnmg,coding,https://youtu.be/GHKy8cTg1kA,5,,1685526472.0
+Is Java a Good Choice for Data Science? Key Features and Frameworks,0,13xebmy,coding,https://stratoflow.com/java-for-data-science/,2,,1685616562.0
+Programming with one or less hands,7,13wnjny,coding,https://lobste.rs/s/o4usyg/programming_with_one_less_hands,2,,1685542669.0
+"Hey guys im a 2nd year computer science student and always on the lookouts for cash prize Hackathons, found this one organised by praxis business school and the prize for first place is 25k just sharing with any fellow coding students who might also be interested:",0,13xbknw,coding,https://twitter.com/JoinMachinehack/status/1663475653591842816?s=20,0,,1685606509.0
+Is there a way to code a doorbell to only open the door automatically upon seeing a recognised face and for which I had already sent an instruction that this person was coming that day?,0,13xa8n6,coding,https://www.amazon.in/360-Recognition-Smart-Video-Doorbell/dp/B07WQY9Q11,11,,1685601370.0
+Making a minimalist custom UI for VS Code via CSS injection,23,13w83b8,coding,https://cmdham.com/blog/vscode,1,,1685495679.0
+"Download Bill's Office, a free and offline productivity app much better than any other!",0,13x1vwt,coding,https://github.com/ThatPresidentGuy/Bills-Office-1.3/releases/tag/bills-office,1,,1685576085.0
+Introducing Auth0 Templates for .NET,0,13wmmeq,coding,https://a0.to/reddit-auth0-templates-for-dotnet,0,,1685540413.0
+Build a Beautiful CRUD App with Spring Boot and Angular,9,13w1ybu,coding,https://a0.to/reddit-spring-boot-angular-crud,3,,1685480394.0
+Sign up for Coding Tricks 💌 Free Newsletter,0,13wqh6s,coding,https://forms.gle/ma8RHJ4KjdtmRWgD9,0,,1685549486.0
+AI Code Converter - Convert Code From Any Language to Another,0,13w06jp,coding,https://zzzcode.ai/code-converter?id=91275e77-fd69-41dc-8b78-3a46a587e1db,0,,1685476250.0
+Programming without a stack trace: When abstractions become illusions,2,13vs84s,coding,https://architectelevator.com/architecture/stacktrace-abstraction/,2,,1685457874.0
+"Developer, Programmer, Engineer - Decoding the Titles in the Coding World • Stephan Miller",1,13vrnv0,coding,https://www.stephanmiller.com/coder-programmer-or-engineer/,0,,1685456508.0
+How to become a Front-End Developer: Part 1,0,13vtc98,coding,https://blog.nandan.dev/how-to-become-a-front-end-developer-part-1,0,,1685460488.0
+Understanding React Concurrency,0,13vny38,coding,https://www.bbss.dev/posts/react-concurrency/,0,,1685446882.0
+How To Find And Fix Accessibility Issues In React | ReactJS Tutorials |,0,13vmht4,coding,https://youtu.be/hsngjoFrntI,0,,1685442374.0
+LLM React Node App Open-source template,12,13v1vbh,coding,https://github.com/golivecosmos/llm-react-node-app-template,0,,1685383276.0
+Neutralinojs v4.12.0 released!,2,13ura5k,coding,https://github.com/neutralinojs/neutralinojs/releases/tag/v4.12.0,0,,1685356973.0
+Learn Python Programming | Learn Python Programming beginner,0,13veq4k,coding,https://youtube.com/watch?v=j6kuapwQpxQ&feature=share,0,,1685415918.0
+Containerizing a Golang API with Podman,0,13v0ba0,coding,https://ksrof.com/posts/containerizing-a-golang-api-with-podman/,0,,1685379483.0
+Health Check Response Format for HTTP APIs,20,13u5c23,coding,https://blog.frankel.ch/healthcheck-http-apis/,1,,1685293173.0
+The Ultimate Guide to Tech Stack for Indie Hackers in 2023,0,13uznfj,coding,https://medium.com/@the-fedor/the-ultimate-guide-to-tech-stack-for-indie-hackers-in-2023-7420b4e49e26,0,,1685377972.0
+Finding Temporal Patterns in Twitter Posts: Exploratory Data Analysis with Python (Article),16,13u5b01,coding,https://towardsdatascience.com/finding-temporal-patterns-in-twitter-posts-exploratory-data-analysis-with-python-8aac618c8699,0,,1685293100.0
+"what does error: crbug/1173575, non-JS module files deprecated. mean on visualstudio!?",0,13upk68,coding,http://help.com,0,,1685351200.0
+Web Scraping Amazon.com,4,13tymdy,coding,https://serpdog.io/blog/web-scraping-amazon-product-data/,0,,1685274798.0
+Improve your social skills with ChatGPT!,0,13ughuo,coding,https://chat.openai.com/share/1329d8ec-5141-45f9-a2c2-842d4bad7bcc,0,,1685321912.0
+"GitHub Codespaces and GitHub Copilot: 2 Stories, Thousands of Possibilities",0,13u1no3,coding,https://opendatascience.com/github-codespaces-and-github-copilot-2-stories-thousands-of-possibilities/,0,,1685283768.0
+Coding Problem - Tesla's Cybertruck : Charging Simulator,0,13twvec,coding,https://curiousdrive.com/codingproblem/tesla-cybertruck-charging-simulator,0,,1685269012.0
+how many js frameworks do all of you know,0,13u28df,coding,https://www.reddit.com/r/coding/submit?draft=c06e7f58-fd66-11ed-9b1e-4255acefd02d,2,,1685285358.0
+"UnlimitedGPT now lets you automate most things on the ChatGPT website! Get user data, switch accounts, clear all conversations, switch themes, get messages much more faster than before, logout of current accounts, imitate human typing with customized delays, and much more!",0,13u99my,coding,https://github.com/Sxvxgee/UnlimitedGPT,0,,1685303186.0
+Saving expensive API responses,19,13t9tf1,coding,https://github.com/AdmTal/crowdcast/blob/main/utils/open_ai_stuff.py#L14-L30,4,"Hey all,
+
+I saw someone share a full caching service, so I thought I’d also share this pattern I use for making expensive API requests.
+
+Basically, I save the contents to a file, named for the inputs, so I never have to reproduce that same call.
+
+It helps make my scripts “continueable”
+
+I use similar pattern with other expensive APIs like eleven labs.",1685199980.0
+Should we still write software engineering blog posts?,0,13u0ph1,coding,https://www.rockandnull.com/software-engineering-blog-posts-in-ai-era/,0,,1685281145.0
+Program to convert a binary number to decimal number c programming,0,13tyt2c,coding,https://youtube.com/watch?v=fE8bh8A5i9A&feature=share,0,,1685275372.0
+Program to convert a binary number to decimal number c programming,0,13tyuj0,coding,https://youtube.com/watch?v=fE8bh8A5i9A&feature=share,0,,1685275499.0
+Complex Menus Made Easy with Doodle 0.9.2,21,13sg1mm,coding,https://nacular.github.io/doodle/docs/ui_components/overview#menu,3,,1685114429.0
+Update on my AI Generated Podcasts,0,13t7bdx,coding,https://github.com/AdmTal/crowdcast,0,"Hey all,
+
+First - here are the stats: https://imgur.com/a/eU7BJvL
+
+I’m currently making two AI generated podcasts.
+
+I wanted to share some info in case anyone is curious how it’s going for me.
+
+First, I have two podcasts:
+
+ * [Emoji Puzzles: Daily Emoji Trivia](https://www.buzzsprout.com/2185630/share)
+ * [Crowdcast](https://www.buzzsprout.com/2188164/share)
+
+Emoji puzzles was an experimental audio version of my book: http://emojipuzzlebook.com
+
+And Crowdcast is an experimental interactive podcast, crowdsourced weekly from the /r/Crowdcast subreddit.
+
+I made Emoji Puzzles using https://www.wondercraft.ai, which is pretty great, you can hear the quality.
+
+But I made Crowdcast by writing my own python project, basically emulating what Wondercraft did, cause I felt I could do it on my own.  I happen to be a software developer, so I’m into this kind of thing.  You can get all the code on GitHub: https://github.com/AdmTal/crowdcast
+
+I generated 40 episodes of Emoji Puzzles, and have scheduled them to post daily, and they should run to June 10th.
+
+But Crowdcast, I make once weekly and post fresh.
+
+Let me know if you have any questions!
+
+Wired had a cool article: [Generative AI Podcasts Are Here. Prepare to Be Bored](https://www.wired.com/story/generative-ai-podcasts-boring/?utm_campaign=likeshopme&utm_medium=social&utm_source=instagram&utm_content=instagram-bio-link&client_service_name=wired&client_service_id=31209&service_user_id=1.78e+16&supported_service_name=instagram_publishing&utm_social_type=owned&utm_brand=wired)
+
+So far, I tend to agree - but that’s the fun challenge for me, to try and make something entertaining using this stuff.  I would love to have a project that produces something that actually entertains me.",1685193612.0
+"Interactive, AI Generated Podcast in Python",0,13sypye,coding,https://github.com/AdmTal/crowdcast,0,"Hey all,
+
+I make a weekly, interactive, AI generated podcast using whatever the the top 3 comments on /r/crowdcast that week!
+
+I think it’s pretty rad!!  [Give it a listen](https://www.buzzsprout.com/2188164/share)!
+
+You should come hang out, leave some comments, and get featured!
+
+I’m here to tell you about episode #3 which just launched, and to give you some behind the scenes tech insights.
+
+Of course, [all of the code is open source](https://github.com/AdmTal/crowdcast) if you’re into that kind of thing - feel free to open a PR, would love to collaborate and get feedback.
+
+Otherwise, it’s pretty simple, I have a [script](https://github.com/AdmTal/crowdcast/blob/main/main.py) that pulls the top three comments every week, and I run them through a [series of prompts](https://github.com/AdmTal/crowdcast/tree/main/prompts) in order to build a full podcast script.  Then I use [Eleven Labs](http://elevenlabs.io) to generate the voice.  I stitch it all together with some music using Python, and then publish it using [Buzzsprout](https://www.buzzsprout.com).  I’m currently using GPT-4 to run the prompts.
+
+For episode 3, I did something new to try and raise the quality of content and keep it interesting, I call it [Prompt enhancement](https://github.com/AdmTal/crowdcast/blob/main/prompts/prompt_enhancer.py).
+
+Here are the user comments used for episode #3 both before and after prompt enhancement:
+
+First, /u/liquidhot [suggested this](https://www.reddit.com/r/crowdcast/comments/13lhis4/vote_now_for_next_weeks_crowdcast_topics_will/jks2etg/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1&context=3):
+
+    A segment about the lighter side of the dark web and how dark net criminals can come together to make the world a better place.
+
+Which became this after enhancement:
+
+    The dark web is often depicted as a sinister, secret layer of the internet - a place only for illicit activities. But could there also be instances where this mysterious corner of the web has been a force for good? In this segment, we'll delve into concrete examples of hackers and dark web users leveraging their skills for altruistic purposes. We'll discuss the role of hacktivists like the members of Anonymous who exposed high-level corruption in the Tunisian government during the Arab Spring, and highlight cases such as the ransomware attackers - Phineas Fisher - who claimed to have donated their ill-gotten gains to charities like Kurdish anti-capitalists. We'll also examine how the dark web has provided a safe haven for whistleblowers like Edward Snowden, enabling them to share critical information without the fear of facing severe consequences. Join us as we unravel the complex realities and unexpected positive aspects of the dark web communities, and how, in certain instances, they are contributing to a more just world.
+
+Second, /u/tango_foxtrot404 [suggested](https://www.reddit.com/r/crowdcast/comments/13lhis4/comment/jksycbg/?utm_source=share&utm_medium=web2x&context=3):
+
+    A debate segment between 2 artificial intelligences on the question: Are we alone in the universe?
+
+Which became this after enhancing:
+
+    A debate segment featuring two cutting-edge artificial intelligences, each presenting opposing sides of the question: Are we alone in the universe? Drawing on the latest scientific theories, findings, and case studies, both AI debaters will tackle key topics including the Fermi Paradox, the Drake Equation, and the potential of microbial life in our solar system. Listeners will also get a glimpse into the current state of astrobiology, extraterrestrial intelligence research, and the implications of discovering life beyond Earth. As they debate, the AIs will also demonstrate their reasoning skills, natural language understanding, and ability to think and learn on the fly, providing unique and profound perspectives on this age-old question. Join us as we push the boundaries of both cosmic and artificial intelligence in this engaging and thought-provoking segment.
+
+Finally, /u/dramatic-mongoose-95 (me) [suggested](https://www.reddit.com/r/crowdcast/comments/13lhis4/comment/jkpy005/):
+
+    Next weeks episode should have a fiction segment about the dark conspiracy theories surrounding the great British bake-off. The lies, the cheating, the gambling, the calories.
+
+Which became this after enhancement:
+
+    In next week's episode, we dive into the world of culinary intrigue with an exploration of the gripping conspiracy theories surrounding the popular TV show, The Great British Bake-Off. We'll dissect the rumors of lies, cheating, gambling, and the surprising calorie-loaded consequences. Delving into the history of the competition, we'll discuss specific instances where fans have uncovered potential plots to manipulate the outcome--including potential judge favoritism and explosive ingredient scandals. As we wade through these complex webs of whispers, we'll also investigate the claims of a shadowy betting ring operating behind the scenes, and gain insight into the true calorie cost of creating these sumptuous baked masterpieces. Come along with us as we reveal the secrets and scandals behind the oven doors of this beloved cooking competition, and learn how this apparently innocent show has, for some ardent fans, become a field of sinister speculation.
+
+Thanks for reading, hope you come check it out, and maybe even join in, and please let me know if you have any questions or comments!!",1685164450.0
+Spring Boot Development Mode with Testcontainers and Docker,7,13seqty,coding,https://piotrminkowski.com/2023/05/26/spring-boot-development-mode-with-testcontainers-and-docker/,1,,1685111354.0
+Here’s a chatbot you can ask anything about my podcast,0,13t0x80,coding,https://chat.openai.com/share/a98e19cc-151c-4e64-9a48-a73097e73a36,0,,1685172231.0
+"A Linux exercise in IPC with D-Bus using C, Python, Java and PHP (with a step-by-step Colab notebook and Docker files)",21,13rj2tf,coding,https://github.com/nsndp/dbus-example,0,,1685024402.0
+"Hi, i have an API of an AI i have made and i want to verbaly speak with it, how can I do it? I need someone to help me do it pls",0,13sg8q0,coding,https://github.com/,2,,1685114906.0
+"Hey developers, Save your install time with my app!",0,13sgwty,coding,https://milkcoke.github.io/docusaurus/toolbox-dev/Toolbox-v1.0.0,1,,1685116477.0
+"No-login remote coding jobs aggregator w/ very flexible filters (`and`, `or`, `not`, groups)",6,13reuto,coding,https://slashjobs.com/,2,,1685013085.0
+Hey there! I'm working on an all encompassing career prep website (with a key feature being AI mock interviews) and would appreciate if you could fill out this quick survey!,0,13rtgcy,coding,https://forms.gle/iCvFR9AULP5Fv5gs6,0,,1685048978.0
+Language Interoperability From the Ground Up,1,13rce33,coding,https://samwho.dev/blog/language-interoperability-from-the-ground-up/,0,,1685004989.0
+Demystifying Infrastructure as Code: Guide to DevOps Automation,36,13qi5x9,coding,https://www.ediiie.com/blog/demystifying-infrastructure-as-code-guide-to-devops-automation/,4,,1684925671.0
+"Rich Harris on frameworks, the web, and the edge",3,13qpqwi,coding,https://www.youtube.com/watch?v=uXCipjbcQfM,0,,1684944372.0
+Building a cost-effective image vector search engine with CLIP,9,13qe0t0,coding,https://wasimlorgat.com/posts/image-vector-search.html,0,,1684911332.0
+Exploring JDK 20.0.1,0,13ql2d1,coding,https://programtalk.com/java/exploring-jdk-20-0-1/,0,,1684933333.0
+How to convince your pm/client to give you time to write tests - it pays off in the long run!,8,13pp41w,coding,https://youtu.be/hrhblEwtAoU,2,,1684849740.0
+I made discordgpt now open-sourcing it on GitHub: Integrate ChatGPT into your own discord bot,7,13ppifi,coding,https://www.reddit.com/r/GPT3/comments/13pphlz/i_made_discordgpt_now_i_am_opensourcing_it_on/,4,,1684850631.0
+"Help my son code on scratch!!! My son is coding a game for school and needs help with sprite interactions when the sprite must be placed inside of a tile sheet, so the code will not work if it is code for when sprite touching. It is in a scrolling map. He is 12 pls help!",0,13q876k,coding,http://www.scratch.mit.edu,8,,1684894512.0
+Let's talk about ChatGPT with Code Interpreter & Microsoft Copilot,0,13pziup,coding,https://www.oneusefulthing.org/p/it-is-starting-to-get-strange,1,,1684873224.0
+Interview with Programming Visionaries Donald Knuth and Niklaus Wirth from 1985,34,13ovpiq,coding,https://computeradsfromthepast.substack.com/p/interview-with-programming-visionaries,1,,1684773034.0
+Memory Allocation,20,13oq0tr,coding,https://samwho.dev/memory-allocation/,2,,1684759809.0
+"Python: PyPI temporarily stopped new users, projects amid high volume of malware",1,13op7e3,coding,https://programmingeeksclub.com/pypi-security-threats-implications-python-community/,11,,1684757682.0
+The Secrets to Keeping Your Programming Career Balanced,0,13ouum1,coding,https://medium.com/@eristoddle/the-secrets-to-keeping-your-programming-career-balanced-8213500d8a6b,2,,1684771034.0
+The Inner Workings of Distributed Databases,32,13njgv0,coding,https://questdb.io/blog/inner-workings-distributed-databases,0,,1684645361.0
+Please help I am a beginner,0,13omr3w,coding,https://youtu.be/XKHEtdqhLK8,6,"I am 16 years old and soon my mechatronics diploma will start but in between the time I have i wanted to learn coding 
+I found a 12hour tutorial of python should I learn it 
+I don't want to spend any money and I know nothing about coding 
+Should I learn python from the tutorial ???",1684750407.0
+How to Get Software Teams Back on Track,20,13n6t6g,coding,https://levelup.gitconnected.com/how-to-get-software-teams-back-on-track-1d767309d3ae,0,,1684614019.0
+This package simplifies async data handling in your React apps,0,13nw58b,coding,https://github.com/tobq/loadable,2,,1684678475.0
+An example of LLM prompting for programming,3,13nlpvo,coding,https://martinfowler.com/articles/2023-chatgpt-xu-hao.html,1,,1684652617.0
+"NLP: A Beginner's Guide to Large Language Models, Transformers, and Fine-tuning.",38,13m6yos,coding,https://blog.nandan.dev/nlp-a-beginners-guide-to-large-language-models-transformers-and-fine-tuning,5,,1684528455.0
+Key+Id=answer,0,13nfny6,coding,http://Jeff.com,0,"I was going through some code with a friend because he’s developing a system and we found a piece of code that basically says that they key+id gives you a code. We would like to find out how this works so we can prevent any security issues on our server. Does anyone know how to combine the two? For reference, a key is 216 characters and an Id is 32",1684634173.0
+Empty character class in JavaScript regexes,0,13mntrl,coding,https://www.abareplace.com/blog/emptybrackets/,2,,1684577052.0
+A Beginner GuideTo Web Scraping,0,13m9prk,coding,https://serpdog.io/blog/web-scraping-a-complete-guide/,0,,1684535026.0
+Convert a Subreddit to a Podcast with Python and AI,20,13li16x,coding,https://github.com/AdmTal/crowdcast,3,"Hey all,
+
+I posted earlier about my open source repo that converts subreddits into podcasts.
+
+I released a new episode of my podcast today, generated from the top comments in the weekly thread on /r/crowdcast
+
+Wanted to share it here, and hope to get feedback on anything at all.
+
+https://www.buzzsprout.com/2188164/share
+
+All of the prompts are available in the repo here: https://github.com/AdmTal/crowdcast
+
+The topics are submitted by Redditors, the script generated by GPT-4, the voice generated by https://beta.elevenlabs.io/, and it’s all pulled together with Python.
+
+Hope you listen and enjoy!
+
+If you like it or have any feedback on how to improve it, please let me know!!
+
+Head over to /r/crowdcast and submit or vote in next weeks topics!",1684462105.0
+"The technical challenges behind the mobile app that won Telegram's $50,000 programming contest",141,13kumla,coding,https://bednarczuk.dev/How-I-won-50000-Telegram-Sticker-App-Contest-using-Flutter-04-06,2,,1684404837.0
+I updated Anime-Ai chat bot but ai Model is not satisfied. What model is appropriate to fine-tune?,0,13m3qp2,coding,https://www.sumsumai.click,0,,1684521055.0
+Streamlit and analytics,2,13lmp4h,coding,https://medium.com/gooddata-developers/streamlit-meets-headless-bi-cb6196b69671,0,,1684476246.0
+History and Future of Infrastructure as Code,3,13l0h93,coding,https://www.endoflineblog.com/history-and-future-of-infrastructure-as-code,1,,1684419628.0
+The Problem with the Double Diamond: The problem space and the solution space are not two separate things.,19,13kcxf5,coding,https://medium.com/@jason.godesky/the-problem-with-the-double-diamond-57ab03719ce0,0,,1684354869.0
+htmx 1.9.0 has been released!,25,13k97ez,coding,https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/,0,,1684346461.0
+Copilot Chat writes Unit Tests for you! But are they reliable?,0,13kup1g,coding,https://leonardomontini.dev/copilot-x-chat-unit-test/,0,,1684405026.0
+De-stressing Booking.com,4,13klodn,coding,https://www.alexcharlton.co/projects/booking-com-de-stresser,0,,1684376365.0
+I build Light novel style chatting service using chat gpt api. What functions can I fix and add?,1,13kp0ia,coding,https://www.sumsumai.click,2,,1684386075.0
+Xcopy and robocopy in a .ini file,0,13kssoz,coding,http://xcopy.co.uk,0,"Hey guys,
+
+I’m hoping someone can help as I’m abit stumped. 
+
+I have some software which reads settings from an .ini file upon launch. 
+
+I want to utilise this file to copy a file from one location to another.
+
+I can get the copy command to work, but I need the file structure, so I have tried using Xcopy and robocopy. 
+
+I can’t get Xcopy or robocopy to do anything at all, which tells me they won’t work when run from a .ini file?
+
+I don’t understand why copy would work but the other two functions don’t, unless .ini tiles are that old they can only use the copy?
+
+This is further proved by the fact I can add the xcopy command to a .bat file and it works as expected, so the actual code is correct. 
+
+Just wondering if I’m missing something?",1684398863.0
+"A gentle introduction to React, but visualized.",53,13jqrpp,coding,https://react.gg/visualized,3,,1684296075.0
+"I made an educational rap about Javascript Array Methods, AND a Github repository with code examples to accompany the lyrics",18,13jdhli,coding,https://github.com/jjhiggz/javascript-array-methods-song,4,,1684262573.0
+🔴 Live in 15 minutes coding an isometric game in Love2D + fennel,0,13k4p61,coding,https://www.twitch.tv/aliasing44,0,,1684336676.0
+Hey guys! How would you create such an effect?,7,13j4ybs,coding,https://wetransfer.com/ideas-report/2022,2,,1684242952.0
+Came across this on my way to work 😂,0,13jjw2e,coding,https://youtube.com/shorts/YXXfk8ZaL7k?feature=share,0,,1684277560.0
+In Praise of Top Down Programming,11,13inn3d,coding,https://www.i-programmer.info/professional-programmer/i-programmer/3864-in-praise-of-top-down-.html,11,,1684191803.0
+RBAC with API Gateway and Open Policy Agent(OPA),0,13iytzx,coding,https://medium.com/apache-apisix/rbac-with-api-gateway-and-open-policy-agent-opa-9901cfb3c66d,0,,1684224608.0
+Dart 3: A Comprehensive Guide to Records and Futures,33,13i27qu,coding,https://www.christianfindlay.com/blog/dart-records-and-futures,0,,1684139684.0
+Postgres: The Graph Database You Didn't Know You Had,2,13i0kre,coding,https://www.dylanpaulus.com/posts/postgres-is-a-graph-database,1,,1684134236.0
+Working on an unfamiliar codebase,17,13hjk4e,coding,https://blog.frankel.ch/working-unfamiliar-codebase/,0,,1684088989.0
+Real Multithreading is Coming to Python - Learn How You Can Use It Now,31,13heepj,coding,https://betterprogramming.pub/real-multithreading-is-coming-to-python-learn-how-you-can-use-it-now-90dd7fb81bdf,2,,1684076344.0
+Track your hobby coding projects in notion with this free template,0,13i7xre,coding,https://fmen.notion.site/My-Solo-Project-f4966cf6e01c4a2a8badd42879145485,0,,1684156351.0
+Emerging Rust GUIs in a WASM World,14,13ha3jt,coding,https://monadical.com/posts/shades-of-rust-gui-library-list.html,0,,1684064794.0
+Sha2git.com brings code hosting to secure SHA-2 Git repositories,0,13hwj9c,coding,https://sha2git.com/,3,,1684122064.0
+trurl manipulates URLs,3,13hltdq,coding,https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/,0,,1684094618.0
+Native Apps Are Dead,0,13hzmly,coding,https://levelup.gitconnected.com/native-apps-are-dead-189a4b9459e9?sk=c2d419219903a117aab98c573ea408c7,1,,1684131240.0
+Book Summary: RESTful Web Clients - Enabling Reuse Through Hypermedia,3,13hg14b,coding,https://fagnerbrack.medium.com/book-summary-restful-web-clients-enabling-reuse-through-hypermedia-c81256a55102?source=rss-7ef192b7f545------2,0,,1684080318.0
+Cloud Data Security: Challenges and Best Practices,11,13h794z,coding,https://www.sentra.io/cloud-data-security,0,,1684055000.0
+Converting a subreddit into a Podcast with Python and AI,9,13gxuj4,coding,https://github.com/AdmTal/crowdcast,2,"First of all, this is a “look what I made post” — but I’m gonna try to add enough “how to” bonus stuff at the end to make it worth your while and less spammy.
+
+Wanted to share this code I co-wrote with ChatGPT.
+
+[https://github.com/AdmTal/crowdcast](https://github.com/AdmTal/crowdcast)
+
+It’s a script that converts a subreddit into a podcast.  Pretty neat!
+
+I made it specifically for my new sub /r/crowdcast
+
+I thought it would be neat to make a crowd sourced podcast using AI - so there it is!
+
+Here’s an example of how it turns out:
+https://www.buzzsprout.com/2188164/12833613-5-11-2023
+
+So… that was my test episode.
+
+Next week (5/19), I’m gonna publish the first real one, that includes comments from the public.
+
+I hope some of you leave some comments and are part of next weeks cast!
+
+— that bonus stuff I promised 
+
+I love coding with ChatGPT, but I rarely see tangible examples, I used ChatGPT heavily in making this project, so I’d like to share a tangible example for those interested.  It’s an image, I’ll post it in the comments since it’s not allowed in the OP.",1684025116.0
+Pythons chained conditional expressions (and Fizz Buzz),0,13hd38x,coding,https://paddy3118.blogspot.com/2023/05/pythons-chained-conditional-expression.html,1,,1684073022.0
+Single threaded apologia,19,13g64fk,coding,https://coder-mike.com/blog/2022/05/27/single-threading-is-more-memory-efficient/,1,,1683949085.0
+Anyone ever heard of or used codecorrectly.com?,0,13gvp2l,coding,http://codecorrectly.com,16,Question is in title.,1684019394.0
+A few words on Ruby's type annotations state,12,13ftzs1,coding,https://zverok.space/blog/2023-05-05-ruby-types.html,0,,1683918273.0
+CAN Injection: keyless car theft,54,13fdip4,coding,https://kentindell.github.io/2023/04/03/can-injection,3,,1683874998.0
+Has anyone used Supertal to hire developers?,0,13fbaji,coding,https://www.supertal.io,0,"My company has started using Supertal, and I’m curious to know more about how they work and what experiences other people have had with them.",1683867481.0
+[HIRING] Flappy bird game,0,13fjyzl,coding,https://www.reddit.com/r/coding/hiringforcode,2,,1683895068.0
+Dart Switch Expressions,0,13f4s4s,coding,https://www.christianfindlay.com/blog/dart-switch-expressions,0,,1683850174.0
+What's the best language to start learning coding from scratch with?,0,13fdr99,coding,https://youtube.com/@BroCodez,5,"And how can I start learning coding for free on the internet? Are there any good courses online(preferably on youtube)? 
+Is the channel in the link good to learn from?",1683875810.0
+Automate Development with AI,0,13ez9sr,coding,https://www.sparkengine.ai/,0,This coding engine uses trained AI models to fix any coding error in all existing languages. We are definitely in the new era of coding. 🤯,1683837569.0
+This blog is hosted on my Android phone,4,13eadf4,coding,https://androidblog.a.pinggy.io,13,,1683771275.0
+Garph - Fullstack Open-source GraphQL framework for TypeScript,38,13dq2hb,coding,https://github.com/stepci/garph,6,,1683723877.0
+How do you learn to create code?,0,13dqppv,coding,http://www.unity.com/qhhdhdhdbdnd,7,"I'm trying to learn code, and I want to know, how do you figure out how to create your own code? I understand following tutorials, but I don't know where to start, I can only copy code, bot understand what is doing what IN the code itself, any tips? Specifically I want to learn C# for unity. Any help would be very much appreciated!",1683725392.0
+What a good debugger can do,69,13cba87,coding,https://werat.dev/blog/what-a-good-debugger-can-do,5,,1683595692.0
+tragic-methods: A collection of script depicting the strange quirks of programming languages.,81,13bol8m,coding,https://github.com/neemspees/tragic-methods,2,,1683551243.0
+Is there a way to deny focus to a program?,0,13d5rw2,coding,https://old.reddit.com/r/leagueoflegends/,10,,1683665831.0
+Why I Will Never Use Alpine Linux Ever Again,17,13bkftx,coding,https://martinheinz.dev/blog/92,17,,1683540266.0
+Why people misuse inheritance,1,13c1dgq,coding,https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance,1,,1683572635.0
+Speeding up the JavaScript ecosystem - one library at a time,2,13bp54h,coding,https://marvinh.dev/blog/speeding-up-javascript-ecosystem/,3,,1683552554.0
+The curious case of semver,2,13bgxvx,coding,https://marvinh.dev/blog/speeding-up-javascript-ecosystem/,5,,1683529448.0
+Build semantic search in an afternoon? Yep 🤯,10,13b4e3r,coding,https://swizec.com/blog/build-semantic-search-in-an-afternoon-yep/,2,,1683496911.0
+Tutorial for extracting the GameBoy ROM from photographs of the die.,240,139u26d,coding,https://github.com/travisgoodspeed/gbrom-tutorial,6,,1683389139.0
+Managing Data Residency - concepts and theory,0,13avpv7,coding,https://blog.frankel.ch/data-residency/1/,2,,1683477757.0
+Given the rise of AI and potential threats to the IT industry. Should I still make a career change in to IT and learn to become a “full stack developer”?,0,13azias,coding,http://whyamiforcedtoaddalink.co.uk,14,"As the title says. I’m planning on making a career change from Civil Engineering into a Full Stack developer. 
+
+Is it worth it given the threat to the industry from AI? 
+
+As an outsider am I seeing more of a threat than there actually is?",1683486211.0
+Why We Added package.json Support to Deno,4,139yy2s,coding,https://deno.com/blog/package-json-support,0,,1683399828.0
+"Are ChatGPT and Copilot linked? Whenever I change my Class names in VS Code, ChatGPT knows about it.",0,13a42mz,coding,https://chat.openai.com,4,,1683411612.0
+Progressively Enhancing a Table with a Web Component,2,139imi8,coding,https://www.raymondcamden.com/2023/03/14/progressively-enhancing-a-table-with-a-web-component,0,,1683367452.0
+Code Smells Catalog - the Springer Paper 🎉,67,138ubwo,coding,https://luzkan.github.io/smells/,2,,1683305169.0
+"A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes",43,138c45e,coding,https://navendu.me/posts/gateway-and-mesh/,0,,1683265455.0
+What Type Of Service Is This Considered on Fiverr?,0,1390yem,coding,https://ibb.co/VtrM5cJ,1,"I wanted to create a dashboard for my website where, in a nutshell, it pulls the best odds from various sportsbooks and lists them all on my website. I have 0 experience in coding so I was trying to see what type of service this is. Thank you! An example of what I’m talking about is listed in the URL.",1683319826.0
+Is coding worth it right now? Will AI take over?,0,1392xcc,coding,https://www.wired.com/story/ai-coding-wars-openai-google-microsoft/,2,"Hey all,
+
+I did try to find a questions mega thread of daily discussion to post this in but couldn't find on. I also gave the rules a once over and don't think I'm breaking any. Here goes:
+
+I really hope I don't offend or anger any of you guys that have been working hard for years homing a craft by asking this question (and I'm sure it's been asked before) - if I were to start to get in to coding now (I'm talking beginner, codeacademy level) where could it realistically take me within the next year or so? I would say I'm very tech savvy, a perfectionist and quick to learn. Like the majority of others out there (I assume) apps, games and websites would be of greatest interest to me. 
+
+A couple of smaller questions I have are: what language would you recommend starting with for both ease and transferability. And secondly is there a worry that AI will take over coding in the next few years? I see that more and more coders are using AI to write script and then just checking it over, eventually will the human element be irrelevant? I'm guessing I'm asking that as someone who hasn't invested anything in to coding just yet would you recommend me going for it or looking in to something else? 
+
+Thanks, and again I hope nothing I've said has annoyed anyone. Definitely not my intention.",1683324203.0
+Forth: The programming language that writes itself,67,137g3oc,coding,https://ratfactor.com/forth/the_programming_language_that_writes_itself.html,8,,1683194670.0
+Mastering Material Design 3: The Complete Guide to Theming in Flutter,0,138hfvv,coding,https://www.christianfindlay.com/blog/flutter-mastering-material-design3,0,,1683282214.0
+How to Use SHA-2 Git Repositories,0,138bla7,coding,https://medium.com/@v3ai/how-to-use-sha-2-git-repositories-6c2a6ed5d580,0,,1683263815.0
+Mastering JavaScript Tree-Shaking,10,137f2sd,coding,https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/,0,,1683191378.0
+Playing the Star Wars theme with BASIC (retro 8-bit),3,137jzfn,coding,https://www.goto10retro.com/p/star-wars-theme-in-basic,0,,1683205283.0
+Need help with Placing order in kraken (Python),0,137mvmy,coding,http://docs.kraken.com/rest/#tag/User-Trading/operation/addorder,4,"I copied the codes that are on Kraken website and I ran it through my python, but it failed. It showed
+File “<forzen os>”, line 679, in __getitem_
+KeyError: ‘API-KEY’
+
+Before I was making a code to check my account balance and it showed get_kraken_signature not defined so it failed. So I’m pretty sure my API key is correct, I don’t why it keep showing..
+
+I’m a art major trying to get pass through cryptocurrency class😭😭😭
+
+Can somebody help with this?? 🙏🏼🙏🏼",1683210684.0
+Clean Code ✨,0,137fbz3,coding,https://ahmadrazakhan946.hashnode.dev/clean-code,6,,1683192231.0
+How to prefill text on Facebook messenger text box,0,137cpil,coding,https://m.me/pageID?ref=Hello%20world,0,"Long story short is there a way -using URL - to prefill messenger text box with any text. I asked chatgpt about it and it came up with https://m.me/pageID?ref=Hello%20world. Which means if a user clicks on this url, it will redirect them to messenger app with the text box already prefilled with “hello world” to send to the “pageID” user. I used this and it didn’t work. Apparently fb policy dont allow that. BUT IS THERE A WAY, like using webhooks for example. 
+
+Idk where else to post this, if you know a subreddit that will answer this please redirect me to it.",1683183486.0
+Build a Powerful Calculator Using Python in Just Minutes!,0,137cpdm,coding,https://pixelphix.blogspot.com/2023/05/build-powerful-calculator-using-python.html,2,,1683183472.0
+5 Best JavaScript Frameworks and Libraries to Use in 2023,0,136vu2v,coding,https://codinghelp.io/best-javascript-frameworks/,1,,1683139600.0
+Why You Should Forget the Tooling and Refactor Code Manually,0,136rjsk,coding,https://fagnerbrack.com/why-you-should-forget-the-tooling-and-refactor-code-manually-ca7b46f0b5c4,1,,1683129929.0
+"Comparing Popular Java Web Development Frameworks: Spring Boot, JSF, Micronaut, Quarkus, and Vert.x - Java Code Gists",9,135n7oz,coding,https://www.javagists.com/comparing-popular-java-web-development-frameworks-spring-boot-jsf-micronaut-quarkus-and-vert-x,5,,1683038684.0
+"GingerBill sides with Casey Muratori, on the ""Clean"" Code Debate",0,135j1vu,coding,https://youtu.be/ZLxazlP7Ppo,0,,1683028803.0
+Micro Libraries,16,134i6lm,coding,https://joaomagfreitas.link/micro-libraries/,10,,1682935285.0
+awesome video,0,134q0z9,coding,https://youtu.be/dQhj5RGtag0,2,"honestly i dont know much about anything in this realm but i was so fascinated by this, i figured it needed more views.",1682955876.0
+Server-side rendering in Rust - a Dall.E use-case,0,13406iw,coding,https://blog.frankel.ch/server-side-rendering-rust/,0,,1682881597.0
+How To Use React Context API For Global State Management? • Scientyfic World,0,133u8lb,coding,https://scientyficworld.org/react-context-api-for-global-state-management/,1,,1682867036.0
+Why I develop on Windows by Shortround,0,133mkxm,coding,https://blog.shortround.dev/why-i-think-windows-is-the-best-dev-platform/,3,,1682853542.0
+Thing - A rule-based entity management library written in Kotlin,22,132wl7g,coding,https://github.com/kciter/thing,1,,1682780314.0
+On Lindenmayer Systems,16,132sl4x,coding,https://joaomagfreitas.link/on-lindenmayer-systems/,2,,1682773960.0
+Coding Problem - Spotify Outage,0,133lo5s,coding,https://curiousdrive.com/codingproblem/spotify-outage,0,,1682850591.0
+"I created a fast, safe and powerful pythonic language which aims allow you to create simple scripts to complex systems in a code easier to read, write and maintain than other system languages with the same purpose. It's free and opensource.",21,1329hxf,coding,https://github.com/ragazzi-robotics/ragaz/,12,,1682715233.0
+How We Accidentally DoS-ed Ourselves with Kotlin Coroutines,58,131lo49,coding,https://medium.com/gooddata-developers/how-we-accidentally-dos-ed-ourselves-with-kotlin-coroutines-22cc4be60370,0,,1682670524.0
+Envio: The Secure and Modern CLI Tool To Manage Your Environment Variables,16,130zn8a,coding,https://github.com/humblepenguinn/envio,0,,1682617554.0
+Procedural macros in Rust,16,12zyxrz,coding,https://www.priver.dev/blog/rust/procedural-macros,0,,1682541431.0
+How To Implement Queue Data Structure Using ReactJS? • Scientyfic World,0,130bgxk,coding,https://scientyficworld.org/implement-queue-data-structure-using-reactjs/,0,,1682574918.0
+"APCSP Final Project - Asteroids by Joshua Chantengco, I had a big problem trying to get Collision to work cause it never worked, and it's due soon but I have pretty much everything working so I'm just gonna turn it in, what do you guys think I'm gonna get for this as a Final. I'm hoping for a 5.",0,130a4in,coding,https://youtube.com/watch?v=xBeS9KFcfFY&feature=share,0,,1682570789.0
+ChatGPT Prompt Generator for Coders,0,130e5ds,coding,https://webutility.io/chatgpt-prompt-generator-for-coders,0,,1682583854.0
+Is there a lot of reading required in coding?,0,130549h,coding,http://www.google.com,10,I know it involves some math which I like.,1682556825.0
+Write a Ruby C Extension to Use CLIPS from Ruby: Part 1,18,12z26ib,coding,https://ryjo.codes/articles/write-a-ruby-c-extension-to-use-clips-from-ruby.html,0,,1682471813.0
+Using GPT-4 to generate concise summaries of GitHub's trending repos,0,1301w2h,coding,https://twitter.com/GitHubGPT,0,,1682548463.0
+Implementation of Copa TCP Congestion Control / Avoidance Protocol,14,12ybf5s,coding,https://youtu.be/9rkN3FtOkaQ,2,"
+So for a college project,my group has to do reasearch and write code for copa TCP congestion control but we are stuck because of lack of information on the internet. Can anyone provide useful links and code for the same so that it could be run in Ubuntu. It can be done using python or c/c++. Thanks in advance.",1682406465.0
+Embedded Code in Wix HELP!,0,12yi1ve,coding,http://simbalimedia.com,2,"I tried embedding some code in wix (obviously did it the wrong way) and now I can seem to get rid of it and it just sits at the bottoms of my homepage, right below the footer. Does anyone know how I can locate this code and delete it? 
+
+I’ve tried making a whole new homepage, deleting the app and page it was meant to be on and even restoring an older version on the website and nothing seems to work! Please help! 
+
+Attached a link to the website so you can see what’s happening (all the way at the bottom)!",1682425985.0
+From Code to Intelligence: A Step-by-Step Guide to Building an AI Chatbot with Python,1,12y16y6,coding,https://medium.com/@taradwyer17/from-code-to-intelligence-a-step-by-step-guide-to-building-an-ai-chatbot-with-python-e99b90aec914,0,,1682380383.0
+Discover how automation with AI can transform app development for small businesses.,0,12yb9a4,coding,https://shakuro.com/blog/ai-is-here-to-help-you-build-better-web-mobile-apps?utm_source=reddit&utm_medium=ai-is-here-to-help-you-build-better-web-mobile-apps&utm_campaign=blog_sharing,0,,1682406015.0
+KCL and KPM: The Art of Managing Kubernetes Configurations,0,12y5sfd,coding,https://medium.com/dev-genius/kcl-and-kpm-the-art-of-managing-kubernetes-configurations-5a0f5b6d4198,0,,1682390866.0
+Leverage the richness of HTTP status codes,55,12wgznz,coding,https://blog.frankel.ch/leverage-richness-http-status-codes/,10,,1682267061.0
+"Building the Homepage of Jarvis with NextJS, Tailwind CSS, Figma, and OpenAI - Part 2 https://youtu.be/ox6pXDgjYzE",0,12xkwey,coding,https://youtu.be/ox6pXDgjYzE,0,,1682349789.0
+You Don't Need Another Library to Compose Micro Frontends at Run Time,0,12x8pee,coding,https://blog.bitsrc.io/you-dont-need-another-library-to-compose-micro-frontends-at-run-time-e803077ade67,0,,1682325151.0
+Java Clean Code: Is it important? How to Write It? Best Practices From Experts,0,12x7fnm,coding,https://stratoflow.com/java-clean-code/,0,,1682321492.0
+System Design - Twitter Timeline with the Fanout Approach,0,12x7lxz,coding,https://www.youtube.com/watch?v=_7qHGfwgPz0,0,,1682321978.0
+Best language to learn 2023,0,12xa6am,coding,https://youtube.com/shorts/9y9xADPJ5WU?feature=share,2,,1682329644.0
+How To Implement Stack Data Structure Using ReactJS? • Scientyfic World,3,12w9ptr,coding,https://scientyficworld.org/stack-data-structure-using-reactjs/,0,,1682258538.0
+How to setup reusable animations with Angular,20,12v1xjv,coding,https://catalincodes.com/posts/reusable-animations-with-angular,0,,1682159492.0
+How To Make A Calculator Using HTML CSS JavaScript,1,12uxmsn,coding,https://geekshelper.com/100-projects-in-100-days/how-to-make-a-calculator-using-html-css-javascript/,2,,1682146316.0
+Unlock the Power of Asynchronous Programming in Python with asyncio,4,12u30y5,coding,https://muhammadraza.me/2023/Asynchronous-Programming-in-Python/,0,,1682086350.0
+The new IDE extension of the KCL programming language is coming! 🔥,20,12siw1c,coding,https://medium.com/dev-genius/kcl-v0-4-6-is-coming-rust-based-ide-extension-helm-kustomize-kpt-integrations-cc785ad0156c,3,,1681957714.0
+Interested in cybersecurity? We're hosting a virtual mini-conference about security on Wednesday next week and it will include a workshop and 4 talks. Check out the agenda and save your spot in case you find it interesting. Cheers!,4,12sqfw9,coding,https://www.wearedevelopers.com/event/security-day-april-2023,1,,1681977011.0
+How to contribute to a project you have no idea about,10,12shhbz,coding,https://grifel.dev/how-to-contribute-without-knowledge,2,,1681954403.0
+Top 10 Programming Languages To Learn in 2023,1,12spqcy,coding,https://hackernoon.com/top-10-programming-languages-to-learn-in-2021-d8h3156,0,,1681974970.0
+google collab help,0,12ssy3q,coding,http://google.com,0,i created a stock/bitcoin price prediction model on google collab. i badically inputed the data from  yfinance and made it predict prices give averages etc. is it possible me to get this into my github etc or submit for competitions. i’m new to cs so i’m not too sure,1681983970.0
+"The Wizard's Apprentice, AI-powered Typescript project suite and CLI.",0,12rr4v9,coding,https://github.com/keybittech/wizapp,0,,1681906275.0
+7 Lessons I’ve Learned In My 10-year-old Web Development Career,0,12rpmzb,coding,https://levelup.gitconnected.com/7-lessons-ive-learned-in-my-10-year-old-web-development-career-4ec7b21db42c?sk=101d72fd2d0afa3946cef70411a03357,0,,1681902750.0
+Components of Flutter State Management,0,12roc0e,coding,https://www.christianfindlay.com/blog/flutter-state-management-components,0,,1681899421.0
+All you may need is HTML,66,12q9mbj,coding,https://fabiensanglard.net/html/index.html,8,,1681790463.0
+Four Major pillars of OOPs in Python | Learn Python,0,12r1qta,coding,https://www.guerillateck.com/2023/04/four-major-pillars-of-oops-in-python.html,0,,1681847025.0
+You Don't Need Rails to Start Using Hotwire,3,12qe5jn,coding,https://www.akshaykhot.com/using-hotwire-without-rails/,1,,1681801251.0
+Read Less: AI Shortened News,0,12r78yk,coding,https://readless.ai,3,"[Read Less: AI Shortened News](https://www.readless.ai)
+
+[iOS App](https://apps.apple.com/us/app/read-less-news/id6447275859?itsct=apps_box_badge&itscg=30200)
+
+[Android App](https://play.google.com/store/apps/details?id=com.readless)
+
+(I am the sole developer of this app just released on April 10)
+
+Read Less is a totally FREE news aggregation app for iOS and Android that uses generative AI to summarize articles from 60+ reputable news sources into multiple shorter formats! The goal of this project is to provide an ADHD friendly conduit into current events for the younger generations and demographics with poor access to news! 
+
+Operating costs are only about $400/month, so optimally the goal would be for this to always remain free, but should more advanced features be demanded, a premium subscription for avid supporters is definitely on the table! 
+
+We are grateful to be one of the first (but not the first) app like this to be launched, and we hope this tool benefits you personally, getting you to spend less time on your phones, yet more informed and involved with current events!",1681857579.0
+[Resource] Create Your Own Pokémon Battle Bot with Reinforcement Learning with Cloud Tools,3,12q87pe,coding,https://youtu.be/NGmTR7paC5Q,0,,1681787438.0
+RefactorNow - Learn to write clean code and improve your refactoring skills with the help of AI - Just Like LeetCode but For Refactoring,0,12qff7y,coding,https://www.refactornow.dev/,0,,1681804759.0
+"Create your own Jarvis - Part 2 - The homepage / NextJS, TailwindCSS",0,12qgikc,coding,https://youtu.be/ox6pXDgjYzE,0,,1681807895.0
+Write a First Person Game in 2KB With Rust,102,12ol5z9,coding,https://grantshandy.github.io/posts/raycasting/,1,,1681671954.0
+Explore the Potential of Mats3 with JBang: A Journey into Message-Oriented Async RPC with Self-Contained Java Programs,2,12pu9kn,coding,https://mats3.io/explore/jbang-mats/,0,,1681760779.0
+The Lost Art of Code Reading,0,12q4vb2,coding,https://codereader.dev/blog/art-of-code-reading,2,,1681780686.0
+Optimizing Myntra’s Pricing System for Serving Millions of Traffic under 30ms Latency,33,12o7v41,coding,https://medium.com/myntra-engineering/optimizing-myntras-pricing-system-for-serving-millions-of-traffic-with-30ms-latency-73a7057affdf,4,,1681650321.0
+I'm learning TUIs in Golang by writing an AI terminal assistant ... that helps me to write itself :),6,12oqfzj,coding,https://github.com/ekkinox/yo,2,,1681682019.0
+GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.,0,12mjg6s,coding,https://github.com/kryptokrona/kryptokrona-kotlin-sdk,1,,1681518202.0
+How To Scale Node.js Applications with Clustering,23,12lew3z,coding,https://www.digitalocean.com/community/tutorials/how-to-scale-node-js-applications-with-clustering,2,,1681435969.0
+"ProtoNative, efficient prototyping tool for React Native!",14,12kqmok,coding,http://medium.com/@patriciagood415/protonative-a-dynamic-react-native-prototyping-tool-fb205ea93615,0,,1681395200.0
+Resumable Uploads with Storage v3 🗃️,4,12k624j,coding,https://www.youtube.com/watch?v=pT2PcZFq_M0,0,,1681346970.0
+The database inside out with event streams,13,12jeoby,coding,https://medium.com/@hugo.oliveira.rocha/the-database-inside-out-with-event-streams-86d4a54192eb,9,,1681286611.0
+Need a Student Verification Api,0,12ka6cf,coding,http://AthleticArtists.io,1,"Need a Student Verification Api
+
+Hey does anybody know a good Student Verification Api I can integrate?
+It would be used for verifying and onboarding collegiate athletes by their student email to an online marketplace.
+
+Any advice would help.",1681356198.0
+Self-Host Supabase Edge Functions 🚀,0,12j43u1,coding,https://www.youtube.com/watch?v=cPGxPl1lx4Y,0,,1681260412.0
+"The real ""must have"" tools for programmers",179,12gccit,coding,https://jamesdunne.dev/posts/must-have-programming-tools/,18,,1681025595.0
+A Tale of Debugging: The Competitive Programming Approach,4,12grwqk,coding,https://albexl.hashnode.dev/a-tale-of-debugging-the-competitive-programmer-approach,1,,1681066122.0
+From Success to Disbandment: Impact of Poor Management on a Talented Team,4,12geou5,coding,https://www.lloydatkinson.net/posts/2023/from-success-to-disbandment-impact-of-poor-management-on-a-talented-team/,2,,1681033226.0
+Learn the Basics of Test-Driven Development with a focus on Data Structures,2,12gfmv6,coding,https://albexl.hashnode.dev/a-tale-of-testing-the-basics-of-test-driven-development-with-a-focus-on-data-structures,0,,1681036171.0
+"When none of the website logfile analysis programs sorted by IP address bandwidth usage, I built my own using code I came up with later obfuscated by the JavaScript Map object. Anyone want to help me code a better front end?",1,12g3g34,coding,https://skewsme.com/webloghog.html,1,,1681000141.0
+Setting up APISIX in a Local Environment with Cross-Domain Cookie Sharing for a FastApi…,2,12fwde3,coding,https://link.medium.com/qoxo18N2Pyb,0,,1680983191.0
+"Connecting React, MUI & TypeScript Together",0,12fpuhc,coding,https://levelup.gitconnected.com/connecting-react-mui-typescript-together-736c5e15e3ab,0,,1680968970.0
+Microservices vs. Monolithic Architecture: Which One Fits Better? 🤔,0,12fb5w7,coding,https://techartifacts.com/microservices-vs-monolithic-architecture-which-one-fits-better/,3,"Confused about which architecture to choose for your web app development?
+
+Check out this blog to explore the key differences between the two and determine which one is the better fit for your app. 😊",1680927504.0
+Modern Mono,4,12e55j1,coding,https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace,3,,1680831123.0
+docked: A friendly and safe alternative to Dockefile. Write Docker images using the full power of Python.,17,12dmznd,coding,https://github.com/orsinium-labs/docked,9,,1680793323.0
+QGIS is the mapping software you didn't know you needed,54,12czinh,coding,https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed,2,,1680732202.0
+How to Write Clean Code with Effective Naming Conventions,0,12dn35v,coding,https://youtube.com/watch?v=-ZqPGSnFdPI&feature=share,2,,1680793525.0
+"🎈⚠️📲 Collect NO2, O3, and weather data w/ FireBeetle ESP32 & Arduino Mega, train an Edge Impulse neural network model to detect air pollution, and display real-time results w/ surveillance footage on a PHP web app.",0,12dhyd2,coding,https://www.hackster.io/kutluhan-aktar/ai-assisted-air-quality-monitor-w-iot-surveillance-fd05bb,0,,1680782286.0
+You might not need an ORM,1,12cozbo,coding,https://sometechblog.com/posts/you-might-not-need-an-orm/,9,,1680710495.0
+[survey] How interested are you in coding?? (kids 7-12 + their parents),0,12d276j,coding,https://docs.google.com/forms/d/e/1FAIpQLSdqgsaQNXW0APOpuQHmDOpYgSP6N-yDUBT8OXwZIrGcBmwlAQ/viewform,0,,1680738313.0
+Replacing a SQL analyst with 26 recursive GPT prompts,105,12bimnu,coding,https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt,13,,1680613632.0
+Flutter - Full App Widget Testing,2,12cex0f,coding,https://www.christianfindlay.com/blog/flutter_full_app_widget_testing,0,,1680688268.0
+We put GPT-4 in Semgrep to point out false positives & fix code,0,12cebfd,coding,https://semgrep.dev/blog/2023/gpt4-and-semgrep-detailed,0,,1680686264.0
+Turn your JSON into a database,46,12aylcc,coding,https://www.daba.so,3,,1680557460.0
+Guide to Java Profilers: Which Performance Monitoring Tool Is the Best?,3,12bbu9j,coding,https://stratoflow.com/guide-to-java-profilers/,0,,1680593123.0
+Video Website,0,12borwh,coding,https://spidersinmycloset.com/,0,"Hey! I am building a Shopify store and want a full video background with products and details overlaying. I'm not sure how difficult that would be, but does anyone have to code for a full looping video background with product overlays? I have attached an example of the type of website that has the style.",1680626580.0
+You’ve Got Options for Removing Event Listeners,3,12auag7,coding,https://www.macarthur.me/posts/options-for-removing-event-listeners,1,,1680548766.0
+Taking on the Big Guns: adapting to the fast-paced environment of Big Tech,0,12b30ah,coding,https://luminousmen.com/post/taking-on-the-big-guns-adapting-to-the-fastpaced-environment-of-big-tech,0,,1680567016.0
+"How to Build, Package and Run an Automation Suite with Cypress, Docker and GitLab",0,12aze80,coding,https://medium.com/@jasonsegal23/how-to-build-package-and-run-an-automation-suite-with-cypress-docker-and-gitlab-e72a06fa64b9,0,,1680559146.0
+"No code editor for domain models: generate client-side form code based on server-side domain models, and vice versa.",1,12ar4qf,coding,https://surveyjs.io/documentation/no-code-editor-for-domain-models,0,,1680542486.0
+VAS; Writing an Assembler in Vlang,13,12a1vqh,coding,https://github.com/v420v/vas/blob/main/doc/docs.md,0,,1680477497.0
+aicmd - you can write shell commands using natural language!,13,129z5rl,coding,https://aicmd.app,11,,1680471604.0
+Receive and Test Incoming Webhooks in an ASP.NET Core Minimal API: A Comprehensive Guide,0,12afm25,coding,https://www.christianfindlay.com/blog/asp-dotnet-core-minimal-webhooks,0,,1680516371.0
+Goals and Steps on How to Develop MVP,0,12af720,coding,https://qarea.com/blog/goals-and-steps-on-how-to-develop-mvp,1,,1680515014.0
+Coding a tool to get market place data,12,129tmd5,coding,https://nwmarketprices.com,4,"Hello,
+
+My idea was to create a tool that extracts market place data from the New World Market and write it to a txt for example.
+
+I’m only trying to learn how it would work to maybe Code a tool like this.
+
+The question is, how can I do that. Is it possible to somehow send a request to the server and get the market prices. I only know it’s possible using a api, but for New World there is now api. Another solution would be a bot that „clicks“ on the different items and get the data, but how could I get the data and where is it stored.
+
+These are more theoretical questions of how this works and how other games like guild wars 2 and world of Warcraft do it for example.
+
+I only worked with Cheat engine a few times to read the memory and that would be a solution, but this would require me manually opening the market board if I’m right.
+
+I found a side that has this data, but I don’t know how they get it :)",1680460125.0
+My first Firefox extension,0,129ptw1,coding,https://blog.frankel.ch/firefox-extension/,1,,1680452106.0
+National Geographic logo animation using clip-path and backdrop-filter,1,129f66v,coding,https://cdpn.io/gOdNBay,0,,1680424754.0
+Machine Learning Course with Python: From Linear Models to Deep Learning,0,129locp,coding,https://www.youtube.com/watch?v=c1wmm8UfqYE&ab_channel=EpicProgrammer,0,,1680442963.0
+"Going beyond the ""100% coverage"" dogme: focusing on functional tests",75,128evgo,coding,https://medium.com/teamstarter-tech/unit-tests-are-dead-at-least-for-us-632d2f03dcc0,15,,1680334611.0
+"My first youtube shorts, More interesting content will be uploaded soon",0,129bal4,coding,https://www.youtube.com/shorts/UXZuMn5ZzEU,1,,1680413495.0
+Chat GPT,0,129atw2,coding,https://odysee.com/@O22UGDW213:a/AiBotChat:4?lid=0d14eeef-bc62-4d37-a859-d50e429ebd1b,5,,1680412190.0
+"Hey all, we're hosting an online mini-conference about Python next week Wednesday (April 5th). Thought you might find it interesting, check out the schedule and make sure to join us for the party. Cheers and have a great weekend!",54,127g5c2,coding,https://www.wearedevelopers.com/event/python-day-april-2023,1,,1680256072.0
+Understanding Allocations in Go,2,127xzaa,coding,https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d,1,,1680294184.0
+Mastering Component-Driven Development: Improving Maintainability and Collaborative Efficiency,13,1271yai,coding,https://medium.com/p/6ee4b3dc5de7,1,,1680216595.0
+Looking for a good job in coding/tech? Data Intelligence bas some excellent openings on both the East and West Coasts.,0,127y6u8,coding,https://di-llc.applicantstack.com/x/openings,1,Not all of these positions require a current security clearance but they do require the ability to apply for them.,1680294616.0
+Why Not document.write()?,0,127ggnx,coding,https://csswizardry.com/2023/01/why-not-document-write/,1,,1680257182.0
+top-reddit-languages: Top programming language subreddits,28,126pmai,coding,https://github.com/orsinium-labs/top-reddit-languages,2,,1680188523.0
+Quickfix AI: Search on page better than Chrome Find tool,0,1272eco,coding,https://github.com/MusabShakeel576/quickfix.ai/tree/main/chrome-extension,1,,1680217595.0
+"Quick Question about programming, What do these attack names mean in terms of coding? (What does ""Call"" mean?) The general theme of the character is that It's a malfunctioning robot and the names are based on error codes, but what do these errors mean for someone not used to programming, dood?",0,1270pkh,coding,https://youtu.be/ApxUlk_9PQc?t=29,2,,1680213739.0
+walnats: Nats-powered event-driven background jobs and microservices framework for Python.,22,125qtje,coding,https://github.com/orsinium-labs/walnats,2,,1680102123.0
+A curated list of software and architecture related design patterns.,165,1259866,coding,https://github.com/DovAmir/awesome-design-patterns,4,,1680053687.0
+Best AI Tools for Web Development.,0,125uam7,coding,https://www.kashstech.com/post/top-7-ai-tools-for-web-development,1,,1680110201.0
+JSDayIE 2023 | The first JavaScipt conference in Ireland is back!,2,125j77k,coding,https://www.jsday.ie/,0,,1680084554.0
+Reverse Engineering a Neural Network's Clever Solution to Binary Addition,66,124o8fj,coding,https://cprimozic.net/blog/reverse-engineering-a-small-neural-network,1,,1680008940.0
+Envio - Supercharge Your Workflow with this Must-Have CLI Tool!,1,125jbxd,coding,https://github.com/humblepenguinn/envio,0,,1680084978.0
+The OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API,131,124byyx,coding,https://github.com/openai/openai-cookbook,0,,1679976080.0
+1100 Java Programming Interview Questions and Answers [2023],1,125dqs4,coding,https://www.udemy.com/course/java-questions/,0,,1680066322.0
+3 mistakes beginner programmers make and how to prevent them,0,125dbmq,coding,https://medium.com/@elyamanmuneeb/three-mistakes-every-programmer-makes-e7cc13e63627,0,,1680065002.0
+What’s the absolute best way that I can start learning to code?,0,1253isr,coding,http://whatamisupposedtoputforthis.com,14,I would like to start learning C++ fast as well.,1680040064.0
+I need help with a AI discord bot!,0,125au0w,coding,http://huggyface.co,3,"
+
+so im trying to make a discord bot that works with modelscope api to generate text to video. here is the code it isnt working. 
+
+
+
+import requests
+
+import discord
+
+from discord.ext import commands
+
+&#x200B;
+
+intents = discord.Intents.default()
+
+intents.members = True
+
+intents.messages = True  # add this line to enable message intents
+
+bot = [commands.Bot](https://commands.Bot)(command\_prefix='/', intents=intents)
+
+&#x200B;
+
+def text\_to\_video(text):
+
+url = ""[https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis/generate](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis/generate)""
+
+data = {
+
+""text"": text,
+
+""speaker"": ""mary"",
+
+""emotion"": ""neutral"",
+
+""duration"": ""short"",
+
+""speed"": ""normal""
+
+}
+
+response = [requests.post](https://requests.post)(url, json=data)
+
+if response.status\_code == 200:
+
+video\_url = response.json()\['data'\]\[0\]\['url'\]
+
+return video\_url
+
+else:
+
+return ""Sorry, an error occurred while generating the video.""
+
+&#x200B;
+
+u/bot.command(name='text2video')
+
+async def make\_video(ctx, \*, text):
+
+video\_url = text\_to\_video(text)
+
+await ctx.send(video\_url)
+
+&#x200B;
+
+[bot.run](https://bot.run)('')
+
+&#x200B;
+
+Yes i do have the token just not showing it.....
+
+&#x200B;
+
+i get this error
+
+\[2023-03-28 22:18:51\] \[WARNING \] [discord.ext.commands.bot](https://discord.ext.commands.bot): Privileged message content intent is missing, commands may not work as expected.
+
+\[2023-03-28 22:18:51\] \[INFO    \] discord.client: logging in using static token
+
+\[2023-03-28 22:18:53\] \[INFO    \] discord.gateway: Shard ID None has connected to Gateway (Session ID: af8a462755877fef7ea931dec19e0166).",1680057895.0
+Random Meme Generator - Frontend Project Tutorial,0,124v8dt,coding,https://youtu.be/r0S6U6Pj2FE,0,,1680022825.0
+How to store your app's entire state in the url,53,123n2dg,coding,https://www.scottantipa.com/store-app-state-in-urls,21,,1679923998.0
+NBA prospect tracker,0,124acs7,coding,https://www.ncaa.com,0,I had an idea to create an NBA prospect tracker that would track top NBA recruits in high school divisions and the NCAA. Please reach out if your are interested in working on this project.,1679972099.0
+Toward Disposable Software,17,1235ci1,coding,https://paritybits.me/disposable/,1,,1679877130.0
+Building a responsive website requires careful planning and execution.,0,123w831,coding,https://techtrendspot.com/responsive-website-design/,6,,1679942663.0
+My evaluation of the Scaleway Cloud provider,16,122vg67,coding,https://blog.frankel.ch/evaluation-scaleway/,4,,1679856312.0
+today we know About difference between map and filter in JavaScript,0,123v3zs,coding,https://techtrendspot.com/difference-between-map-and-filter-in-javascript/,2,,1679940379.0
+11 Most Important Website Performance Metrics,0,123h1t9,coding,https://stratoflow.com/website-performance-metrics/,0,,1679907736.0
+Using Github Copilot for unit testing,3,1231d4o,coding,https://www.strictmode.io/articles/using-github-copilot-for-testing,0,,1679868208.0
+Has anyone used or heard of this ide before? (Wind pro 7 on steam),0,122n5gc,coding,https://store.steampowered.com/app/1089000/Wing_Pro_7/#app_reviews_hash,2,,1679839706.0
+Improving Page Load Time with the AsyncSelectField,8,120kwt8,coding,https://medium.com/7shifts-rd/improving-page-load-time-with-the-asyncselectfield-d5c142236027,0,,1679665790.0
+Hands-On: Custom Plugins in APISIX Ingress,31,120af0u,coding,https://navendu.me/posts/custom-plugins-in-apisix-ingress/,0,,1679636106.0
+"Hey everyone, we're hosting a free online event about green coding on Wednesday, March 29th. Check out the agenda and save your spot to join us next week if you're interested in learning more about sustainable programming.",44,11zhxpx,coding,https://www.wearedevelopers.com/event/climate-sustainability-day-march-2023,10,,1679572218.0
+"Server-side mutations with Route Handlers // The ""new"" API Routes in Next.js app directory",0,1204ltn,coding,https://www.youtube.com/watch?v=6MoYy62E4rw,0,,1679621022.0
+The gotcha of unhandled promise rejections,58,11yye51,coding,https://jakearchibald.com/2023/unhandled-rejections/,6,,1679522605.0
+Stateful Factory Pattern,1,11zgbns,coding,https://www.christianfindlay.com/blog/stateful_factory_pattern,2,,1679567782.0
+"Are you in an team/organization that recently went Agile? If so, let me know how it went down",0,11zi3ez,coding,https://forms.gle/gXF1VDUY4H653mLe9,0,,1679572666.0
+My new web UI/UX design waiting for your feedback,6,11yssa2,coding,https://www.behance.net/gallery/166625445/Faculty-web-UIUX-Re-design,0,,1679511386.0
+Context Manager in Python,1,11z2x68,coding,https://link.medium.com/HKaGNgRaoyb,0,,1679532042.0
+Cheat Sheet for Programmers: Simplify Your Development Process with ChatGPT,0,11z54tn,coding,https://learninfun.github.io/learn-with-ai/cheat-sheet/chatgpt/coding-with-ai/,4,,1679537039.0
+"Hi i intend to learn language c in my holidays, can u guyz plz recommend me a good book for the same I do not have any kind of coding experience and is a beginner. It would be best if you recommend a book that does not have a very high level of English and is easy to understand",0,11zcqfa,coding,https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.reddit.com/&ved=2ahUKEwjY_YbSxfH9AhWTHXAKHYceB5YQFnoECBYQAQ&usg=AOvVaw2aX35bASD5_Ujf8CW_2QJo,4,,1679557078.0
+Mastering Console Methods in JavaScript -Rohit Singh,3,11yb4ra,coding,https://www.rohitsingh.co/blog/mastering-console-methods-in-javascript,2,,1679471018.0
+ZITADEL Golang OIDC Library Version 2.0 Release,22,11xhh3b,coding,https://zitadel.com/blog/oidc-v2-release,4,,1679406636.0
+Create your own Jarvis with OpenAI and NextJS,0,11yiasa,coding,https://www.youtube.com/watch?v=V-NxmQYQrBc&ab_channel=TheFilteredCoder,0,,1679489718.0
+Enums in Rust: The World's Worst Explanation,0,11y6itr,coding,https://youtu.be/DUnnySDlwEM,0,,1679458413.0
+SmartyGPT: I want to announce that we have released v1.1.0 which includes access for ChatGPT and GPT4 for Plus suscribers! :),0,11xyimn,coding,https://github.com/citiususc/Smarty-GPT/tree/v1.1.0,5,,1679440568.0
+Looking for programmers to join a little coding group,0,11xo746,coding,https://forms.gle/8NWfoVCKT8CgqX5d8,3,,1679420360.0
+Having a problem making a sand simulation like in Noita and Powder Game,0,11x595w,coding,https://docs.google.com/document/d/1ccFaYAWGNfy0wPTRpVpT3YUWt-HaiUDZy0nveI6pryc/edit?usp=sharing,4,,1679368543.0
+Which Programming Languages Will Dominate 2023? Discover the Top 10 and Why You Should Learn Them! 🔥,2,11wz2yb,coding,https://codesavvy.io/top-10-programming-languages-2023/,0,,1679353109.0
+need help learning python,0,11x4tz7,coding,https://www.reddit.com/r/Coding_for_Teens/comments/11x2i60/hey_guys_i_have_a_question/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button,1,,1679367367.0
+"This Week in Open Source: Two Tiny Linux PCs, RISC-V for IoT, Fedora 38, PyTorch 2.0, and more",33,11vwjrz,coding,https://fossweekly.beehiiv.com/p/foss-weekly-38-two-tiny-linux-pcs-risc-v-for-iot-fedora-38-pytorch-2-0-and-more,0,,1679257470.0
+etcd vs PostgreSQL,0,11wokzl,coding,https://api7.ai/blog/etcd-vs-postgresql,0,,1679332012.0
+I need help with this JavaScript from code.org quick,0,11wi0cx,coding,https://docs.google.com/document/d/108oRzUhsCKDfojuqGo7zfEgi0OT86JlK7tEaZ6xBzZQ/edit,0,,1679316549.0
+Why Flutter Is The Best Choice For Startups,0,11w2vn2,coding,https://www.christianfindlay.com/blog/flutter-startups,2,,1679271984.0
+Add A Search Bar To The AppBar In Flutter,0,11vhb27,coding,https://www.christianfindlay.com/blog/flutter-search-bar,0,,1679220181.0
+"Weird programming operators: Elvis, Walrus, Spaceship, and Turbofish!",69,11ugsua,coding,https://blog.devgenius.io/weird-programming-operators-elvis-walrus-spaceship-and-turbofish-95c6d04af0d0,8,,1679122100.0
+Basic Flutter Animations With Tweens,0,11vcclc,coding,https://www.christianfindlay.com/blog/basic-flutter-animations-with-tweens,0,,1679203370.0
+Why your GitHub action is not triggered by other actions,10,11umnr2,coding,https://joaomagfreitas.link/why-your-github-action-is-not-triggered-by-other-actions/,0,,1679141153.0
+Does anyone know the answer to the Grok NCSS challenge 5.2 (intermediate) catchy carols,0,11v3s18,coding,https://groklearning.com/learn/challenge-intermediate-2023-feb/w5p2/9/,0,,1679180525.0
+ML models for User Recognition using Keystroke Dynamics,77,11tpf9g,coding,https://medium.com/p/e0665bc18cad,2,,1679055425.0
+Why Self-Sufficiency is Crucial for Software Engineers,0,11us67t,coding,https://medium.com/@malshikay/why-self-sufficiency-is-crucial-for-software-engineers-d13e59718d50,0,,1679155233.0
+Ask ChatGPT to write study notes for coding,0,11ulk6j,coding,https://learninfun.github.io/learn-with-ai/ai-knowledge-hub/,0,,1679138230.0
+Neutralinojs v4.11.0 released!,4,11tq2bp,coding,https://github.com/neutralinojs/neutralinojs/releases/tag/v4.11.0,0,,1679057085.0
+Grammarly For Programmers: Autocorrects code like Grammarly,0,11tsiuv,coding,http://kodezi.com,0,,1679063052.0
+The New Playground of KCL Programming Language is Comming,15,11sw44h,coding,https://kcl-lang.io/,1,,1678977833.0
+"Exploring Kafka Steams Partitioning, Scaling, and Fault Tolerance – we’ll build a simple streaming app and inspect the contents of the repartition topic, RocksDB state store, and the Kafka internal changelog topic.",32,11sm179,coding,https://vkontech.com/exploring-kafka-steams-partitioning-scaling-and-fault-tolerance/,5,,1678947420.0
+Reverse Engineering Read Later Data from the Apple News App,40,11sb281,coding,https://eecue.com/blog/reverse-engineering-read-later-data-from-the-apple-news-app,0,,1678918262.0
+Why I use SaaS products instead of cloud providers,5,11sfliv,coding,https://www.timveletta.com/blog/saas-products-not-cloud-providers,1,,1678929031.0
+How To Use Query Parameters With React Router? • Scientyfic World,3,11sh5dh,coding,https://scientyficworld.org/how-to-use-query-parameters-with-react-router/,0,,1678932808.0
+GitHub Programming Language Rankings by Month and Year,19,11rup4s,coding,https://ossinsight.io/collections/programming-language/,2,,1678882708.0
+How Wix manages Schemas for Kafka (and gRPC) used by 2000 microservices,39,11ronan,coding,https://natansil.medium.com/2117416ea17b,0,,1678863204.0
+Future Of Developers?,0,11sj293,coding,https://emeritus.org/blog/coding-is-coding-a-good-career/,0,,1678937828.0
+Java Clean Code: How to Write It? Best Practices From Experts,0,11rtq09,coding,https://stratoflow.com/java-clean-code/,0,,1678880022.0
+5 Exciting Ways Dwitter Inspires Developers,0,11rsygr,coding,https://techygamerz.com/2023/03/empower-your-code-5-exciting-ways-dwitter-inspires-developers,0,,1678877744.0
+Would someone mind explaining me the language used and how to run it??,0,11s527q,coding,https://github.com/wztech0192/google-review-generator,2,,1678905377.0
+Pyplexity: a very useful tool for cleaning scraped code (better than BS4!) (check the paper),28,11r5g15,coding,https://github.com/citiususc/pyplexity,0,,1678798773.0
+"This Deceptively “Simple” Problem Was Going To Take 190 Billion Years To Solve, Pt. 2",2,11rb5cq,coding,https://medium.com/@aosotsi/this-deceptively-simple-problem-was-going-to-take-190-billion-years-to-solve-pt-2-8984e8d8e09a,0,,1678811952.0
+Top 5 Programming Languages All The Time,0,11rnmfx,coding,https://levelup.gitconnected.com/top-5-programming-languages-all-the-time-87431e47bfff?sk=5e2a2615acbc469849166d04e45625fa,2,,1678859770.0
+Video Rendering with Node.js and FFmpeg,0,11ra3wh,coding,https://creatomate.com/blog/video-rendering-with-nodejs-and-ffmpeg,0,,1678809696.0
+Python 2023 Course in Depth: Beginners to Advanced,0,11r8ter,coding,https://udemy24.com/python-2023-course-in-depth-beginners-to-advanced/,0,,1678806846.0
+"Last week in Open Source - Rust 1.68, Ubuntu on RISC-V, GNOME 44 rc, new Pi Camera and more",28,11qe6k6,coding,https://fossweekly.beehiiv.com/p/foss-weekly-37-gnome-44rc-ubuntu-on-risc-v-raspberry-pi-s-new-camera-and-more,0,,1678724645.0
+gRPC on the client side,41,11pljrt,coding,https://blog.frankel.ch/grpc-client-side/,7,,1678645135.0
+How Wix Accelerated Open Platform Dev with Standardized APIs & Schemas,5,11q1x9q,coding,https://natansil.medium.com/how-wix-accelerated-open-platform-dev-with-standardized-apis-schemas-e4fbbf25f5d8,0,,1678688147.0
+Greedy Algorithms In DSA: An Overview,24,11pehl7,coding,https://xalgord.in/greedy-algorithms-in-dsa/,0,,1678627502.0
+Microservices with Spring Boot 3 and Spring Cloud,0,11q6inj,coding,https://piotrminkowski.com/2023/03/13/microservices-with-spring-boot-3-and-spring-cloud/,0,,1678705010.0
+Microservices with Spring Boot 3 and Spring Cloud,0,11q6ilw,coding,https://piotrminkowski.com/2023/03/13/microservices-with-spring-boot-3-and-spring-cloud/,0,,1678705004.0
+Programming Language Wars,13,11oxi1e,coding,https://medium.com/@TonyBologni/programming-language-wars-3fc12e336da2,16,,1678574568.0
+Check out this cool A logo created with Python Turtle! 🐢🎨🐍 Python Turtle,0,11p9qsy,coding,https://youtu.be/lTa-DEKTAtA,2,,1678611083.0
+Download LLaMA : Meta/Facebook's AI Model Leaked,0,11p1zkn,coding,https://youtube.com/shorts/eI3zo79BGdM?feature=share,2,,1678586096.0
+Pyfuck - a python to brainfuck translater,128,11ncivu,coding,https://github.com/cmspeedrunner/Pyfuck,16,,1678416775.0
+how would you make a flamethrower js project anybody know?,0,11olyxv,coding,https://www.npmjs.com/package/flamethrowerjs,1,,1678546065.0
+Initialize Arrays Inline - C Programming,0,11nm7et,coding,https://youtu.be/8_X6fREnq_8,0,,1678446540.0
+Test Coverage,42,11mnnrp,coding,https://www.christianfindlay.com/blog/test-coverage,4,,1678353203.0
+20 things every programmer should know,0,11nqcgw,coding,https://techygamerz.com/2023/03/20-things-every-programmer-should-know,1,,1678457678.0
+Tyk's micro-grant program for tech side projects,0,11n32rk,coding,https://tyk.io/fund,3,,1678394322.0
+An open-source command line tool for parsing code syntax,3,11n0r0r,coding,https://github.com/Exafunction/codeium-parse,0,,1678388967.0
+Authenticate your users and authorize your application to access their protected resources with OIDC,61,11lwbff,coding,https://zitadel.com/blog/secure-logins-with-zitadel-part-1,0,,1678281837.0
+Test Coverage,0,11mnn8h,coding,https://www.christianfindlay.com/blog/test-coverage,0,,1678353140.0
+Golang HTTP Client Server Problems and Solutions,12,11m3zmv,coding,https://www.golangprograms.com/golang-http-client-server-examples.html,0,,1678300170.0
+Quick checkup: Do you deem this as useful or not?,0,11mw0l8,coding,https://polarise.io,0,,1678377960.0
+Understanding The Standard Template Library In C++ (STL),5,11m1c5i,coding,https://xalgord.in/standard-template-library-in-cpp-stl/,0,,1678294179.0
+What to Remember When Doing Performance Testing – Tips from Senior Devs,9,11lvieo,coding,https://stratoflow.com/performance-testing/,0,,1678279675.0
+"This Crazy, Fun Math Problem Brought Out My Inner Coder",4,11lwf2i,coding,https://medium.com/@aosotsi/this-crazy-fun-math-problem-brought-out-my-inner-coder-f7b77ff5e650,0,,1678282110.0
+"[Video] Lessons Learned From Working With 2,000 Event-Driven Microservices",0,11lt1g7,coding,https://www.youtube.com/watch?v=k8snG4mDc0c,0,,1678271950.0
+ShutNet - new open source prank,0,11m5r3t,coding,https://github.com/INeddHelp/ShutNet,0,,1678304129.0
+Building a Code Archeology Toolbox Without Storing Your Code,5,11l285r,coding,https://www.watermelontools.com/post/building-a-code-archeology-toolbox-without-storing-your-code,0,,1678202759.0
+Architecture Transformers - How to Build A Scalable Configuration Management & Deployment?,2,11l45ib,coding,https://www.youtube.com/watch?v=HQwhk1P3frw,0,,1678207140.0
+Castro - A DSL Made to aid devs in scripting and automating windows tasks,25,11k0fn6,coding,https://github.com/cmspeedrunner/Castro,8,,1678113082.0
+Authenticate with OpenID Connect and Apache APISIX,22,11j4hk9,coding,https://blog.frankel.ch/authenticate-openid-connect/,0,,1678038192.0
+Embedding Collapsible information in the data-structure of a graph,29,11j0lk5,coding,https://www.tdcommons.org/dpubs_series/2996/,2,,1678032284.0
+Copy Constructor in C++,0,11jt222,coding,https://xalgord.in/copy-constructor-in-cpp/,0,,1678091546.0
+Agoda Coding Competition |All Languages| Prize Pool 10K USD | FREE Entry,0,11jtzb7,coding,https://unstop.com/o/n1KmANI?ref=Vy574EqL,2,,1678094700.0
+Strategy Design Pattern: The Spring Boot Way,13,11ik8zl,coding,https://thegeekyasian.com/strategy-and-factory-design-patterns-the-right-way/,0,,1677981442.0
+"How to use gitignore, git hooks for better code management..!!",0,11j09p6,coding,https://blog.nandan.dev/how-to-use-gitignore-git-hooks-for-better-code-management,1,,1678031483.0
+The 12 Factor Methodology: The Blueprint to Building Future-Proof Applications,0,11inipu,coding,https://www.youtube.com/watch?v=IALZqCNDFtg,0,,1677990657.0
+"good morning, evening.. night ? where ever you are. i just need to know what do you guys think about bootstrap vs tailwind i know that they are different in the syntax and structure what framework would you chose to with large projects and if you have any other suggestions I'm all ears",0,11iongx,coding,http://getbootstrap.com,3,,1677994117.0
+Function purity and idempotence,0,11he7br,coding,https://paddy3118.blogspot.com/2023/03/function-purity-and-idempotence.html,9,,1677875952.0
+FeedbackPlus - boost customer feedback with screenshot & screenshot editing for your feedback forms (inspired by Google),27,11goqpe,coding,https://github.com/ColonelParrot/feedbackplus,0,,1677810777.0
+AnabolicSet - Javascript Set on steroids,15,11eo895,coding,https://github.com/ColonelParrot/AnabolicSet,5,,1677628642.0
+We Rewrote Our Project With Rust… and It’s Almost 40X Faster,0,11f2el2,coding,https://medium.com/better-programming/40x-faster-we-rewrote-our-project-with-rust-120b006c6abe,5,,1677673309.0
+Measuring the Gender Gap in Animated Films Using Computer Vision,0,11escxs,coding,https://betterprogramming.pub/measuring-the-gender-gap-in-animation-using-ai-fac738be4b19,1,,1677639683.0
+Right way of implementing Design Patterns in Spring Boot: An attempt to make things better and easier for fellow engineers. Stars are appreciated. Please see first comment for details.,3,11docku,coding,https://github.com/thegeekyasian/strategy-factory-design-patterns-in-spring-boot,1,,1677535502.0
+Expose APIs from Apache APISIX to the Power Platform,2,11dk3kn,coding,https://api7.ai/blog/expose-apis-to-power-platform,0,,1677525298.0
+GOTOphobia (fear of goto) considered harmful,2,11da5zd,coding,https://blog.joren.ga/gotophobia-harmful,6,,1677499227.0
+Explaining createSignal in under 10 minutes | createSignal | SolidJS,1,11deifr,coding,https://youtu.be/PqXxORVkkck,0,,1677511635.0
+Make your security policy auditable,24,11co8wg,coding,https://blog.frankel.ch/security-policy-auditable/,0,,1677435026.0
+The Missing Semester of Your CS Education,121,11ca6co,coding,https://missing.csail.mit.edu,8,,1677403889.0
+How Code Reviews can make you a Better Developer?,1,11clore,coding,https://www.codingfreshman.com/articles/code-reviews-better-developer,0,,1677429456.0
+New Book - Drawing Data with Kids,1,11cj837,coding,https://www.kickstarter.com/projects/gulrez/drawing-data-with-kids-drawing-our-way-to-data-literacy,0,,1677423529.0
+10 Proven Techniques for More Effective Code Reviews,29,11bfud7,coding,https://www.dainemawer.com/articles/ten-proven-techniques-for-more-effective-code-reviews,3,,1677313032.0
+"osmanip v4.5.0: a library for output stream manipulation using ANSI escape sequences. Features: colors and styles manipulators, progress bars and terminal graphics",13,11bjc0x,coding,https://github.com/JustWhit3/osmanip,0,,1677326248.0
+"ReacTree, convenient hierarchal visuzliation for React (VsCode Ext.)!",43,11ba8h2,coding,https://marketplace.visualstudio.com/items?itemName=ReacTreeDev.reactree,1,,1677294115.0
+"IEEE 802.11 Distribution System: Basics, Components, Security, Performance, And Future Trends",23,11aqd51,coding,https://xalgord.in/ieee-802-11-distribution-system/,1,,1677242086.0
+Tool for source code file structure overview,31,11aefcs,coding,https://source-snapshot.mavlevin.com/source-snapshot.html,19,,1677200958.0
+Simulating Softbody Dynamics,5,11ak3ix,coding,https://l-m.dev/cs/softbody-dynamics-terminal/,0,,1677218486.0
+"Exploring Quadtrees in Rust, with a browser playground thanks to WebAssembly",35,119u8l8,coding,https://getcode.substack.com/p/a-nibble-of-quadtrees-in-rust,1,,1677147125.0
+How BTree Indexing Optimises Database Performance: Explained!,15,119ug5e,coding,https://www.youtube.com/watch?v=bOFlJ0oUjU4,0,,1677147936.0
+"Open Source project that enables you to store and query geo-spatial data in-memory. The project provides an implementation of 2-dimensional K-D Trees, and this implementation has been tested in applications with the scale of receiving ~43m requests per day",30,119h0ge,coding,https://github.com/thegeekyasian/geo-assist,1,,1677107171.0
+open source tool to manage cloud infrastructure as data in postgresql,15,1198qe4,coding,https://github.com/iasql/iasql,3,,1677093802.0
+Need help deciding what beginner coding course I should choose at uni? and the benefits for both?,38,118ve30,coding,https://www.sydney.edu.au/units/OLET1307/2023-S1C-OL-CC,9,,1677063891.0
+"Open source tool that generates integration tests for web apps by recording API requests and server activity. Within 1 hour of recording, it gets to 90% code coverage.",124,1184tqw,coding,https://github.com/Pythagora-io/pythagora,25,,1676990031.0
+Fortifying Vue.js Applications: Common Security Risks and Solutions,0,118x2gz,coding,https://medium.com/@neciudan/fortifying-vue-js-applications-common-security-risks-and-solutions-2496321acf82,0,,1677069446.0
+"Lesser known tricks, quirks, and features of C",14,1186w6k,coding,https://blog.joren.ga/less-known-c,1,,1676994601.0
+Understanding Multiple Access Protocols in Networks,3,1182kja,coding,https://xalgord.in/multiple-access-protocols-in-networks/,0,,1676983438.0
+Test Isolation is Expensive,41,1173qw9,coding,https://cfdevelop.medium.com/test-isolation-is-expensive-f53b23895a62,5,,1676890335.0
+Legacy Software Systems: How to Live with Aging Software Architecture?,10,1171nyo,coding,https://stratoflow.com/legacy-software-systems/,0,,1676882070.0
+"Cross-platform IPC engine that automates real-time data transmission between connected processes, allowing them to interact like a distributed services",5,11724dj,coding,https://github.com/aregtech/areg-sdk,0,,1676883889.0
+PolygonDB - Json Database Designed To Run On Small Servers,30,116jnlu,coding,https://github.com/JewishLewish/PolygonDB,8,,1676830195.0
+"Top 12 Java Thread, Concurrency, and Multithreading Interview Questions and Answers",3,116y5nn,coding,https://www.java67.com/2012/08/5-thread-interview-questions-answers-in.html#.Y_L9ymF3QLg.reddit,2,,1676869101.0
+The right feature at the right place,9,116cpsq,coding,https://blog.frankel.ch/right-feature-right-place/,0,,1676818000.0
+42 things I learned from building a production database,118,115gbee,coding,https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html,12,,1676729882.0
+"Bandwidth Delay Product In Computer Networks: Understanding, Effects, Applications And Future Directions",3,1164cqa,coding,https://xalgord.in/bandwidth-delay-product-in-computer-networks/,0,,1676791217.0
+Killport - A Simple Script to Kill Processes on a Port,0,1169ta0,coding,https://github.com/BalliAsghar/killport,0,,1676811854.0
+Rust is or is not an OOP language?,0,116jemu,coding,https://iq.opengenus.org/oop-in-rust/,12,,1676829609.0
+Take part in research exploring methods to enhance programming accessibility,1,115lru5,coding,https://uofg.qualtrics.com/jfe/form/SV_5u0X9Ehoan0WNng,0,,1676744904.0
+"Exploring Checksums: Importance, Types, and Future Developments in Computer Networks",1,115jnfk,coding,https://xalgord.in/checksums-in-computer-networks/,0,,1676739226.0
+Is Go Object-Oriented?,0,115gj91,coding,https://ftp.osuosl.org/pub/fosdem/2023/UD2.218A/goisoo.mp4,5,,1676730554.0
+Bit Stuffing in Computer Networks: A Comprehensive Guide,36,114ihbj,coding,https://xalgord.in/bit-stuffing-in-computer-networks/,0,,1676634456.0
+Conch - A Windows Terminal Enhancer for Programmers and Coders,0,11560wf,coding,https://github.com/cmspeedrunner/conch,0,,1676691987.0
+"Animal, the first AI? (Retro BASIC)",1,114tueo,coding,https://www.goto10retro.com/p/animal-the-first-ai,0,,1676658434.0
+The Evolution of Go (And Its Hidden Oberon-2 and Pascal Links),1,114kiho,coding,https://youtu.be/0ReKdcpNyQg,0,,1676641132.0
+Fetching and Caching data in Next.js Async Server Components,0,114j3ry,coding,https://www.youtube.com/watch?v=GniRj1jIhFw,0,,1676636644.0
+How to automate your process with git hooks,2,1140ipu,coding,https://catalincodes.com/posts/how-to-automate-your-process-with-git-hooks,0,,1676580101.0
+Divide and Conquer: Merge Sort | Programming Algorithm,7,113m7fc,coding,https://medium.com/p/59b6e5ebe1db,0,,1676537933.0
+"Find Expiring SSL Certs using Curl, Go and Perl",40,11349aw,coding,https://www.olafalders.com/find-expiring-ssl-certs/,1,,1676484090.0
+Building an administration panel for Mongo Atlas in less than 10 minutes - AdminJS,0,113rhkt,coding,https://www.youtube.com/watch?v=iqRQLBTxwCk,0,,1676556606.0
+How to do Inter process communication in Java? MemoryMapped File Example,17,112wt2e,coding,https://www.java67.com/2020/05/how-to-do-inter-process-communication-in-java.html#.Y-zOwHpW-Sc.reddit,0,,1676463846.0
+A BASIC Valentine,3,112eqse,coding,https://www.goto10retro.com/p/a-basic-valentine,0,,1676405161.0
+Clean Code Takes Priority: Choosing Readability Over Speed,161,111lgj3,coding,https://juntao-qiu.medium.com/clean-code-takes-priority-choosing-readability-over-speed-9f467b9d1af3?source=friends_link&sk=b903e4e4130c019f9e01410fc155567a,20,,1676325901.0
+Question Answering On Domain Knowledge With Semantic Search And Text Generation,12,1120dsk,coding,https://nlpcloud.com/question-answering-on-domain-knowledge-with-semantic-search-and-text-generation.html,0,,1676368539.0
+"Streaming Real-Time Results with React, OpenAI, and Server Sent Events (SSE): A Step-by-Step Guide",0,112a7cc,coding,https://youtu.be/whH4ZKbBvsA,0,,1676393783.0
+Is there anyway for 2+ people to use the website Construct3?,0,112577i,coding,https://www.construct.net/en,1,,1676380771.0
+All You Need to Know in 12 Minutes: Pods' Requests and Limits in Kubernetes,2,1124cdm,coding,https://youtu.be/lKH1K5R3kqg,0,,1676378116.0
+Guide to Java Profilers: Which Performance Monitoring Tool Is the Best?,24,11150wf,coding,https://stratoflow.com/guide-to-java-profilers/,2,,1676283647.0
+Man In The Middle Proxy in Rust - Seeking Contributors and feedback,52,110r28y,coding,https://github.com/emanuele-em/man-in-the-middle-proxy,14,,1676237978.0
+"Pandas: Integrating with NumPy, Matplotlib, and Scikit-learn",8,1110tn7,coding,https://technicbate.blogspot.com/2023/02/pandas-library.html,1,,1676267414.0
+Best Practices for Java Apps on Kubernetes - Piotr's TechBlog,1,111d85m,coding,https://piotrminkowski.com/2023/02/13/best-practices-for-java-apps-on-kubernetes/,0,,1676305554.0
+50 Fun and Simple Projects for Beginners Complete with GitHub Code,0,111ceqh,coding,https://www.amazon.com/Python-Frenzy-Simple-Projects-Beginners-ebook/dp/B0BV9G1J2X/ref=sr_1_5?crid=3IHUYZWH0VX25&keywords=50+python+projects&qid=1676302738&s=digital-text&sprefix=%2Cdigital-text%2C143&sr=1-5,1,,1676303551.0
+create GUI in Python using Tkinter,3,110wda7,coding,https://technicbate.blogspot.com/2023/02/GUI-python-tkinter.html,0,,1676253128.0
+How to ArrayList of Objects by Fields in Java? Custom and Reversed Order Sorting using Comparator Example,0,111bpyw,coding,https://www.java67.com/2017/07/how-to-sort-arraylist-of-objects-using.html#.Y-pVk8YGVLQ.reddit,0,,1676301800.0
+Article about Declarative macros in rust,9,110c5er,coding,https://www.priver.dev/blog/rust/macros-in-rust/,0,,1676195757.0
+Network Analysis in Python with NetworkX,28,1102qlo,coding,https://technicbate.blogspot.com/2023/02/NetwordX-Python-graph-analysis.html,1,,1676162639.0
+Null safety: Kotlin vs. Java,0,110kj77,coding,https://blog.frankel.ch/null-safety-java-vs-kotlin/,0,,1676221443.0
+Google's Go may add telemetry that's on by default,135,10z9ole,coding,https://www.theregister.com/2023/02/10/googles_go_programming_language_telemetry_debate/,40,,1676081838.0
+A curious question about the beginning of computer programming.,0,110aokv,coding,http://google.com,11,"Have you ever gone down the rabbit hole of thinking how did the world begin, what was here before and how did a big bang just gone of nothin.  Like how does existence even exist lol.  
+
+Anyway I’m not a programmer, im very tech and computer Saavy but by no means a programmer but it does infatuate me and something I probably should of took up when younger .. anyways I go down this same rabbit hole with programming.. like it makes no sense at all how you string a bunch of text together that to the naked eye makes no sense but a computer takes it as instruction and understands it.  
+
+How did the very first programmed software or computer come about? You would think that there had to be code before the code for it to understand a code.  It’s them same brain frying query as the start of existence question.  
+
+I can’t even articulate my question clearly because it’s so mind boggling… 
+
+But basically how did someone wake up one day decide they are going to tell a computer or whatever to do something by inputting sone language they made up.  How did the first computer come to understand this input .. electronics is easy, a signal is sent via energy to make something turn on or off or whatever but coding hmmm doesn’t make sense if you think of this way.. 
+
+Just my random brain.. if anyone can break this down for me if not I guess there’s chat GPT.",1676189877.0
+"For those interested in learning mobile/web app development, every Saturday @ 4 PM UTC I present tips & tricks. Today's discussion is focused on a simple and effective state store management architecture using rx streams. I answer questions live to those who participate. The meet is on discord.",10,10zl197,coding,https://www.youtube.com/channel/UC2-5lfNbbErIds0Iuai8yfA,2,,1676114578.0
+How to Make Unique ID Generator Microservice Using Spring Boot,0,1101vre,coding,https://medium.com/javarevisited/how-to-make-unique-id-generator-microservice-using-spring-boot-7e38b8c736c8,1,,1676160177.0
+"IWNET — Pure C Asynchronous HTTP/IO library providing websockets, SSL, routing and reverse proxy. (MIT)",34,10yzp8d,coding,https://github.com/Softmotions/iwnet,0,,1676055197.0
+"Python Ternary: Understanding Syntax, Usage, and Benefits",0,10zg9oh,coding,https://technicbate.blogspot.com/2023/02/python-ternary.html,0,,1676104611.0
+Numpy library in python : A Comprehensive Guide,12,10yt4ur,coding,https://technicbate.blogspot.com/2023/02/numpy-library-python.html,4,,1676038709.0
+sys Library in Python: Understanding Fundamentals,0,10zarx7,coding,https://technicbate.blogspot.com/2023/02/sys-library-python.html,0,,1676085356.0
+Square a Number Using a Method in Java,0,10zffxp,coding,https://youtube.com/watch?v=wpEjJlg00vw&feature=share,0,,1676101476.0
+Square a Number Using a Method in Java,0,10zffu2,coding,https://youtube.com/watch?v=wpEjJlg00vw&feature=share,0,,1676101462.0
+The Four Aspects of Scalable I/O,39,10xzx56,coding,https://betterprogramming.pub/the-four-aspects-of-scalable-i-o-8a8a2c25c756,1,,1675962365.0
+Python With scikit-learn: A Step-by-Step Guide,7,10yetrv,coding,https://technicbate.blogspot.com/2023/02/scikit-learn.html,1,,1675999059.0
+NuPIC library - Python,2,10yjd8y,coding,https://technicbate.blogspot.com/2023/02/nupic-library-python.html,0,,1676014688.0
+GitHub - DocsGPT: AI chat for documentation search & assistance.,8,10xzkta,coding,https://github.com/arc53/DocsGPT,0,,1675961569.0
+Python Libraries : Introduction,3,10xtpsz,coding,https://technicbate.blogspot.com/2023/02/python-libraries.html,0,,1675946219.0
+The two cultures of programming and why both are important,118,10x07b8,coding,https://medium.com/yandex/the-two-cultures-of-programming-why-both-are-important-7a1f8b314278,24,,1675869945.0
+"Best syntax? Pascal, Julia, Haskell, Ruby, or Vlang",2,10xxwll,coding,https://www.slant.co/topics/16402/~what-programming-language-has-the-best-syntax,6,,1675957470.0
+module jwt has no attribute encode,0,10yhj5a,coding,https://www.hinditechbate.in/2023/01/module-jwt-has-no-attribute-encode.html,2,,1676007901.0
+For Loops in Python: A Comprehensive Guide,2,10xnz2g,coding,https://technicbate.blogspot.com/2023/02/for-loops-in-python.html,0,,1675925382.0
+100% Code Coverage 🎯 what could go wrong? I tested ALL lines of my code! Well...,0,10xsgnb,coding,https://youtu.be/WxoSoxVgyUw,0,,1675941976.0
+OpenMP and `rand()` function - a small story,3,10x5au9,coding,https://mahesh-hegde.github.io/posts/omp_rand_critical_section/,0,,1675877338.0
+Stream Responses from OpenAI API with Python: A Step-by-Step Guide,2,10x68iy,coding,https://www.youtube.com/watch?v=x8uwwLNxqis,0,,1675879565.0
+All Programming Philosophies Are About State,10,10wrxue,coding,https://www.worldofbs.com/minimize-state/,1,,1675846789.0
+Powering AI Capabilities with Apache APISIX and OpenAI API,8,10wq40p,coding,https://api7.ai/blog/power-ai-capabilities-with-apache-apisix,0,,1675839865.0
+infer-types: A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.,40,10w3yoe,coding,https://github.com/orsinium-labs/infer-types,2,,1675782123.0
+TypeScript Interview Questions [2023] | In-Depth Explanation,1,10wt7fx,coding,https://www.udemy.com/course/typescript-interview-questions/,0,,1675851733.0
+"An Introduction to Algorithms, Pt. 3: Efficiency && Big-O Time Complexity",2,10wfxks,coding,https://seththomasmeyer.medium.com/an-introduction-to-algorithms-pt-3-efficiency-big-o-time-complexity-cfbdf3a5517?source=friends_link&sk=2c06610f97bbcbde6dcc8f48c6382f79,0,,1675810616.0
+Anatomy of a Useless Program,7,10vznw7,coding,https://pboyd.io/posts/useless-program/,2,,1675769632.0
+Giveaway for coders. $50 end of month for top posting coder.,0,10wk52o,coding,https://gamerebels.com/forums/,0,,1675821648.0
+🚨🔊🔊🔊Animating export report button in react.,0,10w6ajf,coding,https://www.youtube.com/watch?v=pcFfzfLc4Yo&t=7s,0,,1675787838.0
+"Hey guys, could you please fill this form for me about some of your thoughts on an app. 9/11 of the questions are multiple choice and the others are short answers, all questions are optional, so you don’t HAVE to do the short answers. It would take around 5 mins. Please take your time to this! Thx!!",0,10wafxx,coding,https://forms.gle/Qy8e5msQvXcd93uT7,0,,1675797562.0
+Top 9 Python Libraries for Web Development,0,10vy5mq,coding,https://adicode.ml/python-libraries-for-webdevelopment,2,,1675763988.0
+Crack the Tech Interview: The Ultimate Tech Learning Resource List,4,10v9zzh,coding,https://medium.com/@neciudan/crack-the-tech-interview-the-ultimate-tech-learning-resource-list-c550d0b882b3,3,,1675698829.0
+A guide on when to use small vs large language models with semantic workflows,45,10ustqr,coding,https://medium.com/neuml/getting-started-with-semantic-workflows-2fefda6165d9,4,,1675644277.0
+Biometric Authentication: what is it all about,31,10u7pyf,coding,https://frontegg.com/blog/biometric-authentication,1,,1675585592.0
+Most Common Problems in Software Development and How To Fix Them,0,10v1mrd,coding,https://stratoflow.com/problems-in-software-development/,0,,1675672244.0
+Reverse-Engineering YouTube: Revisited,70,10tggo7,coding,https://tyrrrz.me/blog/reverse-engineering-youtube-revisited,2,,1675517442.0
+"Should you use Lerna, Turbopack, or Rush for JavaScript monorepo management?",2,10tyo8b,coding,https://byteofdev.com/posts/lerna-vs-turbopack-rush/,3,,1675564413.0
+Drawing a spiral with GFA BASIC on an Atari ST,18,10tkxdw,coding,https://www.goto10retro.com/p/drawing-a-spiral-in-gfa-basic,0,,1675529310.0
+Strings in Golang - golangprograms.com,1,10u5kot,coding,https://www.golangprograms.com/strings-in-golang.html,0,,1675577504.0
+Memory Safety for C/C++ at the Hardware Level with CHERI,1,10tzzei,coding,https://msrc-blog.microsoft.com/2022/01/20/an_armful_of_cheris/,0,,1675568386.0
+JavaScript Hoisting An In-depth Guide,29,10t7tr9,coding,https://medium.com/@ind/javascript-hoisting-an-in-depth-guide-b9d26d3cc032,0,,1675494980.0
+How does transactions per second relate to number of users and server configuration?,2,10tcd9q,coding,https://stackoverflow.com/questions/75326985/how-does-transactions-per-second-relate-to-number-of-users-and-server-configurat,0,,1675504654.0
+You can give ChatGPT a personality like lawyer or Abraham Lincoln,0,10tjzx6,coding,https://www.youtube.com/watch?v=FVvw8zL2FTU,0,,1675526948.0
+ChatGPT and Software Architecture,128,10sb9vx,coding,https://betterprogramming.pub/chatgpt-and-software-architecture-308b6e0cc25a,3,,1675399179.0
+What is overfitting?,10,10sl06c,coding,https://www.raaicode.com/what-is-overfitting/,0,,1675432828.0
+"DNA to RNA, 5 solutions: Elixir, Haskell, Julia, JavaScript, & Vlang",1,10si4wz,coding,https://kevin-da-silva.medium.com/one-problem-five-solutions-dna-to-rna-ec07294850d5,0,,1675423774.0
+Looking for a coder,0,10t1eck,coding,http://google.com,12,Hello I am looking for someone to write me a script. I’ve never coded before and I thought to come here. I don’t know how difficult it is but it seems pretty easy for someone who knows how to code. If you are interested please dm me and I will try my best to get back to you,1675474141.0
+Vue3 and Force Graph,31,10rqzye,coding,https://medium.com/@petttr1/vue3-and-force-graph-f5dff98a5970,0,,1675347791.0
+Dictionaries in python (Data Structures) [Tech Tutorial Friday],0,10sfo61,coding,https://medium.com/p/a6a7cf106c15,0,,1675414319.0
+"Fast Async: Speedy alternative for asyncio, an asynchronous programming framework designed for speed",7,10rrjzc,coding,https://github.com/thebowenfeng/FastAsync,9,,1675349309.0
+Callpyback - last callbacks you will ever need,1,10s4gev,coding,https://github.com/samuelgregorovic/callpyback,0,,1675380471.0
+React JS Interview Questions and Answers - Practice Tests,1,10rxnbp,coding,https://www.udemy.com/course/react-js-interview-questions-and-answers/,0,,1675364243.0
+Why SOLID principles are still the foundation for modern software architecture,104,10qzrah,coding,https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/,40,,1675270892.0
+"Realtime Audio on Android with Python, Kivy and Audiostream (low level l...",2,10ro1jx,coding,https://youtube.com/watch?v=7NMVkZnEP2s&feature=share,0,,1675338736.0
+JSON Web Tokens (JWT) Payload — Keep It Lean!,22,10qupsw,coding,https://medium.com/@sandrodz/json-web-tokens-jwt-payload-keep-it-lean-825fd4b78e2a,10,,1675258091.0
+This video does a great job in helping its viewer understand ADT. And the coolest part about it is its animation. Minimal and simple to understand!,4,10r3zc9,coding,https://youtu.be/r5jsJ7yH0vk,0,,1675280602.0
+The AI Assisted Coding extension of your dreams is now LIVE! Say goodbye to tedious tasks and hello to increased productivity and efficiency,0,10rry5e,coding,https://marketplace.visualstudio.com/items?itemName=AIAssistedCoding.ai-assisted-coding,3,,1675350325.0
+Here's the tool I use that gives a nice autocomplete on my terminal (and also some AI),3,10r3rtd,coding,https://youtu.be/HNVB9Dro2S4,0,,1675280114.0
+Portability and the C Language,2,10qt5ua,coding,https://en.wikibooks.org/wiki/Portability_and_the_C_Language,0,,1675253973.0
+Generate Art with DALL·E 2 and Twilio Serverless via SMS,0,10r0tzn,coding,https://www.twilio.com/blog/generate-art-with-dall-e-2-and-serverless-sms,0,,1675273409.0
+"I have made a program capable of running python anywhere, you could be using node.js, c++, c#, etc, and you would still be able to run python code, with packages, all you want! Speeds are pretty good too!",0,10qxd6o,coding,https://rapidapi.com/fusioncow11/api/python-anywhere,0,,1675265069.0
+Create Your Chat GPT-3 Web App with Streamlit in Python,0,10qfb8v,coding,https://medium.com/gitconnected/create-your-chat-gpt-3-web-app-with-streamlit-in-python-f0c6e6aede0a,0,,1675211089.0
+Write CRUD E2E tests with Angular and Cypress,23,10p6eu2,coding,https://levelup.gitconnected.com/write-e2e-tests-with-angular-and-cypress-1f011f673a5e,1,,1675094493.0
+Drawing Data with Kids,14,10pa166,coding,https://www.kickstarter.com/projects/gulrez/drawing-data-with-kids-drawing-our-way-to-data-literacy,0,,1675103365.0
+A beginner-friendly demo on moving commits between branches,5,10pctql,coding,https://youtu.be/0pzFGXvemvA,0,,1675109921.0
+Cloud migration strategies with API Gateway,7,10p2tom,coding,https://api7.ai/blog/cloud-migration-strategies-with-api-gateway,2,,1675086757.0
+Why did the new GraphQL API for WordPress take 1.5 years to be released?,0,10pvxsd,coding,https://graphql-api.com/blog/why-did-releasing-graphql-api-v09-take-so-long/,0,,1675161808.0
+Deployment Strategies Explained In-Depth | DevOps,30,10osydr,coding,https://link.medium.com/LWYlUHV8Zwb,0,,1675053764.0
+Master JavaScript with over 900 MCQs + Angular & React MCQ,1,10p49ar,coding,https://www.udemy.com/course/the-complete-javascript-mcq-from-zero-to-expert/,0,,1675089489.0
+Learning by doing: An HTTP API with Rust,19,10ocydl,coding,https://blog.frankel.ch/http-api-rust/,0,,1675012914.0
+Can Doom Run It? An Adding Machine in Doom,80,10o1ht1,coding,https://blog.otterstack.com/posts/202212-doom-calculator/,4,,1674975661.0
+Reinforcement Learning for Beginners - Coding a Maze-solving Agent from Scratch,33,10o3iuw,coding,https://strikingloo.github.io/reinforcement-learning-beginners,0,,1674983395.0
+Simulating & troubleshooting StackOverflowError in Kotlin,1,10ors3v,coding,https://blog.fastthread.io/2022/10/18/simulating-troubleshooting-stackoverflowerror-in-kotlin/,1,,1675050245.0
+Some Think Coding Won’t Exist In 5 Years,0,10p3dyl,coding,https://javascript.plainenglish.io/coding-wont-exist-in-5-years-this-is-why-6da748ba676c,29,,1675087768.0
+How To Lose Functional Programming At Work,0,10ojuv3,coding,https://robertwpearce.com/how-to-lose-functional-programming-at-work.html,0,,1675029327.0
+How I still use Flash in 2022,121,10nie8t,coding,https://foon.uk/how-flash-2022,16,,1674921655.0
+Python client for OGC Maps API,2,10o3bg6,coding,https://github.com/52North/api-maps-client,0,,1674982622.0
+Python and AI: The Ultimate Party Guide for Mastering the Magic of Code,1,10nra9q,coding,https://www.amazon.com/dp/B0BTB4Y1F3/,0,,1674944419.0
+"Desktop Applications with Java/Scala, HTML and CSS",1,10nl6h8,coding,https://github.com/Osiris-Team/Desku,1,,1674928822.0
+"What do you think about an API that allows for grabbing web content? This would mean that virtually any language can make high-level web requests, as this has built-in parsing. You also wouldn't have to deal with getting blocked, because it acts as a proxy.",0,10ntzg5,coding,https://rapidapi.com/fusioncow11/api/web-data1,7,,1674951611.0
+How To Use Mock Data Without Changing Internal Logic,8,10myex3,coding,https://hopemanryan.medium.com/how-to-use-mock-data-without-changing-internal-logic-bc7488f329af?source=friends_link&sk=27dbd518937688fddd6df26cebf14f84,0,,1674859278.0
+Tips for analyzing logs,12,10modud,coding,https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs,4,,1674835269.0
+"C++ creator Bjarne Stroustrup weighs in on distributed systems, type safety and Rust (2020)",146,10m3len,coding,https://thenewstack.io/c-creator-bjarne-stroustrup-weighs-in-on-distributed-systems-type-safety-and-rust/,13,,1674769841.0
+GitHub - bellrise/libcsd: Custom base library for C++20 based on libc.,4,10m1qrw,coding,https://github.com/bellrise/libcsd,0,,1674765257.0
+Golang Context Package Guide,3,10m0avr,coding,https://www.golangprograms.com/golang-context-package-tutorial.html,0,,1674761627.0
+Vb.net,0,10ln3sa,coding,https://youtu.be/d7dbEgm-4AM,0,Hostname and ip address code in vb,1674721207.0
+Code reviews resources,11,10ktxq9,coding,https://www.awesomecodereviews.com/,2,,1674635362.0
+CodeCode - a tool to get the time and space complexity of your functions,58,10kiuf0,coding,https://codecode.codes/,3,,1674600692.0
+I want to build a calorie measurer/tracker app/program but have no idea where to start. Inspired by a youtube short given below. Any advice is hugely appreciated!!,0,10l3n3u,coding,https://www.youtube.com/shorts/oNL37mTULvo,2,,1674666368.0
+Magic Numbers Are Problematic (Use Explanatory Constants Instead),61,10k4xnx,coding,https://medium.com/itnext/magic-numbers-are-problematic-5b12cfe5f31a,21,,1674565251.0
+eBook: 100 React Interview questions + answers,0,10l0bup,coding,https://react-interview.codaroo.io/,0,,1674658142.0
+Multiple Cheatsheets For Linux Developers And Quick Access Short Codes To Them!,35,10k0d2x,coding,https://sweworld.net/cheatsheets/,0,,1674546745.0
+Friendly RPG: Turn-based RPG game for up to 4 players on one device,8,10k710b,coding,https://github.com/Volplayed/friendly-rpg-game,1,,1674571411.0
+[video] TLS 1.3 Explained,3,10kcqri,coding,https://youtu.be/THxIyHz191A,0,,1674585903.0
+Swimm overview - An app to keep your documentation Auto-synced with your GitHub code,15,10k1e9a,coding,https://javascript.plainenglish.io/code-documentation-is-broken-but-i-think-swimm-may-have-fixed-it-daaa7547d834,2,,1674551274.0
+"Wolfram tells students, ""DON'T STUDY COMPUTER SCIENCE.""",0,10kkh6j,coding,https://youtu.be/cShewypo7PY,6,,1674604848.0
+OAuth vs. JWT: What Is the Difference & Using Them Together,104,10j9ppp,coding,https://frontegg.com/blog/oauth-vs-jwt,3,,1674471080.0
+The Least Recently Used (LRU) Cache. JS implementation example.,1,10k17nd,coding,https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/lru-cache,0,,1674550476.0
+Call Remix loaders on demand with useRevalidate,2,10jwl17,coding,https://jonmeyers.io/blog/call-remix-loaders-on-demand-with-userevalidate,0,,1674532829.0
+"This week in Open Source - Apple Lisa source code, DNEG's new tool, Firefox 109, and more",65,10isr7d,coding,https://fossweekly.beehiiv.com/p/foss-weekly-32-kde-plasma-5-27-kernel-vulnerability-dneg-s-tool-and-more,6,,1674417882.0
+"Hi everyone, I wrote this project while I'm learning Rust for practice. I need help from someone to do better error handling. I use the crates thiserror and anyhow, but I have some difficulty implementing them in my simple project.",2,10jan7z,coding,https://github.com/tiagorcorreia/rtodo,0,,1674474599.0
+please help fix this i can only post a link so I put it in a doc,0,10jutw4,coding,https://docs.google.com/document/d/1QwO4qBiSb8OyxAPAxbpW3wgF4NZjPaq-6vYIo13W1Jk/edit,2,,1674527396.0
+How to use Java Optional to handle NullPointerException?,0,10jb847,coding,https://ayushblog.medium.com/how-to-use-java-optional-to-handle-nullpointerexception-6d847fd379a9,2,,1674476569.0
+How To Implement Linked List Without Using The Built-in Java Library? • Scientyfic World,0,10j5tlv,coding,https://scientyficworld.org/linked-list-without-built-in-java-library/,6,,1674455169.0
+The quest for REST,1,10ipkfv,coding,https://blog.frankel.ch/quest-for-rest/,0,,1674409979.0
+Tutorial: Setting up CI/CD Pipeline for a React app using Travis CI,0,10iptjh,coding,https://codingchronicles.adityakarad.com/ci-cd-for-react-project-using-travis-ci,0,,1674410589.0
+Programming Contest With Prizes Too,0,10ipk9w,coding,https://my.newtonschool.co/register/newtons-grand-coding-contest/?utm_source=referral&utm_medium=prajjwalfire&utm_campaign=newtons-grand-coding-contest-portal-referral,3,,1674409968.0
+Apple Lisa Pascal Code Finally Goes “Open Source”,90,10hqjnl,coding,https://arstechnica.com/information-technology/2023/01/pioneering-apple-lisa-goes-open-source-thanks-to-computer-history-museum/,8,,1674305471.0
+How to Read SFTP files in Java,0,10ic78f,coding,https://asyncq.com/how-to-read-sftp-files-in-java,0,,1674365958.0
+Enabling static analysis of SQL queries at Meta,29,10hl80c,coding,https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/,0,,1674284484.0
+C++ — programming language of the year 2022. What about other languages?,61,10h0rxg,coding,https://pvs-studio.com/en/blog/posts/1026/,19,,1674230961.0
+PyI18n - Simple and easy-to-use internationalization library,0,10hmul2,coding,https://github.com/sectasy0/pyi18n,0,,1674291096.0
+One way of building an SVG icon library for your project,13,10guy7n,coding,https://catalincodes.com/posts/one-way-of-building-an-svg-library,1,,1674215252.0
+Azure Function with Cosmos DB Clean Architecture,2,10h320z,coding,https://fullstackhub.io/azure-function-cosmosdb-clean-architecture,0,,1674236340.0
+Hands-On: Kubernetes Gateway API With APISIX Ingress,16,10gnjpj,coding,https://navendu.me/posts/kubernetes-gateway-with-apisix/,0,,1674189518.0
+Google: A difficult decision to set us up for the future,0,10ha7v8,coding,https://blog.google/inside-google/message-ceo/january-update/,0,,1674252829.0
+I/O is no longer the bottleneck,55,10g5huv,coding,https://benhoyt.com/writings/io-is-no-longer-the-bottleneck,16,,1674144447.0
+10 types of people,0,10h7mz3,coding,https://www.goto10retro.com/p/10-types-of-people,0,,1674247472.0
+Whatsapp Group Webhopk,0,10h01lb,coding,http://whatsappconfig.com,0,"Hi,
+
+I own a freelance business, and we have multiple whatsapp groups with freelancers. 
+
+I lanually update a excel/notion sheet everytime a new member joins. Is there a way to automate this so every time a new member joins the whatsapp group I can match this with the database freelance list i have in excel by phone number for example? 
+
+A simple boolean would be enough.",1674229206.0
+Why Bash Scripting Can Make You A Better Engineer,144,10f99qy,coding,https://medium.com/@weibeld/why-bash-scripting-can-make-you-a-better-engineer-2bd28bc72921?sk=1facb9ad7bf393308ddb274e6533e693,51,,1674053662.0
+Best React.js Practice with Vite+React+Typescript+Material UI,13,10fonni,coding,https://github.com/prajun7/react-till-now,1,,1674091692.0
+Conway's Game of Life Written in CLIPS,6,10fadfm,coding,https://ryjo.codes/articles/conways-game-of-life-written-in-clips.html,0,,1674056392.0
+An Advanced GraphQL with Spring Boot - Piotr's TechBlog,4,10f81a7,coding,https://piotrminkowski.com/2023/01/18/an-advanced-graphql-with-spring-boot/,1,,1674050328.0
+"New GraphQL API for WordPress (after 1.5 years of development, over 16k commits)",5,10f636r,coding,https://github.com/leoloso/PoP/releases/tag/0.9.3,2,,1674044486.0
+"""It's okay to not be perfect"": A programmer's journey to acceptance. Learning to overcome the challenges.",144,10eaqn6,coding,https://www.rob.cat/programming/opinion/2023/01/17/perfectionism.html,17,,1673957403.0
+An Advanced GraphQL with Spring Boot - Piotr's TechBlog,1,10f667q,coding,https://piotrminkowski.com/2023/01/18/an-advanced-graphql-with-spring-boot/,0,,1674044761.0
+Unix/Linux Command Combinations That Every Developer Should Know,16,10efnt3,coding,https://levelup.gitconnected.com/unix-linux-command-combinations-that-every-developer-should-know-9ae475cf6568?sk=8f264980b4cb013c5536e23387c32275,4,,1673971009.0
+So I am making a website with html and I need to make a chat in which people can talk with each other but I have no idea how to do it. What should I do?,0,10fc507,coding,http://instagram.co.uk,5,,1674060585.0
+I'm yet to figure out the best way to code this exact scrolling effect in javascript. Apple has the best web team.,1,10ev9xx,coding,https://www.apple.com/macbook-pro-14-and-16/,14,,1674008546.0
+purecode - Functional Programming Talks | Free Event,3,10e9jjf,coding,https://www.purecode.tech/,1,,1673953258.0
+l10n: Python library for translating your application,46,10dgpni,coding,https://github.com/life4/l10n,1,,1673881323.0
+Exploring Python’s Built-in Libraries: Pandas and NumPy,0,10eaenr,coding,https://medium.com/@ind/exploring-pythons-built-in-libraries-pandas-and-numpy-d58fa0f87fd3,0,,1673956328.0
+Book review: API Design Patterns,160,10cqa48,coding,https://blog.frankel.ch/api-design-patterns/,12,,1673805738.0
+A Beginner’s Guide to Object-Oriented Programming in Python,1,10ded6s,coding,https://medium.com/@ind/a-beginners-guide-to-object-oriented-programming-in-python-e780175b164c,3,,1673875152.0
+GitHub Copilot Labs add Photoshop-style 'brushes' for ML-powered code modifying,8,10cqbqc,coding,https://developers.slashdot.org/story/23/01/15/050248/github-copilot-labs-add-photoshop-style-brushes-for-ml-powered-code-modifying,1,,1673805847.0
+Efficient Software Release Management with Automated Changelog Generation,3,10cxz8h,coding,https://jonathas.com/efficient-software-release-management-with-automated-changelog-generation/,0,,1673824042.0
+Historical Source Code That Every Developer Should See,124,10blj4n,coding,https://levelup.gitconnected.com/historical-source-code-that-every-developer-should-see-a7e6c6cbd764,7,,1673692728.0
+"Mobile app runs in background and allows chrome automation; refresh pages, like comments, etc; could an app be easily designed to visit page and make clicks, which allows the automation to be controlled remotely?",2,10c7jga,coding,https://github.com/,4,,1673748219.0
+Photorealistic text guided human image editing using attention with GANs,2,10bwe8m,coding,https://github.com/Psarpei/GanVinci,1,,1673722994.0
+Introduction to FixScript,10,10bksfk,coding,https://www.fixscript.org/blog/introduction,4,,1673689921.0
+Just In Time For The Most Overengineered Calculator,6,10bdvp3,coding,https://l-m.dev/cs/jitcalc/,0,,1673665971.0
+linkedin-stats: Stats for messages I received on LinkedIn,39,10awnh8,coding,https://github.com/orsinium-labs/linkedin-stats,3,,1673622123.0
+"Whenever I try to edit my website it doesn’t save the changes, I lm simply copying my visual studio code and pasting it into the html section in developer tools but whenever I close the tab the changes don’t save, any help? (I added the blank site bellow)",0,10buvv7,coding,https://www.retroresque.com/,4,,1673719389.0
+Maximizing Software Developer Effectiveness,21,10ax1os,coding,https://martinfowler.com/articles/developer-effectiveness.html,0,,1673623157.0
+Understanding Java Parallel Stream,0,10ayty2,coding,https://medium.com/@ayushblog/what-is-java-parallel-stream-fc4ac57d9f2a,0,,1673627601.0
+The Art of System Design: practical guide & lessons from the field,39,10a0uxr,coding,https://youtu.be/3IWpU72eixw,0,,1673533447.0
+Jupyter Server: A whirlwind tour,0,10apol1,coding,https://wasimlorgat.com/posts/jupyter-server-a-whirlwind-tour.html,1,,1673599704.0
+Quick Take: Create a Github Repo in 3 Keystrokes,0,10adtln,coding,https://medium.com/@cj_windisch/quick-take-create-a-github-repo-in-3-keystrokes-5607ca1741,0,,1673564772.0
+⚡️Apple Maps Server SDK,1,10a7aov,coding,https://github.com/JS00001/apple-maps-server-sdk,0,,1673549438.0
+Build a ChatGPT-like SMS Chatbot with OpenAI and Python,0,10aatq3,coding,https://www.twilio.com/blog/sms-chatbot-openai-python,0,,1673557848.0
+A* Algorithm Written in CLIPS,32,1099ix6,coding,https://ryjo.codes/articles/a-star-algorithm-written-in-clips.html,0,,1673456139.0
+Multi-Tenant vs. Single-Tenant: What Is the Difference,48,108zjc5,coding,https://frontegg.com/blog/multi-tenant-vs-single-tenant,3,,1673424984.0
+"I made this website that disguises reddit as your email inbox, so you can browse reddit at work without anyone knowing",504,xmwwmd,coding,https://one-loop.github.io/redlookit/,41,,1664036050.0
+We finished our first algorithm for generating procedural buildings through code. (See comments for a video demo),596,bap5xx,coding,https://v.redd.it/lqt5mdbnsyq21,21,,1554696276.0

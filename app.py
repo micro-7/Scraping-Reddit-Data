@@ -101,7 +101,7 @@ st.title("ENTER YOUR TOPIC")
 my_form = st.form(key = "form1")
 name = my_form.text_input(label = "Enter your topic here")
 submit = my_form.form_submit_button(label = "Submit your topic")
-filetype = my_form.selectbox('filetype', ['csv', 'xlsx','json'])
+filetype ='csv'
 result = None
 savebtn = None
 if submit and name:
@@ -118,34 +118,6 @@ if submit and name:
         errormessage = f"Error while fetching data for subreddit '{name}'"
         st.error(errormessage)
 
-# if isinstance(result, pd.DataFrame):
-#     with st.form(key='save'):
-#         name = st.text_input('file name')
-#         filetype = st.selectbox('filetype', ['csv', 'xlsx','json'])
-#         savebtn = st.form_submit_button('save')
-# if savebtn and name and filetype == 'csv':
-#     result.to_csv(f'{name}.{filetype}', index=False)
-# elif savebtn and name and filetype == 'xlsx':
-#     result.to_excel(f'{name}.{filetype}', index=False)
-
-#st.title('Select what to scrap')
-#cols=  ['Comments', 'Time of posting','Upvote', 'Shares']
-#selected_cols= st.multiselect('Select your action', cols)
-#st.write(f'You selected: {len(selected_cols)} actions')
-
-
-# st.title("Choose URL or ID ")
-# #Radio button to select URL or ID
-# form_selection = st.radio("Choose your action:", ("URL", "ID"))
-# #Now display the form according t
-# if form_selection == "URL":
-#     url = st.text_input("Enter URL")
-# elif form_selection == "ID":
-#     id = st.text_input("Enter ID")
-# # Submit button
-# if st.button("Submit"):
-#     st.write("Form submitted!")
-
 st.title("Choose URL or ID")
 # Radio button to select URL or ID
 form_selection = st.radio("Choose your action:", ("URL", "ID"))
@@ -158,7 +130,7 @@ elif form_selection == "ID":
 btn = st.button("Submit")
 if btn and form_selection == "URL":
     df = get_post_comments_by_url(url)
-    st.write(df)
+    #st.write(df)
     
     if isinstance(df, pd.DataFrame):
         st.dataframe(df)
@@ -168,10 +140,11 @@ if btn and form_selection == "URL":
         st.error('could not fetch data')
 elif btn and form_selection == "ID":
     df = get_post_comments_by_id(id)
-    st.write(df)
+    #st.write(df)
     if isinstance(df, pd.DataFrame):
         st.dataframe(df)
-        filename =f'{SAVE_LOC}/{id}.csv'
+        filename =f'{SAVE_LOC}/{id}_{datetime.strftime(datetime.now(), "%d_%m_%Y")}.csv'
         df.to_csv(filename, index=None)
+    else:
         st.error('could not fetch data')
 

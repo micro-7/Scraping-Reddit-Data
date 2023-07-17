@@ -1,0 +1,153 @@
+id,comment,author,score,author_is_blocked,banned_by,total_awards_received,subreddit,likes,created_utc,comment_type,ups,downs
+jrwk6i5,"**Please ensure that your comment is formatted with the template above** and that you have looked to see if your bug has already been reported by another user. Sometimes common bugs have already been listed (and even solutions discussed). Un-formatted or off-topic comments will be removed.
+
+_If you would like to discuss and ask for additional technical support, please head over to /r/ValorantTechSupport!_
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/VALORANT) if you have any questions or concerns.*",AutoModerator,1,False,,0,VALORANT,,1689316405.0,,1,0
+jrxrz2i,"Another patch where this is an issue, another copy and paste from me (#11)  
+  
+\- Region: NA  
+  
+\- Type of Bug: MouseWheel Keybind Delays Pulling out Weapon/Knife  
+  
+\- Description:  
+  
+When ""Equip Melee Weapon"" is binded to Mouse Wheel Down (or any weapon), and you have your other weapons set to any bind, there is a delay before you can pull out your weapons/knife.  
+  
+For example, let’s say I’m holding any gun and I want to swap to my knife. To do this I’ll use Scroll Wheel Down. If I were to want to switch back to my gun immediately, there is a long delay (about half a second) before I can do so. This happens when the weapons are reversed (knife to gun and back to knife).  
+  
+\- Steps to Reproduce:  
+1. Bind ""Equip Melee Weapon"" to Mouse Wheel Down  
+2. Go in a game and get any gun.  
+3. While holding the gun, scroll down and then quickly try to pull out your gun (any   
+primary or secondary weapon bind works). When the gun is finally equipped in your hand,   
+switch to you melee, then try to go back to your gun.  
+  
+\- Expected Result: Swapping back and forth between weapons can be done quickly.  
+  
+\- Observed Result: About a 0.5 second delay between either weapon equipping.  
+  
+https://www.youtube.com/shorts/64J6hkhsLnA  
+  
+\*Video by u/auriolusvex  
+  
+\- Reproduction Rate: 10/10  
+  
+\- System Specs: Logitech G-Pro Superlight Mouse. Ryzen 7 5800x CPU. NVIDIA GeForce RTX 3060Ti GPU. 32 GBs of RAM. (This is not a system-related bug. Testing on multiple accounts, multiple computers, and all servers available to me)  
+  
+This has been an issue since the beginning of 6.02 :(  
+  
+Note: This bug probably has something to do with the brimstone spamming the molly fix, since if you only scroll one notch of your mouse, the problem doesn’t exist. I’m assuming the game is trying to delay you from using scroll wheel to spam interactives that have an audio tied to them (ziplines, spike plant/defuse, etc).",Twonewbe4u,1,False,,0,VALORANT,,1689344202.0,,1,0
+jrxn3n9,"Region: APAC
+
+Type of Bug: In Game Bug
+
+Description: jett dash timer bar not appearing
+
+Video / Screenshot: [Sound cue is audible, but bar is not visible](https://youtu.be/RRH6VmXVOcE)
+
+Steps to Reproduce: Use E
+
+Expected Result: Bar should be visible
+
+Observed Result: Bar is not visible
+
+Reproduction Rate: Have had same issue for 3 games in a row
+
+System Specs: Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz, 24gb ram, nvidia gpu",-rustle,1,False,,0,VALORANT,,1689342097.0,,1,0
+jrwow0o,"- Region: NA
+- Type of Bug: In Game Bug
+- Description: Yoru's flash, for you and your teammates, does not make a ""woosh"" sound when bounced off a surface. Enemies can still hear it.
+- Video / Screenshot: [How it previously sounded](https://cdn.discordapp.com/attachments/1113711075486081065/1123459196797595720/Valorant_2023.05.15_-_01.17.54.32.DVR.mp4) (Listen to the ""woosh"" noise made on the left speaker) ; [How it currrently sounds](https://cdn.discordapp.com/attachments/1113711075486081065/1123457285549731940/Valorant_2023.06.27_-_23.32.32.07.DVR.mp4) (No ""woosh"")
+- Steps to Reproduce: Throw a Yoru flash and make it hit a surface
+- Expected Result: The ""woosh"" sound is heard by everyone when in contact with surface
+- Observed Result: The ""woosh"" sound is only heard by enemies. — This is bad since it is now harder for teammates to dodge flashes and it is harder to know when the flash will go off if you aren't looking at it.
+- Reproduction Rate: 10/10
+- System Specs: N/A",ClarkGP,1,False,,0,VALORANT,,1689319974.0,,1,0
+jrwqcj3,"Region: Asia
+
+Type of bug: in-game
+
+Description: TDM mode, Yoru gatecrash ability breaks after few seconds if placed near spawn area.
+
+Steps to reproduce: TDM any map, choose Yoru, cast Gatecrash anywhere near the light barrier at spawn, step away at least 20m from spawn area.
+
+Expected result: Gatecrash stays until the ability timer expires
+
+Observed result: Gatecrash breaks without any damage done to it.
+
+
+Reproduction rate: 10/10 gatecrash always breaks for no reason in every TDM match.",Intri-cat,1,False,,0,VALORANT,,1689321140.0,,1,0
+js07frq,"• Region: EUW
+
+• Type of Bug: In Game
+
+• Description: Deadlock's Sonic Sensor stays up after death
+
+• Video / Screenshot: [https://youtu.be/gqVFZyOoGFs](https://youtu.be/gqVFZyOoGFs)
+
+• Steps to Reproduce:
+
+\- Start a match with deadlock as one of the agent.
+
+\- Deadlock places a Sonic Sensor
+
+\- An enemy kills deadlock
+
+\- An enemy activates the Sonic Sensor by making noise in it's range
+
+• Expected Result: Sonic Sensor should disable once deadlock dies.
+
+• Observed Result: Sonic Sensor still works as if Deadlock was alive
+
+• Reproduction Rate: 1/40?
+
+• System Specs: AMD Ryzen 7 5800X, Nvidia RTX 3080Ti, Windows 11 Family, 32Gb RAM, M.2 SSD",Hurdenn,1,False,,0,VALORANT,,1689380014.0,,1,0
+js0dwhz,"Region: NA  
+Type of Bug: In Game Bug  
+Description: DeadLock's Ultimate opens tp door on BIND from outside;  
+Video / Screenshot:
+EDIT: (https://clipchamp.com/watch/PWrdcL5du9t)
+See comment below
+
+Steps to Reproduce: Use Deadlock ultimate on either TP door in BIND  
+Expected Result: The ultimate should not open the door from the outside; no other ability does this;  
+Observed Result: Player will be dragged out of teleporter from the outside;  
+Reproduction Rate: 10/10  
+System Specs: N/A",No_Buffalo_6763,1,False,,0,VALORANT,,1689383104.0,,1,0
+js2eq9i,"Region: APAC
+
+Type of Bug: In Game Bug (Audio)
+
+Description: Bluetooth headphones sounds muffled when got in every match except in lobby
+
+Video / Screenshot: \*Can try replicate with any bluetooth headphones or in my case (Oppo Enco X)
+
+Steps to Reproduce: \*Can try replicate with any bluetooth headphones or in my case (Oppo Enco X)
+
+Expected Result: Sound becomes muffled or no audio sometimes but when using normal wired earphones sound did not becomes muffled.
+
+Observed Result: Sounds muffled when got in match
+
+Reproduction Rate: Every match (even in firing range)
+
+System Specs: i7-12700H, RTX 3050 4GB, 16GB RAM, 512GB SSD",Training-Lead-6176,1,False,,0,VALORANT,,1689429647.0,,1,0
+js5tv79,"Region: AUS/Oceana
+
+Type of Bug: Patch Downloading
+
+Description: The Client tells me that the new patch is not downloading, but it is 
+
+Video/Screenshot: [https://www.reddit.com/r/VALORANT/comments/150yool/bug\_i\_have\_been\_experiencing\_for\_megathread/](https://www.reddit.com/r/VALORANT/comments/150yool/bug_i_have_been_experiencing_for_megathread/)
+
+Steps to Reproduce: Unknown. This may just be a visual glitch.
+
+Expected Result: The client tells me what the download is at.
+
+Observed Result: The progress bar stays at 0%, but the library download displays actual download percentage (Check image)
+
+Reproduction Rate: 10/10 I cannot get the bug to stop.
+
+System Space: (8) Intel(R) Core(TM) i7-2600k CPU @ 3.40GHz, Windows 10, AMD HD Radeon 6900 Series (Apoligies, I do not know much beyond this) 16Gb Ram (Model Unknown)",Gysmo_YT,1,False,,0,VALORANT,,1689489467.0,,1,0
+js5wyrg,"for god sake fix for asia pacific valo server, and in game door bugs",Pale_Ad4749,1,False,,0,VALORANT,,1689491821.0,,1,0

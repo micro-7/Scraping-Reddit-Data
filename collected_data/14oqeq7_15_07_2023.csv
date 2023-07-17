@@ -1,0 +1,137 @@
+comment,id,author_is_blocked,comment_type,banned_by,total_awards_received,subreddit,likes,author,created_utc,score,ups,downs
+"Why feedback connections aren’t used as much? I know residual connections are useful and they kinda help prevent the loss of data and conceptually are somewhat similar to the USM.
+The intuition behind the feedback connection is improving the response of a neuron that might otherwise predict feature incorrectly, but the global context might fix it",jrrxeit,False,,,0,MachineLearning,,Top-Bee1667,1689233111.0,9,9,0
+I'm trying to implement the original transformer model from scratch in Pytorch and wanted to train it to do English to Czech translation. Is it feasible to train such a model using a single A100 on Google COLAB?,jr82drt,False,,,0,MachineLearning,,Euphoric-Path4693,1688865678.0,8,8,0
+"Hey,
+For LSTMs i was wondering how do we know what to forget and what to remember via the gate. Do we manually set the thing to forget and filter or do we let the NN learn what to forget? If there's a good resource for this lmk. Thanks!",jqgshmj,False,,,0,MachineLearning,,No_Commercial5208,1688357453.0,6,6,0
+"Why would you compare models with different units?
+
+Trying to get my head around some basics. I'm reading about regression testing here (https://learn.microsoft.com/en-us/training/modules/create-regression-model-azure-machine-learning-designer/5-regression-steps), and how evaluating with RMSE only works for same-unit labels whereas RSE could be used to compare models if the labels are in different units.
+
+I might be displaying a fundamental lack of understanding here. It's my belief that a model is trained for a specific task, like predicting the weather temperature in Celsius OR predicting the humidity as a percentage. You can't use the same model for both outputs, because the 'model' itself is all the weightings/bias that go towards predicting one specific output.
+
+So, why would I need to compare the accuracy of one model against the other? Isn't that comparing apples to oranges?
+
+Many thanks",jqltbzp,False,,,0,MachineLearning,,berzed,1688454356.0,6,6,0
+"Hello, I was learning LSTM implementation in tensorflow. What's I known so far was that RNN are able to deal with sequence of data with arbitrary length, of course with long term memory problems.
+
+By the way, the models I'm studying have a TextVectorizer layer with a fixed input length, I understand that vectorization and embedding are crucial to perform NLP, but the fixed sentence length doesn't miss the purpose of the RNN completely.
+
+On the other hand, in understood that feeding the embedding into the RNN instead of a Dense layer is more efficient in extracting the spatial relation between subsequent tokens.
+
+Can someone clearify this concept for me?",jr6jzgw,False,,,0,MachineLearning,,AcquaFisc,1688841029.0,6,6,0
+Where can I find or purchase a large amount of PDF documents like Sales Orders?,jr8bhmt,False,,,0,MachineLearning,,BuckPrivate,1688870422.0,8,8,0
+"I have several image dataset on a specific domain. I was planning to merge them all together for training purpose but the images in different file formats such as .ppm, .tif, .gif, png and jpg. It would be really difficult to process the data later with different formats.
+
+Which file format should I consider?
+
+Will file format conversion degrade the quality or cause loss of information? What are the drawbacks?
+
+And what things should I take into account while merging datasets in such scenario?",jr8qrpx,False,,,0,MachineLearning,,champagneSupernova_a,1688879132.0,10,10,0
+How do yall find interesting GitHub projects to contribute to?,jr4i2n6,False,,,0,MachineLearning,,ironmagnesiumzinc,1688798201.0,5,5,0
+"Do I need to update anything on my PC to start using GPT-4 with the API?
+
+I have a python app and was using ""gpt-3.5-turbo"" as my model value. It works fine with that.
+
+I heard about the gpt-4 general availability today and say it's available to everyone, so I switched the value in my ""model"" variable to ""gpt-4"" and I started getting an invalid request error. Also tried ""gpt-4-0613"", same thing.
+
+Do I need to update some local libraries or something like this?",jqywcfp,False,,,0,MachineLearning,,123android,1688693593.0,5,5,0
+Does anyone know more about how Khanmigo implements the “magic” described in the following section of their TED talk? [khan academy video 12:00](https://m.youtube.com/watch?v=hJP5GqnTrNo),jrpvngq,False,,,0,MachineLearning,,meyerhot,1689194904.0,5,5,0
+"Tips for getting into ML and AI
+I'm currently an undergraduate student (joint math / comp sci) who's having a lot of trouble getting internship positions or placements. I'd love some advice as to how you got into the field!
+I've also finished a number of Udemy certificates on ML and DML. I'm working through the Mathematics behind machine learning MIT free course. I'm a solid B:B+ student and I love what I'm doing, just want to get some experience :)",jr1egoo,False,,,0,MachineLearning,,ToeIntelligent8232,1688745787.0,4,4,0
+any datasets of privacy policies/ terms of services?,jr5lxt8,False,,,0,MachineLearning,,petrolsan,1688826147.0,4,4,0
+"URGENT: need help with training an object detection model in azure machine learning studio
+
+I’m trying to develop an object detection model. I have created my training data using the azure data labeling service. I have tried training my model using a no code Automated ML job (using yolov5 algorithm) and by actually coding in a notebook. For both methods, When I run the job my metrics all turn out to be 0% and I’m not sure what’s happening. 
+
+I’m using the default training parameters for yolov5. 
+
+Anyone know what kind of issue this may be? I can give more details if needed.",jryfonr,False,,,0,MachineLearning,,tolstoysymphony,1689353818.0,4,4,0
+"So, I was reading recently about the problems RNN tried to solve and it came to me, isn’t transformer just an RNN is disguise?
+I mean, forget about all of that attention mechanisms for a moment, Mixer showed that it works well even without it.
+Don’t they basically take the same input through skip connections and the previous output of an identical layer in encoder? I know the approach they take at processing sequential data is different.
+Also, funny enough how LayerNorm stabilised both of those models",js01jnm,False,,,0,MachineLearning,,Puzzleheaded-Pie-322,1689377297.0,5,5,0
+"Could anyone help me to determine which result is more ""correct""? Here is the  stackoverflow question that I asked [https://stackoverflow.com/questions/76621148/could-anyone-help-to-identify-whether-my-inception-algorithm-machine-learning-co](https://stackoverflow.com/questions/76621148/could-anyone-help-to-identify-whether-my-inception-algorithm-machine-learning-co).  
+
+
+I am mostly confused on whether is it okay for my confusion matrix to have a lot of 0 value in it",jquswo6,False,,,0,MachineLearning,,Smarkite,1688621884.0,3,3,0
+"I'm currently training a small neural network on my laptop and am confused as to why adding more training data is making my model's accuracy on test data worse. I am using sklearns train_test_split to split my train and test data. 
+
+My laptop is slow and the data I'm using requires a lot of preprocessing, so I've been slowly adding it over time. I'm noticing that as I'm adding more data, my model's accuracy on the test data is getting worse. 
+
+Is this a sign of under fitting? I'm considering adding more parameters to my neural network but I'm not sure if this would be effective. I currently have roughly 600,000 lines of data with an input size of 773 and 300 neurons in my hidden layers. 
+
+Sorry if this is a stupid question as I am new to machine learning",jqxzhjm,False,,,0,MachineLearning,,boring_pencil,1688678966.0,3,3,0
+"Untrained noob here. Thanks in advance for reading my question. 
+
+I have been working on noise reduction algorithms for digitized audio converts from vinyl. At present I have a noise detector (crude, well-sensitive, but not specific to my standards) and a couple noise remediators. 
+
+Right now I am focused on improving detector specificity. I have identified 3 parameters I think will help improve this:
+
+* z-score
+* raw\_waggle\_score
+* waggle\_score\_diff\_from\_peers
+
+I've noted that as z-score increases, specificity increases (exponentially?). Similarly for waggle\_score\_diff\_from\_peers, although the curve is not so steep. And for raw\_waggle\_score, perhaps there is a linear increase in sensitivity throughout the range. 
+
+My question is: Given what I've said about this model so far, What would would you do next? I am considering making a scoring algorithm based on these three params but I would be picking coefficients out of the blue. What would you do? 
+
+(I really am untrained, but I love to learn -- so if there's a subject you can recommend I study please do tell!)",jr2wk0d,False,,,0,MachineLearning,,feirnt,1688767451.0,3,3,0
+"When doing few-shot prompting with GPT, is it better to put the setup and examples in the system message or just combine it with the final task in the user message?  Are there any papers exploring variations like this?",jr6j9yp,False,,,0,MachineLearning,,throwaway2676,1688840733.0,3,3,0
+"Hey everyone, **I'm currently in the process of catching up on my math skills to prepare for a Master's degree in Machine Learning**. I have a background in philosophy and haven't had much exposure to math since school. However, I have experience with NLP, Python coding, and work with SQL in my job. I've been studying diligently for about six months, primarily using the book ""Math for Machine Learning.""
+
+At this point, I'm looking for guidance on specific topics I should prioritize and how to make my studying more efficient. Here's a summary of my current approach:Source: I've been using **""Math for Machine Learning"" (**[**https://mml-book.github.io/**](https://mml-book.github.io/)**)** as my main resource. It has been helpful in establishing a foundation for mathematical concepts relevant to machine learning. Additionally, I complement my studies by watching related YouTube tutorials.Time: I dedicate approximately 1-1.5 hours every morning before work, and I utilize train travel time on weekends to study the scripts I've written. Overall, I invest around 12 hours per week, sometimes more, sometimes less.
+
+Currently, I'm on page 125 out of 400 in the book. Since I had already studied some math fundamentals before starting, I don't have an exact timeline of when I began.Now, I would greatly appreciate your advice on the following:
+
+**Essential Topics:** What are the key math topics that I should focus on before embarking on a Master's degree in Machine Learning? Do I need to cover everything in the ""Math for Machine Learning"" book, or are there specific areas that are more important for exams and practical coding?
+
+**Additional Resources:** Are there any other books or resources that you found helpful in your own math journey for machine learning? I'm open to exploring supplementary materials that can enhance my understanding.
+
+**Efficient Studying:** How can I make my studying more efficient while striking a balance between theory and practical application? Any study techniques or tips you can share would be invaluable.I appreciate your time and insights. Thank you in advance for any advice you can provide to help me on this math-learning journey for Machine Learning!
+
+**TL;DR:** I've been catching up on math for the past six months to prepare for a Master's degree in Machine Learning. I'm using the book ""Math for Machine Learning"" but need advice on what topics to focus on and how to study more efficiently. Suggestions on essential math topics, additional resources, and study techniques would be greatly appreciated.  
+
+
+EDIT: Sorry, I cannot open a new threat and dont know where else to post this.",jqsq6p9,False,,,0,MachineLearning,,hardtomake,1688586480.0,6,6,0
+"1) Is it possible to make a transformer that takes tree data strucutres as input? I want to try something like AST processing but I don't know how to encode something so oddly shaped.
+
+2) Is there a way to make a crappy estimate of training that finishes super quickly? Like train 100x faster at the cost of degraded accuracy?
+
+3) For the price of a single GTX 3090, how much CPU power could one get? How many CPUs are actually needed to equal one? Are GPU FLOPS fundamentally cheaper than CPU FLOPS? Are 100 32MHz cpus cheaper than one 3.2 GHz CPU? What are the economics of small-scale compute like?",jqxdosf,False,,,0,MachineLearning,,Zondartul,1688670563.0,2,2,0
+Can visual transformers like VIT in theory learn natural language internal semantics just by looking at pictures with text?,jrd2fg6,False,,,0,MachineLearning,,Desu1725,1688961529.0,2,2,0
+"If I’m enrolled in an online masters program, would I still qualify as a candidate for internships or are internships primarily reserved for more traditional university programs",jrkd09c,False,,,0,MachineLearning,,qqMuff1n,1689099079.0,2,2,0
+"Unsure if this is simple, but thought someone might be able to help. 
+
+I have a sensor that essentially outputs a sinusoidal-like output, with some irregularity. It spits out values \~20 Hz. I want to be able to predict the upcoming peaks and troughs in data ahead of time. Ideally, the code would get measurements for a minute, then accurately predict the peaks and troughs ahead of time depending on the current measures that are coming from the sensor. If it is helpful, the actual peaks and troughs occur between 1-3 Hz.",jqejijj,False,,,0,MachineLearning,,ddderttt,1688318904.0,1,1,0
+[deleted],jqema51,False,,,0,MachineLearning,,,1688320100.0,1,1,0
+"What's the best way to deal with large datasets composed of many small files?  I have several different machines I use for training, and so currently all datasets are copied to a local SSD on each of them.  But, managing all these copies as I add datasets is getting very annoying, ensuring that the files are consistent between machines.  So I thought about centralizing the files and mounting them via NFS, but for training this of course slows things down.
+
+Additionally I want to do some training on cloud machines, but uploading these datasets to a blob/object storage and mounting the whole thing as a FUSE drive will I think also be really too slow, and I'll have yet another copy of everything to deal with.
+
+Anyone have any best practices here?  I want to start using a distributed data management system like DVC, but I'm also wondering if there are any good solutions to centralized data management.",jqfpr14,False,,,0,MachineLearning,,radarsat1,1688337415.0,1,1,0
+"I'm completely new and have no experience, where should I start?",jqvk0oi,False,,,0,MachineLearning,,Swifty1m,1688642708.0,1,1,0
+"Can we start requiring a flair or title tag for posts that involve relying on third-party APIs such as OpenAI's services? I'm interesting seeing what's new in the space, but it's getting tiring getting to the end and reading it's nothing new and intuitive and simply an app powered by ChatGPT or something.
+
+I don't mean to diminish someone's work or project, but rather I would like to know of new and innovating releases.",jr09s0d,False,,,0,MachineLearning,,CallMeInfinitay,1688726126.0,1,1,0
+Is there a way to calculate the information content of sentences/conversation? Id like to rank participants in conversations based on it somehow. Any leads would be greatly appreciated!,jrg6ewd,False,,,0,MachineLearning,,abs_zscore,1689020953.0,1,1,0
+"Are you allowed to ask for help on how to run a program? I am trying to run a GAN (code on github) but I am unable to do it, and I don't have much experience.",jrgucz3,False,,,0,MachineLearning,,Intelligent-Bend-712,1689030812.0,1,1,0
+"Hi all,  
+
+
+Please, has anyone ever worked on estimating the carbon footprint of a chatbot model via GCP/Dialogflow API before?",jrhl1q4,False,,,0,MachineLearning,,Chukoz71,1689043277.0,1,1,0
+"Hi, i am avid gamer and an economy and data science student. I am looking to upgrade my gpu to a newer generation graphics card that can allownke both gaming and the leisure of running some lighter dl algoriths for data analytics. I was looking at rtx 4070 12gb for a decently priced hardware. Alternatively a sh 3090 would be in the same range (but i would rather avoid buyong used). Do you have any personal experience with those cards that you can share or advice on what other card would be a good purchase. Thanks",jrigz3d,False,,,0,MachineLearning,,RiceSwindler,1689064735.0,1,1,0
+"Hey, I have a question, I am recently going into the field of machine learning and soon deep learning. Can anyone guide me on what to learn first which can help me in learning machine learning?",jrjsj6h,False,,,0,MachineLearning,,Infamous_reaper8007,1689091181.0,1,1,0
+"Hey, I'm wondering if anyone can point me towards the high level steps I need to take to achieve what I'm trying to do
+
+I want to learn OpenCV and TF/Keras by building something that could recognise a subset of known album artworks sitting on a white table background. I've figured out how to recognise the album, and perspective transform it to the original aspect ratio. 
+
+If I have a directory of high res scans of the albums I want to recognise, where do I start with training a model that could recognise and correctly identify them in good lighting? I understand I'd need to distort them to create good training data for a real world scenario but I'm hoping I can get away with avoiding that for now to focus on creating the model. Is that realistic?",jrmw16n,False,,,0,MachineLearning,,nodevon,1689141166.0,1,1,0
+"I wanted to kindly ask for resources for the theory of LLM models. I have a strong mathematical background but a weak understanding on the theoretical side of neural networks. I don't mind starting from the very basics (in fact, I would greatly appreciate it a long self-contained approach!)
+
+Thanks for the help!",jrnt8a2,False,,,0,MachineLearning,,RageA333,1689165198.0,1,1,0
+"I'm trying to find object detection models pretrained on the coco dataset. Looking at this site: [https://keras.io/api/applications/](https://keras.io/api/applications/) , all the models were trained on images with size of about 250x250. My image size is 1024x1024. Would such models work fine with 4x higher image size or no? Is there anywhere I can find models pretrained on higher dimension images? I know about tf hub but I would like them in keras and not native tensorflow. Thanks",jrnwujy,False,,,0,MachineLearning,,Rough-Exercise7213,1689166998.0,1,1,0
+"I was looking through the documentation for various tiktok filters and a lot of these claim to use some sort of generative model. In the past, I’ve seen CycleGAN used to do aging or anime face, but filters like [Slanted Smile](https://effecthouse.tiktok.com/slanted-smile/) seem to be doing some sort of compositing to avoid artifacts. It’s like they are pasting a slanted smile over the mouth and then using a GAN to blend it in. 
+
+What sort of model do you use for that?",js2ax5w,False,,,0,MachineLearning,,onedeskover,1689427764.0,1,1,0
