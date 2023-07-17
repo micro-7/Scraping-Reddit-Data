@@ -9,3 +9,6 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+
+
+![11](https://github.com/micro-7/Scraping-Reddit-Data/assets/85353517/7493b13c-a0d4-4e9e-9754-6f1f629382a1)
