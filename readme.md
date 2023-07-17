@@ -18,3 +18,7 @@ streamlit run app.py
 ![13](https://github.com/micro-7/Scraping-Reddit-Data/assets/85353517/6f148b6b-d43c-4266-867e-fb496e114f01)
 
 ![14](https://github.com/micro-7/Scraping-Reddit-Data/assets/85353517/a203d23f-c4ef-4774-b226-ccba6422de0a)
+
+![15](https://github.com/micro-7/Scraping-Reddit-Data/assets/85353517/87ec26de-c30f-4ad8-b9bf-9682aba1bec8)
+
+![16](https://github.com/micro-7/Scraping-Reddit-Data/assets/85353517/37481f01-0f26-4ccf-9fdb-cbc18ca94394)
